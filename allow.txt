@@ -1,5 +1,5 @@
-! Version: 2024-04-23 20:25:16（北京时间） 
-! Total count: 4824
+! Version: 2024-04-24 09:01:41（北京时间） 
+! Total count: 4828
 @@$csp=worker-src 'none',domain=uptostream.com
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -694,7 +694,9 @@
 @@/js/ads.$domain=shrinklink.co
 @@/js/ads.js|$script,~third-party,domain=~internethaber.com|~knaqu.tv
 @@/js/advert.js$~third-party
+@@/js/countd.js?rand=$script,stealth=referrer,domain=financemonk.net
 @@/js/fuckadb.js$~third-party,domain=megaurl.in
+@@/js/google-adsense.js$domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*
 @@/js/jquery.smartbanner.js$domain=fiyatseyir.com|greyhound.com|amalgama-lab.com|m.halkbank.com.tr|intime.ua|avic.ua|mirage.ru|speedtest.net|energy.de|hermesworld.com|lekvapteke.ru|yalispor.com.tr|metroturizm.com.tr|anadolu.edu.tr|whatpub.com[Adblock Plus 2.0]
 @@/js/prebid-$domain=huruwo.top
 @@/js/prebid-ads.js$~third-party,domain=vippaste.xyz|sharetext.me|getpaste.link|pastebr.xyz
@@ -1408,6 +1410,7 @@
 @@||apis.google.com
 @@||apis.google.com/js/plusone.js$domain=pornhub.com
 @@||apis.google.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
+@@||apis.wavve.com/fz/streaming$domain=wavve.com,stealth=ip
 @@||apissl.ksapisrv.com^$important
 @@||apk.tw^*/ads.js$script,~third-party
 @@||apkpure.com^$generichide
@@ -4203,6 +4206,7 @@
 @@||stream.nbcsports.com/assets/page/general/ads.js
 @@||stream.voidboost.cc^$stealth
 @@||streamingcommunity.*/*.js
+@@||streammovie.club/video/$stealth=referrer
 @@||streamwish.com/js/dnsads.js?ads
 @@||stripe.com$domain=pay.openai.com
 @@||studcat.infra.systems^$important
