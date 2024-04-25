@@ -1,5 +1,5 @@
-! Version: 2024-04-24 20:28:57（北京时间） 
-! Total count: 4953
+! Version: 2024-04-25 09:01:14（北京时间） 
+! Total count: 4954
 @@$csp=worker-src 'none',domain=uptostream.com
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -696,7 +696,7 @@
 @@/js/advert.js$~third-party
 @@/js/countd.js?rand=$script,stealth=referrer,domain=financemonk.net
 @@/js/fuckadb.js$~third-party,domain=megaurl.in
-@@/js/google-adsense.js$domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*
+@@/js/google*.js$domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*
 @@/js/jquery.smartbanner.js$domain=fiyatseyir.com|greyhound.com|amalgama-lab.com|m.halkbank.com.tr|intime.ua|avic.ua|mirage.ru|speedtest.net|energy.de|hermesworld.com|lekvapteke.ru|yalispor.com.tr|metroturizm.com.tr|anadolu.edu.tr|whatpub.com[Adblock Plus 2.0]
 @@/js/prebid-$domain=huruwo.top
 @@/js/prebid-ads.js$~third-party,domain=vippaste.xyz|sharetext.me|getpaste.link|pastebr.xyz
@@ -1298,7 +1298,6 @@
 @@||amazon.*/*/dp$stealth
 @@||amazon.com/*/signin$stealth
 @@||amazon.com/gp/redirect.html
-@@||amazonaws.com/graphql$stealth
 @@||amazonaws.com/storage.liveabc.com/ads/$domain=store.liveabc.com
 @@||amdc.m.taobao.com^
 @@||amdcopen.m.taobao.com^$important
@@ -1396,7 +1395,6 @@
 @@||api.mercari.jp^$stealth
 @@||api.mi-img.com^$stealth=referrer
 @@||api.micloud.xiaomi.net^$important
-@@||api.minecraftservices.com^$stealth
 @@||api.miui.security.xiaomi.com^$important
 @@||api.miwifi.com^$important
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
@@ -1841,6 +1839,7 @@
 @@||changyan.sohu.com/debug/cookie?
 @@||changyou.com^$generichide
 @@||chat.openai.com^$stealth
+@@||chathispano.com/kiwi/$stealth=referrer
 @@||chaturbate.com/*embed^$domain=chatterbate.org|uuu.cam
 @@||chaturbate.com/*embed^$domain=sweetpornlinks.com
 @@||chaturbate.com/in/$subdocument,domain=cbhours.com|pussyspace.com|pussyspace.net|lemoncams.com
@@ -1867,6 +1866,7 @@
 @@||chtoen.com/js/adsbygoogle.js
 @@||chuangkit.com^$generichide
 @@||cibntv.net/youku/*.mp4?$domain=v.youku.com
+@@||cimanow.cc/wp-content/themes/Cima%20Now%20New/Assets/js/gpt.js
 @@||cinema.pia.co.jp/img/ad/$image,~third-party
 @@||citibank.com/*/branding/
 @@||citysbs.com^*/swfupload/
@@ -2079,6 +2079,7 @@
 @@||digit77.com^$generichide
 @@||dilidili.live^
 @@||direct.wap.zol.com.cn^
+@@||directline.botframework.com^$stealth
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
 @@||disneyplus.bn5x.net^$important
@@ -2433,6 +2434,7 @@
 @@||gelbooru.com/script/lazyload.js
 @@||genesyslogic.com^*/ads$~third-party
 @@||genshuixue.com/??/*/counter/action_
+@@||geo.dailymotion.com/player/*.html$stealth=referrer,domain=filmstarts.de
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geoip.redirect-ads.com^$subdocument,third-party
 @@||get.sogou.com^$important
@@ -2901,7 +2903,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl|tvp.info
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.deejay.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.lastampa.it
@@ -3494,7 +3495,6 @@
 @@||o2o.api.xiaomi.com^$important
 @@||oasjs.kataweb.it/adsetup*.js$domain=huffingtonpost.it
 @@||oasjs.kataweb.it/adsetup*.js$domain=video.lastampa.it
-@@||oasjs.kataweb.it/adsetup.real.js$domain=video.capital.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.deejay.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.repubblica.it
 @@||oasjs.kataweb.it/adsetup_cmp.js$domain=repubblica.it
@@ -3741,6 +3741,7 @@
 @@||player.ex.co/player/$domain=si.com
 @@||player.ex.co/player/$domain=thestreet.com
 @@||player.ex.co/player/$script,domain=theautopian.com
+@@||player.glomex.com^$subdocument,stealth=referrer
 @@||player.hoge.cn/advertisement.swf
 @@||player.mediavitrina.ru^$stealth=referrer
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
