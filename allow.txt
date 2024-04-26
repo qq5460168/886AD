@@ -1,5 +1,5 @@
-! Version: 2024-04-26 08:58:57（北京时间） 
-! Total count: 4958
+! Version: 2024-04-26 20:25:53（北京时间） 
+! Total count: 4955
 @@$csp=worker-src 'none',domain=uptostream.com
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -440,7 +440,6 @@
 @@.org/xxgg/bookxxll*.js$~third-party
 @@.org/xxgg/comm.js$~third-party
 @@.org/xxgg/yuedu.js$~third-party
-@@.php?play_vid=$subdocument,stealth=referrer,domain=xyflv.cc
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
 @@.ru.com/*/tracks-$xmlhttprequest,stealth
 @@.ru/premiumtv/*.php*$subdocument,xmlhttprequest,stealth=referrer
@@ -1119,6 +1118,7 @@
 @@||ad.ettoday.net/msg_liveshow.php^$domain=ettoday.net
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^$important
+@@||ad.nl/ad/
 @@||ad.ourgame.com^
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
 @@||ad.thsi.cn/siteHome/
@@ -1176,6 +1176,7 @@
 @@||ads.google.com^$domain=ads.google.com|analytics.google.com
 @@||ads.google.com^$popup
 @@||ads.imprezzer.com/js/$script,domain=mgronline.com
+@@||ads.korri.fr/index.js$domain=dogefaucet.com
 @@||ads.lingxing.com^$~third-party
 @@||ads.microsoft.com^$popup
 @@||ads.midwayusa.com^$popup
@@ -2805,7 +2806,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=babygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=baltimoresun.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bestgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bighero.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.htmlgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.witchhut.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chili.com
@@ -3229,7 +3229,6 @@
 @@||login.wmtransfer.com^$stealth
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
-@@||logo.clearbit.com^$image,domain=securitytrails.com
 @@||logs.game.qq.com^$important
 @@||loki.delve.office.com/api/$stealth
 @@||lol.qq.com^$important
@@ -3307,7 +3306,6 @@
 @@||media.jd.com/static/*/ad
 @@||media.kijiji.ca/api/$image,~third-party
 @@||media.org.hk^*/ads_
-@@||media.salemwebnetwork.com/adverts/advertisement.js$domain=biblestudytools.com
 @@||media.studybreakmedia.com/doubleclick/ads2.js
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
 @@||media.wired.it/static_wired/js/misc/cn-adv.js
@@ -4116,7 +4114,6 @@
 @@||shouji.sogou.com^
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
-@@||showcase.codethislab.com/banners/$image,~third-party
 @@||shutterbug.com^$elemhide
 @@||simba.taobao.com/?name=mcad$script
 @@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com
@@ -4290,6 +4287,7 @@
 @@||static.webshark.pl/adserver/*/main_script.js?advertise_check=1
 @@||static.youporn.phncdn.com/cb/assets/css/$domain=youporn.com
 @@||statics.itc.cn^$important
+@@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
 @@||stats.gc.apple.com^
 @@||statsig.com^
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
@@ -4477,7 +4475,6 @@
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||track.adform.net/*cpdir=$popup,domain=pepper.*
 @@||track.sohu.com^
-@@||track.toggl.com/auth^$stealth
 @@||track.webgains.com/click.html?$popup,domain=pepper.*
 @@||tracker.ai.xiaomi.com^
 @@||tracker.ai.xiaomi.com^$important
