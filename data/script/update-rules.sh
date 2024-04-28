@@ -14,24 +14,30 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/-/main/black.txt"
-  "https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt"
-  "https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt"
- 
-  "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt"
-  "https://raw.hellogithub.com/hosts"
-  "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
-
-"https://raw.githubusercontent.com/qq5460168/-/main/white.txt"
-
-""
+  "https://anti-ad.net/easylist.txt"#anti
+  "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"#adgk手机去广告规则
+  "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt"#自己的
+  "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"#大萌主
+  "https://adrules.top/dns.txt"#AdRules DNS List
+  "https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt"#xndeye Adblock List
+  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"#DD
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt"#HaGeZi's Light DNS Blocklist
+  "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt"#adg-kall-dns
+  "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt"#AdRules DNS Filter
+  "https://raw.hellogithub.com/hosts"#加速
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"#秋风
+  "https://www.xlxbk.cn/dns.txt"#xlxbj_dns
+  ""
+  ""
+  ""
+  
+  
+  
  )
 
 allow=(
-  "https://raw.githubusercontent.com/qq5460168/-/main/white.txt"
-#anti白名单
-＂https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt＂
-  
+  "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt"
+
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
