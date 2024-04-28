@@ -1,5 +1,5 @@
-! Version: 2024-04-29 01:40:24（北京时间） 
-! Total count: 896
+! Version: 2024-04-29 04:08:51（北京时间） 
+! Total count: 903
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
@@ -170,6 +170,7 @@
 @@||bootcdn.net^$important
 @@||boxer.baidu.com^
 @@||boxer.baidu.com^$important
+@@||broadcastlv.chat.bilibili.com^
 @@||broccoli.uc.cn^$important
 @@||browser.360.cn^$important
 @@||browser.events.data.msn.com^$important
@@ -188,6 +189,7 @@
 @@||cc.map.qq.com^$important
 @@||cdn-msp*.18comic.*^
 @@||cdn.ark.qq.com^$important
+@@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||cdn.jsdelivr.net^$important
 @@||cdn77-vid.xvideos-cdn.com^$important
@@ -223,6 +225,7 @@
 @@||connect.rom.miui.com^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
+@@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||content-autofill.googleapis.com^$important
 @@||core.tantanapp.com^$important
 @@||counter-strike.net^$important
@@ -481,6 +484,7 @@
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
 @@||log1.cmpassport.com^$important
+@@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||logs.game.qq.com^$important
 @@||lol.qq.com^$important
 @@||lpl.qq.com^$important
@@ -623,6 +627,7 @@
 @@||qappcenterv6.3g.qq.com^$important
 @@||qhres2.com^
 @@||qhres2.com^$domain=baike.so.com
+@@||qlogo.cn^
 @@||qlogo.cn^$important
 @@||qn.cache.wpscdn.cn^$important
 @@||qnmob3.doubanio.com^
@@ -669,6 +674,7 @@
 @@||sf3-pitaya-tos.pstatp.com^$important
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||share.myfreecams.com^$important
+@@||shminorshort.weixin.qq.com^
 @@||shouji.sogou.com^
 @@||simg.sinajs.cn^$important
 @@||sina.cn^$important
@@ -713,6 +719,7 @@
 @@||subscription.iqiyi.com^
 @@||sug.browser.miui.com^
 @@||sugar.zhihu.com^$important
+@@||support.weixin.qq.com^
 @@||sysdk.cl2009.com^$important
 @@||szlong.weixin.qq.com^
 @@||szmg.qq.com^
