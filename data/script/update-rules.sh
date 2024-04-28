@@ -14,23 +14,21 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://anti-ad.net/easylist.txt"#anti
-  "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"#adgk手机去广告规则
-  "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt"#自己的
-  "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"#大萌主
-  "https://adrules.top/dns.txt"#AdRules DNS List
-  "https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt"#xndeye Adblock List
-  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"#DD
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt"#HaGeZi's Light DNS Blocklist
-  "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt"#adg-kall-dns
-  "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt"#AdRules DNS Filter
-  "https://raw.hellogithub.com/hosts"#加速
-  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"#秋风
-  "https://www.xlxbk.cn/dns.txt"#xlxbj_dns
-  ""
-  ""
-  ""
+  "https://hub.gitmirror.com/https://raw.githubusercontent.com/qq5460168/-/main/black.txt" #5460
+  "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt" #大萌主
+  "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"  #DD
+  "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt" #AdRules DNS Filter
+  "https://raw.hellogithub.com/hosts" #GitHub加速
+  "https://raw.githubusercontent.com/qq5460168/dangchu/main/0608.txt" #测试hosts
+  "https://raw.githubusercontent.com/qq5460168/-/main/white.txt" #白名单
+  "https://raw.githubusercontent.com/loveqqzj/AdGuard/master/Mobile.txt" #loveqqzj
+  "https://raw.githubusercontent.com/coco86p1sz/Self-use_AdguardRules/master/Self-userPhoneAdguardRules.txt" #coco86p1sz
+  "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt" #mphin
+  "" #
+  "" #
+ 
   
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
   
   
  )
