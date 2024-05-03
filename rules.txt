@@ -1,4 +1,4 @@
-! Version: 2024-05-03 08:38:50（北京时间） 
+! Version: 2024-05-03 12:11:12（北京时间） 
 ! Total count: 11923
  ! 某些其他
  #晴雅规则
@@ -6,7 +6,7 @@
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-05-02T23:52:58+08:00
+# Update time: 2024-05-03T03:53:04+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -9391,9 +9391,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ＃去除丰巢新版取件码页面广告
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
+3.5.17.101                    github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
-16.182.74.129                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -9403,9 +9403,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52.216.132.179                github-com.s3.amazonaws.com
-52.216.38.153                 github-cloud.s3.amazonaws.com
-52.217.162.73                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.232.113                github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.171.81                 github-production-user-asset-6210df.s3.amazonaws.com
+54.231.230.49                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 64.233.188.188 mtalk.google.com
 64.233.189.188 alt1-mtalk.google.com
 74.125.200.188 alt8-mtalk.google.com
@@ -11904,6 +11904,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -11912,11 +11913,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 185.199.108.133               objects.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
+185.199.108.154               github.githubassets.com
 185.199.109.153               assets-cdn.github.com
 185.199.109.153               github.io
 185.199.109.153               githubstatus.com
-185.199.111.133               camo.githubusercontent.com
-185.199.111.154               github.githubassets.com
 192.0.66.2                    github.blog
 216.239.32.40 clients1.google.com
 216.239.32.40 translate-pa.googleapis.com
