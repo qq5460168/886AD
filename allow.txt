@@ -1,5 +1,5 @@
-! Version: 2024-05-04 16:09:21（北京时间） 
-! Total count: 913
+! Version: 2024-05-04 20:12:27（北京时间） 
+! Total count: 914
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
@@ -339,7 +339,6 @@
 @@||flydigi.com^
 @@||flyme.cn^$important
 @@||fonts.gstatic.com^$important
-@@||forum.javcdn.cc/i.imgur.com/$domain=javbus.com
 @@||fp-it.fengkongcloud.com^
 @@||fp.tongdun.net^
 @@||fraudmetrix.cn^
@@ -381,6 +380,7 @@
 @@||gw-paopao.iqiyi.com^$important
 @@||gw.alicdn.com^$important
 @@||h-adashx.ut.taobao.com^$important
+@@||h.trace.qq.com^$important
 @@||h5.m.taobao.com^$important
 @@||h5.mse.360.cn^
 @@||haohuo.jinritemai.com^ 
@@ -575,6 +575,7 @@
 @@||orange-dc.alibaba.com^$important
 @@||orbit.jd.com^
 @@||oss-asq-static.11222.cn^$important
+@@||otheve.beacon.qq.com^$important
 @@||p*.music.126.net^$important
 @@||p16-tiktokcdn-com.akamaized.net^$important
 @@||p26-sign.toutiaoimg.com^$important
