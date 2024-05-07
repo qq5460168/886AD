@@ -1,5 +1,5 @@
-! Version: 2024-05-07 20:14:04（北京时间） 
-! Total count: 914
+! Version: 2024-05-08 00:08:43（北京时间） 
+! Total count: 916
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
@@ -142,6 +142,7 @@
 @@||appcloud.zhihu.com^$important
 @@||appcloud2.zhihu.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
+@@||appdownload.alicdn.com^$important
 @@||appimg.dbankcdn.com^$important
 @@||appmsg.gzmtr.cn^$important
 @@||appsupport.qq.com^$important
@@ -563,6 +564,7 @@
 @@||nav.browser.miui.com^
 @@||netease.com^$important
 @@||nishub1.10010.com^$important
+@@||nmobi.kuwo.cn^$important
 @@||nsclick.baidu.com^$important
 @@||nstool.netease.com^$important
 @@||o.actio.systems^$important
