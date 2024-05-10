@@ -1,5 +1,5 @@
-! Version: 2024-05-10 16:10:51（北京时间） 
-! Total count: 11806
+! Version: 2024-05-10 20:13:53（北京时间） 
+! Total count: 11808
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-05-10T07:53:00+08:00
+# Update time: 2024-05-10T11:52:58+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -297,6 +297,7 @@
 ##[href='https://click.aliyun.com/m/1000332699/']
 ##[href='https://dpurl.cn/HifSTUtz']
 ##[href='https://okok.com.tw/']
+##[href='https://ttaxz087b.xyz']
 ##[href='https://www.aiwajbh.com/mh.php']
 ##[href^="https://9996867.com"]
 ##[href^="https://lantianyong"]
@@ -9284,8 +9285,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
 16.182.107.1                  github-production-user-asset-6210df.s3.amazonaws.com
-16.182.38.201                 github-com.s3.amazonaws.com
 16.182.98.169                 github-production-release-asset-2e65be.s3.amazonaws.com
+18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -9295,6 +9296,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52.217.232.249                github-cloud.s3.amazonaws.com
+52.217.235.201                github-com.s3.amazonaws.com
 52.217.87.108                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 64.233.177.188 alt7-mtalk.google.com
 64.233.188.188 mtalk.google.com
