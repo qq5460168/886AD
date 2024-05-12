@@ -1,5 +1,5 @@
-! Version: 2024-05-12 16:10:22（北京时间） 
-! Total count: 916
+! Version: 2024-05-12 20:14:42（北京时间） 
+! Total count: 917
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
@@ -386,6 +386,7 @@
 @@||h5.mse.360.cn^
 @@||haohuo.jinritemai.com^ 
 @@||haohuo.snssdk.com^
+@@||haokan.baidu.com^$important
 @@||hermes.hupu.com^$important
 @@||hls3-cf.xvideos-cdn.com^$important
 @@||hls9-cf.xvideos-cdn.com^$important
