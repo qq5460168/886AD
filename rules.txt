@@ -1,5 +1,5 @@
-! Version: 2024-05-15 12:10:08（北京时间） 
-! Total count: 11827
+! Version: 2024-05-15 16:10:47（北京时间） 
+! Total count: 11829
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-05-15T03:53:19+08:00
+# Update time: 2024-05-15T07:53:34+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -2253,7 +2253,9 @@ zb.zhaobiao.cn##.enrol_ad
 zb.zhaobiao.cn##div.box:nth-child(5) > div.advertisement.box:nth-child(2)
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com###qb-side
+zhidao.baidu.com###wap-youx-change-asp
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
+zhidao.baidu.com##[class$='-ecom-ads']
 zhidao.baidu.com##button[class*="task-list-button"]
 zhidao.baidu.com##div.jump-top-box:last-child > a.jump-goto-star:last-child
 zhihu.com##.Banner.Card, .shameimaru-section, .Banner-image, .Banner-image
@@ -9303,8 +9305,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
-16.182.107.1                  github-production-user-asset-6210df.s3.amazonaws.com
-16.182.35.225                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.182.38.201                 github-com.s3.amazonaws.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -9314,9 +9315,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-52.216.113.243                github-cloud.s3.amazonaws.com
-52.216.132.179                github-com.s3.amazonaws.com
-52.217.140.193                github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.218.121                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.166.105                github-cloud.s3.amazonaws.com
+52.217.202.137                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.230.49                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 64.233.177.188 alt7-mtalk.google.com
 64.233.188.188 mtalk.google.com
 64.233.189.188 alt1-mtalk.google.com
@@ -11799,6 +11801,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
+185.199.108.133               media.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
 185.199.109.153               github.io
 185.199.109.153               githubstatus.com
@@ -11815,7 +11818,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
-185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
