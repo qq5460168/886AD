@@ -1,4 +1,4 @@
-! Version: 2024-05-21 12:10:11（北京时间） 
+! Version: 2024-05-21 16:11:13（北京时间） 
 ! Total count: 11946
  ! 某些其他
  #晴雅规则
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-05-21T03:53:18+08:00
+# Update time: 2024-05-21T07:53:14+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -9434,8 +9434,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52.216.113.243                github-cloud.s3.amazonaws.com
 52.216.218.121                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.140.193                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.87.108                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.18.52                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.202.137                github-production-release-asset-2e65be.s3.amazonaws.com
 64.233.177.188 alt7-mtalk.google.com
 64.233.188.188 mtalk.google.com
 64.233.189.188 alt1-mtalk.google.com
@@ -11913,19 +11913,19 @@ zol.com.cn##A.dingtong.xianshiyouhui
 142.250.157.188 alt5-mtalk.google.com
 142.251.10.188 alt7-mtalk.google.com
 142.251.8.188 alt6-mtalk.google.com
-151.101.1.194                 github.global.ssl.fastly.net
+151.101.193.194               github.global.ssl.fastly.net
 183.136.207.132 bigota.d.miui.com
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
+185.199.108.133               avatars2.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
-185.199.109.153               github.io
 185.199.109.153               githubstatus.com
+185.199.110.153               github.io
 185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
