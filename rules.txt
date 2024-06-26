@@ -1,4 +1,4 @@
-! Version: 2024-06-26 12:11:00（北京时间） 
+! Version: 2024-06-26 16:11:15（北京时间） 
 ! Total count: 11981
  ! 某些其他
  #晴雅规则
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-06-26T03:54:11+08:00
+# Update time: 2024-06-26T07:54:13+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -9478,10 +9478,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+52.216.169.99                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.220.185                github-cloud.s3.amazonaws.com
-52.217.138.81                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.135.1                  github-com.s3.amazonaws.com
-54.231.161.33                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.137.1                  github-production-user-asset-6210df.s3.amazonaws.com
+54.231.196.81                 github-com.s3.amazonaws.com
 64.233.177.188 alt7-mtalk.google.com
 64.233.188.188 mtalk.google.com
 64.233.189.188 alt1-mtalk.google.com
@@ -11934,11 +11934,11 @@ zol.com.cn##A.dingtong.xianshiyouhui
 127.0.0.1 zt.gifshow.com
 127.0.0.1 zt.jd.com
 140.82.112.10                 codeload.github.com
-140.82.112.22                 central.github.com
-140.82.112.26                 live.github.com
 140.82.112.5                  api.github.com
 140.82.113.17                 github.community
+140.82.113.21                 central.github.com
 140.82.113.22                 collector.github.com
+140.82.113.26                 live.github.com
 140.82.114.22                 education.github.com
 140.82.114.25                 alive.github.com
 140.82.114.3                  gist.github.com
@@ -11953,26 +11953,26 @@ zol.com.cn##A.dingtong.xianshiyouhui
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
 185.199.109.153               github.io
 185.199.109.153               githubstatus.com
 185.199.110.153               assets-cdn.github.com
 185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
 192.0.66.2                    github.blog
 216.239.32.40 android.googleapis.com
 216.239.32.40 clients1.google.com
