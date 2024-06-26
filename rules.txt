@@ -1,5 +1,5 @@
-! Version: 2024-06-26 20:18:16（北京时间） 
-! Total count: 11938
+! Version: 2024-06-27 00:11:16（北京时间） 
+! Total count: 11937
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -10666,7 +10666,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 127.0.0.1 imp.yoyi.com.cn
 127.0.0.1 inc2.igexin.com
 127.0.0.1 incoming-data-sense360.s3.amazonaws.com
-127.0.0.1 increase-openapi.soulapp.cn
 127.0.0.1 index.umeng.com
 127.0.0.1 info.3g.qq.com
 127.0.0.1 info.gdt.qq.com
