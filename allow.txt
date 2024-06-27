@@ -1,5 +1,5 @@
-! Version: 2024-06-27 12:12:07（北京时间） 
-! Total count: 921
+! Version: 2024-06-27 16:11:17（北京时间） 
+! Total count: 923
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
@@ -697,6 +697,7 @@
 @@||smsks1.cmpassport.com^$important
 @@||snssdk.com^
 @@||snssdk.com^$important
+@@||sobot.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
 @@||soft.360.cn^$important
@@ -730,7 +731,7 @@
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
 @@||store.heytapimage.com^$important
-@@||stripe.com$domain=pay.openai.com
+@@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^$important
 @@||subscription.iqiyi.com^
 @@||sug.browser.miui.com^
@@ -829,6 +830,7 @@
 @@||waimai-guide.ele.me^$important
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||wan.baidu.com^
+@@||wan.douyu.com^
 @@||wap.cmpassport.com^$important
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important

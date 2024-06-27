@@ -1,5 +1,5 @@
-! Version: 2024-06-27 12:12:07（北京时间） 
-! Total count: 11940
+! Version: 2024-06-27 16:11:17（北京时间） 
+! Total count: 11942
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -1592,6 +1592,7 @@
 @@||smsks1.cmpassport.com^$important
 @@||snssdk.com^
 @@||snssdk.com^$important
+@@||sobot.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
 @@||soft.360.cn^$important
@@ -1625,7 +1626,7 @@
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
 @@||store.heytapimage.com^$important
-@@||stripe.com$domain=pay.openai.com
+@@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^$important
 @@||subscription.iqiyi.com^
 @@||sug.browser.miui.com^
@@ -1723,6 +1724,7 @@
 @@||waimai-guide.ele.me^$important
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||wan.baidu.com^
+@@||wan.douyu.com^
 @@||wap.cmpassport.com^$important
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important
