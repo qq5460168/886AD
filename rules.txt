@@ -1,5 +1,5 @@
-! Version: 2024-06-27 08:39:23（北京时间） 
-! Total count: 11937
+! Version: 2024-06-27 12:12:07（北京时间） 
+! Total count: 11940
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -2698,6 +2698,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||a1.xn--w9qw2i396a4i5a.xn--fiqs8s^$important
 ||a13.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s^$important
 ||a168888.top^
+||a1bw2cup.top^
 ||a48505.cn^
 ||a4sz.xyz^
 ||a6-remad.qm989.com^
@@ -4494,6 +4495,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ecwmvlhy.com^
 ||ed.gumoda.top^
 ||edong.link^
+||edoshbw.top^
 ||edssnet.changchunets.com^
 ||eduizioq.com^
 ||eedudwr.cn^
@@ -4764,6 +4766,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fvxlhn.xyz^
 ||fw.qq.com^
 ||fwepd.xyz^
+||fwlrv.cn^
 ||fwmbjrl.cn^
 ||fwzvlp.xyz^
 ||fxbcpr.xyz^
