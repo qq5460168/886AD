@@ -1,5 +1,5 @@
-! Version: 2024-06-28 20:15:24（北京时间） 
-! Total count: 11942
+! Version: 2024-06-29 00:10:03（北京时间） 
+! Total count: 11941
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -4230,7 +4230,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||detail-adsapi.vivo.com.cn^
 ||detect.hismarttv.com^
 ||detect.mb.qq.com^
-||developer.huawei.com^
 ||developer.toutiao.com^
 ||device-provisioning.googleapis.com^
 ||device.fishmobi.com^
