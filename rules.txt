@@ -1,5 +1,5 @@
-! Version: 2024-07-17 16:11:39（北京时间） 
-! Total count: 9842
+! Version: 2024-07-17 20:15:59（北京时间） 
+! Total count: 9638
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-07-17T07:52:56+08:00
+# Update time: 2024-07-17T11:52:56+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -574,11 +574,7 @@
 #A站点赞
 #Block Ads
 #Blogger
-#FCM
 #ICP/IP地址/域名信息备案管理系统
-#MIUI去广告
-#MIUI浏览器去广告
-#MIUI浏览器网址拦截
 #OPPO
 #QQ小程序
 #QQ浏览器小说广告
@@ -588,7 +584,6 @@
 #QQ音乐的歌曲加载
 #bing
 #gamepass日志
-#hosts
 #ios app付费解锁
 #ios毒奶
 #nextdns
@@ -598,6 +593,7 @@
 #qq的一些资源图片加载
 #qq空间图片
 #qq群公告小程序
+#soul签到
 #teams
 #一些广告
 #一些应用短信登陆拼图验证
@@ -655,7 +651,6 @@
 #小米视频
 #小米骚扰拦截 数据库更新
 #小红书分享链接
-#屏蔽MIUI应用检测
 #帖子详情好物推荐
 #帖子详情赞助内容
 #应用商店
@@ -1339,6 +1334,7 @@
 @@||imgcache.qq.com^$important
 @@||imop.com^
 @@||imtt.dd.qq.com^$important
+@@||increase-openapi.soulapp.cn^$important
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||ingest.sentry.io^$important
@@ -9576,7 +9572,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ＃去除丰巢新版取件码页面广告
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
-3.5.7.110                     github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -9588,217 +9583,20 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-52.217.106.52                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.140.73                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.198.153                github-com.s3.amazonaws.com
-52.217.198.153                github-production-repository-file-5c1aeb.s3.amazonaws.com
-64.233.177.188 alt7-mtalk.google.com
-64.233.188.188 mtalk.google.com
-74.125.137.188 alt1-mtalk.google.com
+52.217.45.220                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.96.4                   github-cloud.s3.amazonaws.com
+54.231.139.17                 github-com.s3.amazonaws.com
+54.231.234.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 91porny.com/api/getPos?jspath=/
 108.177.97.100 translate.googleapis.com
-108.177.97.188 mtalk.google.com
 123pan.com##.adv-container-pc
 123pan.com##.banner_all_wrap
 123pan.com##.slick-slider, .slick-initialized
-127.0.0.1 a.stat.xiaomi.com
-127.0.0.1 a0.app.xiaomi.com
-127.0.0.1 abtest.mistat.xiaomi.com
-127.0.0.1 access1.tpns.tencent.com
-127.0.0.1 activity.browser.intl.miui.com
-127.0.0.1 ad.intl.xiaomi.com
-127.0.0.1 ad.mi.com
-127.0.0.1 ad.xiaomi.com
-127.0.0.1 ad1.xiaomi.com
-127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
-127.0.0.1 adv.sec.intl.miui.com
-127.0.0.1 adv.sec.miui.com
-127.0.0.1 afdconf.baidu.com
-127.0.0.1 allawntech.com
-127.0.0.1 apd-vodp2pnat.teg.tencent-cloud.net
-127.0.0.1 api.ad.intl.xiaomi.com
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 api.brs.intl.miui.com
-127.0.0.1 api.collect.data.intl.miui.com
-127.0.0.1 api.d.xiaomi.com
-127.0.0.1 api.developer.xiaomi.com
-127.0.0.1 api.e.mi.com
-127.0.0.1 api.g.micloud.xiaomi.net
-127.0.0.1 api.installer.xiaomi.com
-127.0.0.1 api.newsfeed.intl.miui.com
-127.0.0.1 api.setting.intl.miui.com
-127.0.0.1 api.tw06.xlmc.sec.miui.com
-127.0.0.1 appcloud.zhihu.com
-127.0.0.1 auth.api.gitv.tv
-127.0.0.1 auth.be.sec.miui.com
-127.0.0.1 authbe.sec.intl.miui.com
-127.0.0.1 baikebcs.bdimg.com
-127.0.0.1 bd.a.yximgs.com
-127.0.0.1 bd.pull.yximgs.com
-127.0.0.1 browser.sentry-cdn.com
-127.0.0.1 bss.pandora.xiaomi.com
-127.0.0.1 bsync3-normal-hl.zijieapi.com
-127.0.0.1 cc.sys.intl.xiaomi.com
-127.0.0.1 cc.sys.miui.com
-127.0.0.1 ccc.sys.intl.xiaomi.com
-127.0.0.1 ccc.sys.miui.com
-127.0.0.1 cdn-creatives-tencent-prd.unityads.unitychina.cn
-127.0.0.1 cdn.ad.xiaomi.com
-127.0.0.1 cmonitor.iqiyi.com
-127.0.0.1 config.kuyun.com
-127.0.0.1 crl4.digicert.com
-127.0.0.1 data-collector.soulapp.cn
-127.0.0.1 data-connector-server.soulapp.cn
-127.0.0.1 de-mi-nis-ner.info
-127.0.0.1 de-mi-nis-ner2.info
-127.0.0.1 de-ner-mi-nis4.info
-127.0.0.1 de-nis-ner-mi-5.info
-127.0.0.1 de.pandora.xiaomi.com
-127.0.0.1 diagnosis.ad.intl.xiaomi.com
-127.0.0.1 diagnosis.ad.xiaomi.com
-127.0.0.1 dspsdk.pinduoduo.com
-127.0.0.1 dvb.pandora.xiaomi.com
-127.0.0.1 e.ad.xiaomi.com
-127.0.0.1 etl.xlmc.sec.miui.com
-127.0.0.1 fcanr.tracking.miui.com
-127.0.0.1 find.my-xiaomi.live
-127.0.0.1 flowplus.meituan.net
-127.0.0.1 fonts.googleapis.com
-127.0.0.1 gallery.pandora.xiaomi.com
-127.0.0.1 gecko5-hl.zijieapi.com
-127.0.0.1 geofence.sys.miui.com
-127.0.0.1 globalapi.ad.xiaomi.com
-127.0.0.1 go.mi.edu
-127.0.0.1 hd.browser.miui.com
-127.0.0.1 httpdns.browser.miui.com
-127.0.0.1 hysdkservice.g.mi.com
-127.0.0.1 icosa-service-in.allawnos.com
-127.0.0.1 inpost-polska-mi.order6457.me
-127.0.0.1 iphonesubmissions.apple.com
-127.0.0.1 ixav-cse.avlyun.com
-127.0.0.1 jellyfish.pandora.xiaomi.com
-127.0.0.1 jupiter.sys.miui.com
-127.0.0.1 lite.a.market.xiaomi.com
-127.0.0.1 log.ad.xiaomi.com
-127.0.0.1 log.avlyun.sec.intl.miui.com
-127.0.0.1 logonext.tv.kuyun.com
-127.0.0.1 logupdate.avlyun.sec.miui.com
-127.0.0.1 m.track.ad.xiaomi.com
-127.0.0.1 mazu.sec.miui.com
-127.0.0.1 metok.sys.miui.com
-127.0.0.1 mgvrst.mi-shop.com
-127.0.0.1 mi-de-ner-nis3.info
-127.0.0.1 mi-manga-hentai.blogspot.com
-127.0.0.1 mi-mercadito.mx
-127.0.0.1 mi-olx.pl
-127.0.0.1 mi-trophy.co.uk
-127.0.0.1 mi-xioami.com
-127.0.0.1 mi.5.p2l.info
-127.0.0.1 mi.adinterax.com
-127.0.0.1 mi.atm.youku.com
-127.0.0.1 mi.btmods.net
-127.0.0.1 mi.eulerian.net
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 mi.miliboo.be
-127.0.0.1 mi.miliboo.ch
-127.0.0.1 mi.miliboo.co.uk
-127.0.0.1 mi.miliboo.com
-127.0.0.1 mi.miliboo.de
-127.0.0.1 mi.miliboo.es
-127.0.0.1 mi.miliboo.it
-127.0.0.1 mi.miliboo.lu
-127.0.0.1 mi.speee.jp
-127.0.0.1 mi.tvzhe.com
-127.0.0.1 miav-cse.avlyun.com
-127.0.0.1 misc.pandora.xiaomi.com
-127.0.0.1 mishop.pandora.xiaomi.com
-127.0.0.1 mishop.pandora.xiaomi.com.
-127.0.0.1 miui-fxcse.avlyun.com
-127.0.0.1 miui.hftaili.com
-127.0.0.1 mivideo.g.mi.com
-127.0.0.1 mp.huangye.miui.com
-127.0.0.1 nav.browser.miui.com
-127.0.0.1 neptune-platform.zijieapi.com
-127.0.0.1 ner-de-mi-nis-6.info
-127.0.0.1 o2o.api.xiaomi.com
-127.0.0.1 olx-mi.pl
-127.0.0.1 ossgw.alicdn.com
-127.0.0.1 p1-lm.adukwai.com
-127.0.0.1 p2-lm.adukwai.com
-127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 preview-api.installer.xiaomi.com
-127.0.0.1 r.browser.miui.com
-127.0.0.1 reader.browser.miui.com
-127.0.0.1 resolver.gslb.mi-idc.com
-127.0.0.1 rr1---sn-ni5eln7z.gvt1.com
-127.0.0.1 rt-m.kugou.com
-127.0.0.1 rtmretry.kugou.com
-127.0.0.1 s.w.org
-127.0.0.1 sa.api.intl.miui.com
-127.0.0.1 safebrowsing.googleapis.com
-127.0.0.1 sdk.1rtb.net
-127.0.0.1 sdk.e.qq.com
-127.0.0.1 sdkconf.avlyun.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 security.browser.miui.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
-127.0.0.1 sgp.o2o.api.xiaomi.com
-127.0.0.1 shenghuo.xiaomi.com
-127.0.0.1 sidebar-apps-cn.allawntech.com
-127.0.0.1 site.e.mi.com
-127.0.0.1 snowflake.qq.com
-127.0.0.1 ssp.xiaomi.com
-127.0.0.1 staging.sdkconfig.ad.xiaomi.srv
-127.0.0.1 starfish.pandora.xiaomi.com
-127.0.0.1 stat.pandora.xiaomi.com
-127.0.0.1 stat.xiaomi.com
-127.0.0.1 store.is.autonavi.com
-127.0.0.1 storeconfig.mistat.intl.xiaomi.com
-127.0.0.1 t.track.ad.xiaomi.com
-127.0.0.1 t1.a.market.xiaomi.com
-127.0.0.1 t2.a.market.xiaomi.com
-127.0.0.1 t3.a.market.xiaomi.com
-127.0.0.1 t4.a.market.xiaomi.com
-127.0.0.1 t5.a.market.xiaomi.com
-127.0.0.1 t6.a.market.xiaomi.com
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
-127.0.0.1 tat.pandora.xiaomi.com
-127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 test.zeus.ad.xiaomi.com
-127.0.0.1 tmfsdk.m.qq.com
-127.0.0.1 tosv.byted.org
-127.0.0.1 tower.douyucdn.cn
-127.0.0.1 tr.news.mi-oferta.es
-127.0.0.1 track.ad.xiaomi.com
-127.0.0.1 tx2.a.yximgs.com
-127.0.0.1 update.avlyun.sec.miui.com
-127.0.0.1 upgrade.mishop.pandora.xiaomi.com
-127.0.0.1 upos-sz-mirror08c.bilivideo.com
-127.0.0.1 upos-sz-mirror08h.bilivideo.com
-127.0.0.1 upos-sz-mirrorcos.bilivideo.com
-127.0.0.1 url8807.global.passport.xiaomi.com
-127.0.0.1 v2-lm.adukwai.com
-127.0.0.1 v4-lm.adukwai.com
-127.0.0.1 video.market.xiaomi.com
-127.0.0.1 vod-license-b.volccdn.com
-127.0.0.1 vweixinthumb.tc.qq.com
-127.0.0.1 wup.imtt.qq.com
-127.0.0.1 www.find.my-xiaomi.live
-127.0.0.1 www.inpost-polska-mi.order6457.me
-127.0.0.1 www.mi-manga-hentai.blogspot.com
-127.0.0.1 www.mi-olx.pl
-127.0.0.1 www.olx-mi.pl
-127.0.0.1 xiaomi-dtv.m.cn.miaozhen.com
-127.0.0.1 xiaomi-mipdx.cn.miaozhen.com
-127.0.0.1 xiaomi.m.cn.miaozhen.com
-127.0.0.1 xlmc.sec.miui.com
-127.0.0.1 yandex.ru
-127.0.0.1 zeus.ad.intl.xiaomi.com
-127.0.0.1 zeus.ad.xiaomi.com
 140.82.112.18                 github.community
 140.82.112.22                 collector.github.com
 140.82.112.4                  github.com
@@ -9809,30 +9607,28 @@ zol.com.cn##A.dingtong.xianshiyouhui
 140.82.113.26                 alive.github.com
 140.82.113.26                 live.github.com
 140.82.113.3                  gist.github.com
-142.250.10.188 alt5-mtalk.google.com
-142.250.138.188 alt2-mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
-185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               private-user-images.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
 185.199.109.153               github.io
 185.199.109.154               github.githubassets.com
 185.199.110.153               githubstatus.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
-185.199.111.133               private-user-images.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 192.0.66.2                    github.blog
 216.239.32.40 android.googleapis.com
 216.239.32.40 clients1.google.com
