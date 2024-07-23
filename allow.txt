@@ -1,20 +1,14 @@
-! Version: 2024-07-23 08:40:55（北京时间） 
-! Total count: 925
-@@*.myapp.com
+! Version: 2024-07-23 12:10:41（北京时间） 
+! Total count: 907
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
-@@cdn.*.qq.com
 @@down.360safe.com^
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@m.video.xiaomi.com
 @@nileapi.market.xiaomi.com
 @@qlogo.cn^
-@@s.click.taobao.com
-@@s.click.tmall.com
-@@t1.market.xiaomi.com
-@@verify.sec.xiaomi.com
 @@|abtest3-misc-lf.zijieapi.com^
 @@|api*-normal-lf.fqnovel.com^
 @@|api*-normal.fqnovel.com^
@@ -45,8 +39,6 @@
 @@||*.y.qq.com^$important
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||000714.xyz^
-@@||126.net^$important
-@@||163.com^$important
 @@||177d.wodeshougoncom^$important
 @@||177e.wodenongtian.com^$important
 @@||177f.wodenongtian.com^$important
@@ -278,7 +270,6 @@
 @@||dm.video.qq.com^
 @@||dmm.co.jp^$important
 @@||dnet.mb.qq.com^$important
-@@||dns.weixin.qq.com^$important
 @@||docs.idqqimg.com^$important
 @@||dorado.xiaojukeji.com^$important
 @@||dot.360.cn^$important
@@ -338,7 +329,6 @@
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
 @@||flash.sec.miui.com^$important
 @@||flydigi.com^
-@@||flyme.cn^$important
 @@||fonts.gstatic.com^$important
 @@||fp-it.fengkongcloud.com^
 @@||fp.tongdun.net^
@@ -627,7 +617,6 @@
 @@||pool.v6.bt.n0808.com
 @@||pp.myapp.com^$important
 @@||profile.csdnimg.cn^
-@@||pstatp.com^$important
 @@||ptmi.gitv.tv^$important
 @@||pub.idqqimg.com^$important
 @@||public.gdtimg.com^$important
@@ -660,7 +649,6 @@
 @@||rdelivery.qq.com^
 @@||readstatic.zhulang.com^$important
 @@||recmd.html5.qq.com^$important
-@@||reddit
 @@||res.imtt.qq.com^$important
 @@||resolver.msg.xiaomi.net^
 @@||resolver.msg.xiaomi.net^$important
@@ -693,12 +681,10 @@
 @@||shminorshort.weixin.qq.com^
 @@||shouji.sogou.com^
 @@||simg.sinajs.cn^$important
-@@||sina.cn^$important
 @@||sjh.baidu.com^
 @@||sm.cn^$important
 @@||smsks1.cmpassport.com^$important
 @@||snssdk.com^
-@@||snssdk.com^$important
 @@||sobot.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
@@ -761,7 +747,6 @@
 @@||tnc16-platform-useast1a.tiktokv.com^$important
 @@||tnc3-aliec2.snssdk.com^$important
 @@||tongji.flash.cn^$important
-@@||toutiaocdn.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||track.sohu.com^
 @@||tracker.ai.xiaomi.com^
@@ -800,7 +785,6 @@
 @@||update.miui.com^$important
 @@||updateinfo.market.xiaomi.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
-@@||upload.cc
 @@||upos-sz-*.bilivideo.com^$important
 @@||uri6.com^
 @@||uxip.meizu.com^
@@ -839,9 +823,7 @@
 @@||wbapp.mobile.sina.cn^$important
 @@||we.tl^$important
 @@||web.vip.miui.com^$important
-@@||weibo.cn^$important
 @@||weidian.com^$important
-@@||weixin.qq.com^$important
 @@||wgo.mmstat.com^
 @@||widget.gleamjs.io^
 @@||widget.mibbit.com^$important
