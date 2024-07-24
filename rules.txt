@@ -1,5 +1,5 @@
-! Version: 2024-07-24 12:10:14（北京时间） 
-! Total count: 9618
+! Version: 2024-07-24 16:11:26（北京时间） 
+! Total count: 9621
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-07-24T03:52:48+08:00
+# Update time: 2024-07-24T07:52:51+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [22号]
 # [360]
@@ -662,6 +662,7 @@
 #抖音直播间购物车和购物车商品图片
 #抖音网页
 #抖音网页版
+#抖音聊天图片
 #探探
 #放行log文件,减少重复请求造成的发热
 #斗鱼
@@ -714,6 +715,7 @@
 #腾讯游戏登录相关
 #腾讯视频
 #腾讯视频一些图片加载
+#花瓣测速
 #花生壳推送
 #苹果商店图片
 #葫芦侠
@@ -1116,6 +1118,7 @@
 @@||collect.hupu.com^$important
 @@||computemaster.bxcearth.com^$important
 @@||config.cmpassport.com^$important
+@@||connect-drcn.hispace.hicloud.com^$important
 @@||connect.intl.rom.miui.com^$important
 @@||connect.rom.miui.com/generate_204^$important
 @@||connect.rom.miui.com^$important
@@ -1473,6 +1476,7 @@
 @@||oss-asq-static.11222.cn^$important
 @@||otheve.beacon.qq.com^$important
 @@||p*.music.126.net^$important
+@@||p11-sign.douyinpic.com^$important
 @@||p16-tiktokcdn-com.akamaized.net^$important
 @@||p26-sign.bdxiguaimg.com^$important
 @@||p26-sign.toutiaoimg.com^$important
@@ -6872,7 +6876,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||p1-play.kgslb.com^
 ||p1.adkwai.com^
 ||p10528-ad-server.ejoy.com^
-||p11.douyinpic.com^
 ||p11q.cn^
 ||p2-ad.adukwai.com^
 ||p2-be-pack-sign.pglstatp-toutiao.com^
@@ -9552,9 +9555,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ＃去除丰巢新版取件码页面广告
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
+3.5.23.224                    github-production-user-asset-6210df.s3.amazonaws.com
+3.5.9.161                     github-production-repository-file-5c1aeb.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
-16.182.105.161                github-production-release-asset-2e65be.s3.amazonaws.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -9565,9 +9569,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52.216.145.83                 github-cloud.s3.amazonaws.com
-52.217.203.169                github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.139.17                 github-com.s3.amazonaws.com
-54.231.196.9                  github-production-user-asset-6210df.s3.amazonaws.com
+52.217.100.220                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.198.25                 github-com.s3.amazonaws.com
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
@@ -9577,20 +9580,18 @@ zol.com.cn##A.dingtong.xianshiyouhui
 123pan.com##.banner_all_wrap
 123pan.com##.slick-slider, .slick-initialized
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
+140.82.112.10                 codeload.github.com
 140.82.112.18                 github.community
 140.82.112.21                 education.github.com
 140.82.112.22                 central.github.com
 140.82.112.26                 alive.github.com
 140.82.112.4                  gist.github.com
 140.82.112.5                  api.github.com
-140.82.113.10                 codeload.github.com
 140.82.113.3                  github.com
 140.82.114.21                 collector.github.com
 140.82.114.25                 live.github.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
 185.199.109.153               github.io
 185.199.110.153               assets-cdn.github.com
 185.199.110.153               githubstatus.com
@@ -9604,10 +9605,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
 192.0.66.2                    github.blog
 216.239.32.40 android.googleapis.com

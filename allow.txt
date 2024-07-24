@@ -1,5 +1,5 @@
-! Version: 2024-07-24 12:10:14（北京时间） 
-! Total count: 907
+! Version: 2024-07-24 16:11:26（北京时间） 
+! Total count: 909
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -215,6 +215,7 @@
 @@||collect.hupu.com^$important
 @@||computemaster.bxcearth.com^$important
 @@||config.cmpassport.com^$important
+@@||connect-drcn.hispace.hicloud.com^$important
 @@||connect.intl.rom.miui.com^$important
 @@||connect.rom.miui.com/generate_204^$important
 @@||connect.rom.miui.com^$important
@@ -574,6 +575,7 @@
 @@||oss-asq-static.11222.cn^$important
 @@||otheve.beacon.qq.com^$important
 @@||p*.music.126.net^$important
+@@||p11-sign.douyinpic.com^$important
 @@||p16-tiktokcdn-com.akamaized.net^$important
 @@||p26-sign.bdxiguaimg.com^$important
 @@||p26-sign.toutiaoimg.com^$important
