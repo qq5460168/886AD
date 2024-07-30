@@ -1,9 +1,8 @@
-! Version: 2024-07-30 20:15:55（北京时间） 
-! Total count: 909
+! Version: 2024-07-31 00:13:22（北京时间） 
+! Total count: 887
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
-@@down.360safe.com^
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@m.video.xiaomi.com
@@ -46,8 +45,6 @@
 @@||177j.wodenongtiacom^$important
 @@||17u.cn^$important
 @@||1sapp.com^
-@@||316.coolapk1s.com^
-@@||360.cn^
 @@||360buyimg.com^$important
 @@||3746760377.qnqcdn.net^$important
 @@||3975.com^
@@ -97,7 +94,6 @@
 @@||api-unionid.meituan.com^$important
 @@||api.account.xiaomi.com^$important
 @@||api.comm.miui.com^$important
-@@||api.coolapk.com^
 @@||api.developer.xiaomi.com^$important
 @@||api.device.xiaomi.net^$important
 @@||api.flash.cn^$important
@@ -113,7 +109,6 @@
 @@||api.open.uc.cn^$important
 @@||api.revenuecat.com^$important
 @@||api.rikka.app^$important
-@@||api.sec.miui.com^
 @@||api.sec.miui.com^$important
 @@||api.ts.feedback.qy.net^$important
 @@||api.tv.sohu.com^
@@ -143,7 +138,6 @@
 @@||audid-api.taobao.com^$important
 @@||auditude.com^
 @@||auth.wosms.cn^$important
-@@||avatar.coolapk.com^
 @@||aweme.snssdk.com^$important
 @@||baijiahao.baidu.com^$important
 @@||baike.so.com^$important
@@ -154,14 +148,12 @@
 @@||bing.com^$important
 @@||bing.net^$important
 @@||bitsumactivationserver.com^
-@@||bjfesdk.douyucdn.cn^
 @@||bjfesdk.douyucdn.cn^$important
 @@||bkvv.video.qq.com^$important
 @@||bluehost.com^
 @@||blueskyxn.com^
 @@||bmap6.cn^$important
 @@||bonuscloud.io^$important
-@@||bootcdn.net^
 @@||bootcdn.net^$important
 @@||boxer.baidu.com^
 @@||boxer.baidu.com^$important
@@ -204,7 +196,6 @@
 @@||cmshow.qq.com^$important
 @@||cmts.iqiyi.com^$important
 @@||cn-cd-dx-2.natfrp.cloud^$important
-@@||cn.app.chat.xiaomi.net^
 @@||cn.app.chat.xiaomi.net^$important
 @@||cn.bing.com^$important
 @@||cn.ekg.riotgames.com^$important
@@ -283,7 +274,6 @@
 @@||dragate-cn.dc.heytapmobi.com^$important
 @@||dragate.dc.oppomobile.com^$important
 @@||dreport.meituan.net^$important
-@@||drive.quark.cn^
 @@||drive.quark.cn^$important
 @@||drive.uc.cn^$important
 @@||dsp.fcbox.com^$important
@@ -351,7 +341,6 @@
 @@||gdtimg.com^$important
 @@||get.sogou.com^$important
 @@||ggpht.com^$important
-@@||gia.jd.com^
 @@||gia.jd.com^$important
 @@||gift.douyucdn.cn^
 @@||gift.douyucdn.cn^$important
@@ -465,9 +454,7 @@
 @@||lf-dy-sourcecdn-tos.bytegecko.com^$important
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-ttcdn-tos.pstatp.com^$important
-@@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytegoofy.com^$important
-@@||lf6-cdn-tos.bytegoofy.com^
 @@||lf6-cdn-tos.bytegoofy.com^$important
 @@||lf6-mgsdk-sign.dailygn.com^$important
 @@||lf9-mgsdk-sign.dailygn.com^$important
@@ -480,8 +467,6 @@
 @@||livere.com^
 @@||loc.map.baidu.com^$important
 @@||localads.chengzijianzhan.cn^$important
-@@||log-api.pangolin-sdk-toutiao-b.com^
-@@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
 @@||log1.cmpassport.com^$important
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
@@ -491,7 +476,6 @@
 @@||m.360buyimg.com^$important
 @@||m.intl.taobao.com^$important
 @@||m.jiaoyimao.com^$important
-@@||m.jingxi.com^
 @@||m.jingxi.com^$important
 @@||m.manhuabei.com^$important
 @@||m.qpic.cn^$important
@@ -552,7 +536,6 @@
 @@||msg.video.qiyi.com^
 @@||mx.technolutions.net^$important
 @@||myqqjd.com^
-@@||myquark.cn^
 @@||myquark.cn^$important
 @@||myun.tenpay.com^$important
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
@@ -589,13 +572,11 @@
 @@||p9-sign.toutiaoimg.com^$important
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
-@@||pan.quark.cn^
 @@||pan.quark.cn^$important
 @@||parked-content.godaddy.com^$important
 @@||passport.360.cn^$important
 @@||passport.iqiyi.com^$important
 @@||passport.youdao.com^$important
-@@||payapp.weixin.qq.com^
 @@||payapp.weixin.qq.com^$important
 @@||pbs.twimg.com^$important
 @@||pcvideoaliyun.titan.mgtv.com^$important#
@@ -669,7 +650,6 @@
 @@||saomiao.bmcx.com^$important
 @@||scs.openspeech.cn^$important
 @@||sdk.alibaba.com.ailbaba.me^$important
-@@||sdk.open.talk.gepush.com^
 @@||sdk.open.talk.gepush.com^$important
 @@||sdkconfig.ad.xiaomi.com^$important
 @@||se.360.cn^
@@ -774,7 +754,6 @@
 @@||ulive-interact.uc.cn^
 @@||ulive-sc.uc.cn^
 @@||umengacs.m.taobao.com^$important
-@@||umengjmacs.m.taobao.com^
 @@||umiwi.com^
 @@||unet.ucweb.com^$important
 @@||union-click.jd.com^$important
@@ -847,7 +826,6 @@
 @@||www.123pan.com^$important
 @@||www.alidns.com^$important
 @@||www.blogger.com^$important
-@@||www.bqgyy.com^
 @@||www.chemdraw.com.cn^$important
 @@||www.cmpassport.com^$important
 @@||www.crossoverchina.com^$important
