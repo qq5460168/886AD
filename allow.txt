@@ -1,5 +1,5 @@
-! Version: 2024-08-05 12:11:14（北京时间） 
-! Total count: 909
+! Version: 2024-08-05 16:12:27（北京时间） 
+! Total count: 912
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -126,6 +126,7 @@
 @@||apis.google.com
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
+@@||app-api.pixiv.net^$important
 @@||app-measurement.com^$important
 @@||app.home.360.cn^$important
 @@||app.huabao.360.cn^$important
@@ -186,6 +187,7 @@
 @@||cdn.ark.qq.com^$important
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
+@@||cdn.iocdn.cc^$important
 @@||cdn.jsdelivr.net^$important
 @@||cdn77-vid.xvideos-cdn.com^$important
 @@||cfg.imtt.qq.com^$important
@@ -563,6 +565,7 @@
 @@||nstool.netease.com^$important
 @@||o.actio.systems^$important
 @@||o2o.api.xiaomi.com^$important
+@@||oauth.secure.pixiv.net^$important
 @@||ohssr.cn^$important
 @@||onekey1.cmpassport.com^$important
 @@||openap-alps.51y5.net^$important
