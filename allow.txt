@@ -1,5 +1,5 @@
-! Version: 2024-08-22 08:42:22（北京时间） 
-! Total count: 916
+! Version: 2024-08-22 12:11:14（北京时间） 
+! Total count: 918
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -299,6 +299,8 @@
 @@||e.weather.com.cn^
 @@||eastus.api.speech.microsoft.com^$important
 @@||ecard.shenzhentong.com^
+@@||ecmb.bdimg.com/*.jpg
+@@||ecmb.bdimg.com/*.png
 @@||ecmb.bdimg.com^$important
 @@||eco.taobao.com^
 @@||eco.taobao.com^$important
