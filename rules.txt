@@ -1,5 +1,5 @@
-! Version: 2024-08-23 08:41:32（北京时间） 
-! Total count: 9652
+! Version: 2024-08-23 12:11:40（北京时间） 
+! Total count: 9651
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-08-22T23:53:00+08:00
+# Update time: 2024-08-23T03:53:02+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [vivo]
 # [七猫]
@@ -2178,7 +2178,6 @@ tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##div[class*='-ad-pb-']
 tools.bugscaner.com###div_qrcode_container
 trafficjunky.com$third-part
-trakt.tv##DIV[id$='-wrapper']
 tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
 unpkg.com/aladug/*.js
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
@@ -9605,11 +9604,11 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-52.217.132.49                 github-cloud.s3.amazonaws.com
+52.216.213.9                  github-cloud.s3.amazonaws.com
 52.217.136.89                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.166.145                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.171.217                github-com.s3.amazonaws.com
 52.217.82.92                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.229.121                github-com.s3.amazonaws.com
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
@@ -9621,33 +9620,33 @@ zol.com.cn##A.dingtong.xianshiyouhui
 140.82.112.3                  github.com
 140.82.112.9                  codeload.github.com
 140.82.113.21                 education.github.com
+140.82.113.22                 collector.github.com
 140.82.113.25                 alive.github.com
 140.82.114.18                 github.community
-140.82.114.21                 collector.github.com
 140.82.114.22                 central.github.com
 140.82.114.4                  gist.github.com
 140.82.114.5                  api.github.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               private-user-images.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
 185.199.109.153               githubstatus.com
+185.199.109.154               github.githubassets.com
 185.199.110.153               github.io
-185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
-185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
-185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
 192.0.66.2                    github.blog
 404: Not Found
