@@ -1,5 +1,5 @@
-! Version: 2024-08-29 00:10:32（北京时间） 
-! Total count: 918
+! Version: 2024-08-29 04:10:11（北京时间） 
+! Total count: 919
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -847,6 +847,7 @@
 @@||wodenongtian.com^$important
 @@||woniu.com^
 @@||work.weixin.qq.com^$important
+@@||world.qpic.cn^$important
 @@||worldwide.sogou.com^$important
 @@||wqsd.jd.com
 @@||ws.ribaoapi.com^$important
