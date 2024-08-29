@@ -1,5 +1,5 @@
-! Version: 2024-08-29 16:12:29（北京时间） 
-! Total count: 919
+! Version: 2024-08-29 20:17:00（北京时间） 
+! Total count: 920
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -143,6 +143,7 @@
 @@||as.weixin.qq.com^$important
 @@||at.umeng.com^$important
 @@||audid-api.taobao.com^$important
+@@||audio-cdn.shuqireader.com^$important
 @@||auditude.com^
 @@||auth.wosms.cn^$important
 @@||avatar.coolapk.com^
