@@ -1,5 +1,5 @@
-! Version: 2024-08-31 20:15:17（北京时间） 
-! Total count: 920
+! Version: 2024-09-01 00:10:42（北京时间） 
+! Total count: 921
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -266,6 +266,7 @@
 @@||dilidili.live^
 @@||direct.wap.zol.com.cn^
 @@||disneyplus.bn5x.net^$important
+@@||disp-qryapi.3g.qq.com^$important
 @@||dj.1688.com^$important
 @@||dl.360safe.com^$important
 @@||dl.reg.163.com^$important
