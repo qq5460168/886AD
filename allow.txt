@@ -1,5 +1,5 @@
-! Version: 2024-09-03 20:17:17（北京时间） 
-! Total count: 923
+! Version: 2024-09-04 00:12:19（北京时间） 
+! Total count: 924
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -798,6 +798,7 @@
 @@||update.miui.com^$important
 @@||updateinfo.market.xiaomi.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
+@@||upload-bbs.miyoushe.com^$important
 @@||upos-sz-*.bilivideo.com^$important
 @@||uri6.com^
 @@||uxip.meizu.com^
