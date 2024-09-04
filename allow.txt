@@ -1,5 +1,5 @@
-! Version: 2024-09-04 20:17:48（北京时间） 
-! Total count: 924
+! Version: 2024-09-05 00:11:32（北京时间） 
+! Total count: 925
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -736,6 +736,7 @@
 @@||subscription.iqiyi.com^
 @@||sug.browser.miui.com^
 @@||sugar.zhihu.com^$important
+@@||suggestion.baidu.com^$important
 @@||support.weixin.qq.com^
 @@||sysdk.cl2009.com^$important
 @@||szlong.weixin.qq.com^
