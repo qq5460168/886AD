@@ -1,4 +1,4 @@
-! Version: 2024-09-13 12:11:29（北京时间） 
+! Version: 2024-09-13 16:12:23（北京时间） 
 ! Total count: 10032
  ! 某些其他
  #晴雅规则
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-09-13T03:53:38+08:00
+# Update time: 2024-09-13T07:53:28+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -9972,10 +9972,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ＃去除丰巢新版取件码页面广告
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
-3.5.10.110                    github-production-user-asset-6210df.s3.amazonaws.com
+3.5.28.232                    github-cloud.s3.amazonaws.com
+3.5.9.165                     github-production-user-asset-6210df.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
-16.182.34.121                 github-com.s3.amazonaws.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -9986,8 +9986,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52.216.43.65                  github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.162.49                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.226.169                github-cloud.s3.amazonaws.com
+52.217.103.188                github-com.s3.amazonaws.com
+54.231.139.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
@@ -10007,26 +10007,26 @@ zol.com.cn##A.dingtong.xianshiyouhui
 140.82.114.3                  gist.github.com
 151.101.193.194               github.global.ssl.fastly.net
 163.com##.js-open-app
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.109.154               github.githubassets.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               private-user-images.githubusercontent.com
 185.199.110.153               assets-cdn.github.com
 185.199.110.153               github.io
 185.199.110.153               githubstatus.com
+185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
-185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
 192.0.66.2                    github.blog
 404: Not Found
