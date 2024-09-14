@@ -1,7 +1,11 @@
-! Version: 2024-09-14 16:12:41（北京时间） 
-! Total count: 900
+! Version: 2024-09-14 20:15:37（北京时间） 
+! Total count: 926
+@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
+@@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
 @@down.360safe.com^
+@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
+@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@m.video.xiaomi.com
 @@nileapi.market.xiaomi.com
 @@qlogo.cn^
@@ -33,6 +37,7 @@
 @@||*.twimg.com^$important
 @@||*.video.xiaomi.com^$important
 @@||*.y.qq.com^$important
+@@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||000714.xyz^
 @@||177d.wodeshougoncom^$important
 @@||177e.wodenongtian.com^$important
@@ -76,6 +81,7 @@
 @@||akamaized.net^$important
 @@||ali2.a.yximgs.com^$important
 @@||alissl.ucdl.pp.uc.cn^$important
+@@||aliyuncs.com/*.png
 @@||alps.51y5.net^$important
 @@||amdc.m.taobao.com^
 @@||amdcopen.m.taobao.com^$important
@@ -104,6 +110,7 @@
 @@||api.micloud.xiaomi.net^$important
 @@||api.miui.security.xiaomi.com^$important
 @@||api.miwifi.com^$important
+@@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||api.open.uc.cn^$important
 @@||api.revenuecat.com^$important
 @@||api.rikka.app^$important
@@ -178,6 +185,7 @@
 @@||cards.iqiyi.com^$important
 @@||castatic.fengkongcloud.com^$important
 @@||cc.map.qq.com^$important
+@@||cdn-msp*.18comic.*^
 @@||cdn.ark.qq.com^$important
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
@@ -227,6 +235,7 @@
 @@||credit-jfimage-cn.heytapimage.com^$important
 @@||cros-updates-serving.appspot.com^$important
 @@||csi.gstatic.com^
+@@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun.126.net^
 @@||ctrip.com^$important
 @@||d.bmcx.com^$important
@@ -249,6 +258,7 @@
 @@||ddys.pro^$important
 @@||debugtbs.qq.com^$important
 @@||defaultts.tc.qq.com^$important
+@@||developer.apple.com$generichide
 @@||dfcfw.com^
 @@||dftoutiao.com^
 @@||dig.bdurl.net^$important
@@ -291,6 +301,8 @@
 @@||e.weather.com.cn^
 @@||eastus.api.speech.microsoft.com^$important
 @@||ecard.shenzhentong.com^
+@@||ecmb.bdimg.com/*.jpg
+@@||ecmb.bdimg.com/*.png
 @@||ecmb.bdimg.com^$important
 @@||eco.taobao.com^
 @@||eco.taobao.com^$important
@@ -304,6 +316,7 @@
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^$important
 @@||exp.sug.browser.miui.com^$important
+@@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
 @@||f*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f-vali.cp31.ott.cibntv.net^$important
@@ -360,6 +373,8 @@
 @@||gsp0.baidu.com^
 @@||gstatic.com
 @@||guanjia.qq.com^
+@@||guokr.com/apis/flowingboard/item/m_article
+@@||guokr.com/apis/flowingboard/item/m_home_
 @@||gvt1.com^$important
 @@||gvt2.com^
 @@||gw-paopao.iqiyi.com^$important
@@ -441,6 +456,7 @@
 @@||jimdo.com^
 @@||jr.jd.com^$important
 @@||jspassport.ssl.qhimg.com^
+@@||jstatic.3.cn^$domain=m.jd.com
 @@||jstatic.3.cn^$important
 @@||jump.luna.58.com^$important
 @@||jumpluna.58.com^$important
@@ -497,6 +513,7 @@
 @@||mail.qq.com^$important
 @@||mam.netease.com^$important
 @@||manifest.googlevideo.com
+@@||manwa.me^
 @@||map.bmcx.com^$important
 @@||map.qq.com^$important
 @@||mapi.m.jd.com^$important
@@ -514,6 +531,7 @@
 @@||member.aligames.com^$important
 @@||metok.sys.miui.com^$important
 @@||mi-img.com^$important
+@@||miaozhen.com^$domain=miaozhen.com
 @@||mibi.api.xiaomi.com^$important
 @@||migrate.driveapi.micloud.xiaomi.net^$important
 @@||mime.baidu.com^
@@ -541,6 +559,7 @@
 @@||msg.douyu.com^$important
 @@||msg.video.qiyi.com^
 @@||mx.technolutions.net^$important
+@@||myqqjd.com^
 @@||myquark.cn^
 @@||myquark.cn^$important
 @@||myun.tenpay.com^$important
@@ -578,6 +597,7 @@
 @@||p6.douyinpic.com^$important
 @@||p9-sign.toutiaoimg.com^$important
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
+@@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||pan.quark.cn^
 @@||pan.quark.cn^$important
 @@||parked-content.godaddy.com^$important
@@ -624,6 +644,7 @@
 @@||q3.jia.360.cn^$important
 @@||qappcenterv6.3g.qq.com^$important
 @@||qhres2.com^
+@@||qhres2.com^$domain=baike.so.com
 @@||qlogo.cn^
 @@||qlogo.cn^$important
 @@||qn.cache.wpscdn.cn^$important
@@ -677,6 +698,7 @@
 @@||sm.cn^$important
 @@||smsks1.cmpassport.com^$important
 @@||snssdk.com^
+@@||sobot.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
 @@||soft.360.cn^$important
@@ -710,6 +732,7 @@
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
 @@||store.heytapimage.com^$important
+@@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^$important
 @@||subscription.iqiyi.com^
 @@||sug.browser.miui.com^
@@ -811,6 +834,7 @@
 @@||waimai-guide.ele.me^$important
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||wan.baidu.com^
+@@||wan.douyu.com^
 @@||wap.cmpassport.com^$important
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important
@@ -844,8 +868,10 @@
 @@||www.chemdraw.com.cn^$important
 @@||www.cmpassport.com^$important
 @@||www.crossoverchina.com^$important
+@@||www.google-analytics.com^$domain=myqqjd.com
 @@||www.google.com^$important
 @@||www.googleadservices.com^$important
+@@||www.googletagmanager.com^$domain=myqqjd.com
 @@||www.gstatic.com
 @@||www.gstatic.com^$important
 @@||www.jiaoyimao.com^$important
