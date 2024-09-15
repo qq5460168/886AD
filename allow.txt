@@ -1,5 +1,5 @@
-! Version: 2024-09-15 20:15:41（北京时间） 
-! Total count: 927
+! Version: 2024-09-16 00:10:13（北京时间） 
+! Total count: 928
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@broadcastlv.chat.bilibili.com^
@@ -917,6 +917,7 @@
 @@||yun.duiba.com.cn^$important
 @@||yun.rili.cn^$important
 @@||yunjiasu.com^
+@@||yybadaccess.3g.qq.com^$important
 @@||z.weixin.qq.com^$important
 @@||zazhipu.com^
 @@||zconfig.alibabausercontent.com^

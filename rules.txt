@@ -1,5 +1,5 @@
-! Version: 2024-09-15 20:15:41（北京时间） 
-! Total count: 10034
+! Version: 2024-09-16 00:10:13（北京时间） 
+! Total count: 10035
  ! 某些其他
  #晴雅规则
 #  糯米PHP 网站
@@ -7,7 +7,7 @@
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
 # Todesk
-# Update time: 2024-09-15T11:53:19+08:00
+# Update time: 2024-09-15T15:53:17+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -599,6 +599,7 @@
 #一号店优惠券
 #七猫免费小说
 #七猫小说
+#万向DNS查找
 #三星手机商店
 #个推
 #中国移动
@@ -655,6 +656,7 @@
 #帖子详情好物推荐
 #帖子详情赞助内容
 #应用商店
+#应用宝
 #应用游戏页去除推广视频
 #得间
 #微信小程序,城市通
@@ -670,7 +672,6 @@
 #探探
 #放行log文件,减少重复请求造成的发热
 #斗鱼
-#方向DNS查找
 #日志上传和dns自查询
 #晴雅！！
 #未知来源 广告/日志
@@ -1831,6 +1832,7 @@
 @@||yun.duiba.com.cn^$important
 @@||yun.rili.cn^$important
 @@||yunjiasu.com^
+@@||yybadaccess.3g.qq.com^$important
 @@||z.weixin.qq.com^$important
 @@||zazhipu.com^
 @@||zconfig.alibabausercontent.com^
@@ -4500,7 +4502,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dl_dir.qq.com^
 ||dl_dir2.qq.com^
 ||dlads.cn^
-||dldir1.qq.com^
 ||dldir1v6.qq.com^
 ||dldir2.qq.com^
 ||dldir3.qq.com^
@@ -9974,11 +9975,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ＃去除丰巢新版取件码页面广告
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
+3.5.28.170                    github-cloud.s3.amazonaws.com
 3.5.30.129                    github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.31.100                    github-com.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 13.107.42.16                  pipelines.actions.githubusercontent.com
-16.182.33.33                  github-cloud.s3.amazonaws.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -9988,8 +9988,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-54.231.162.241                github-production-user-asset-6210df.s3.amazonaws.com
-54.231.192.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.103.188                github-com.s3.amazonaws.com
+52.217.173.145                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.139.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
@@ -10010,26 +10011,26 @@ zol.com.cn##A.dingtong.xianshiyouhui
 151.101.193.194               github.global.ssl.fastly.net
 163.com##.js-open-app
 185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               private-user-images.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.109.153               assets-cdn.github.com
-185.199.109.153               githubstatus.com
+185.199.108.133               cloud.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
 185.199.109.154               github.githubassets.com
+185.199.110.153               assets-cdn.github.com
 185.199.110.153               github.io
+185.199.110.153               githubstatus.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
-185.199.111.133               cloud.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
+185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
 192.0.66.2                    github.blog
 404: Not Found
 423down.com##LI.item:has(.sticky-post)
