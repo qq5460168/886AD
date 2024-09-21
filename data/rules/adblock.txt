@@ -859,7 +859,6 @@ www.9game.cn##.entry.qak_popup
 ||tanx.com^
 ||mmstat.com^
 ||pms.mb.qq.com^
-###厂商PUSH
 ##高通
 ||izatcloud.net^
 ||xtracloud.net^
@@ -879,7 +878,6 @@ www.9game.cn##.entry.qak_popup
 ||adash.man.aliyuncs.com^
 ||noah-sdk-india.oss-ap-south-1.aliyuncs.com^
 ##GMS
-||www.googleapis.com^
 ||plus.google.com^
 ##魅族
 ||api-push.in.meizu.com^
@@ -1367,10 +1365,6 @@ www.9game.cn##.entry.qak_popup
 ||8le8le.com^
 ##腾讯乘车码小程序广告
 ||ccmsupport-sz.tenpay.com^
-##360全家桶（一刀切）
-||360.cn^
-##小米路由屏蔽
-||api.miwifi.com^
 ##vivo手机系列
 ||zhan-test.vivo.com.cn^
 ||topicstatic.vivo.com.cn^
@@ -1843,11 +1837,6 @@ www.9game.cn##.entry.qak_popup
 ||*openapi.meituan.com^
 ||ads.ishansong.com^
 ||msp.meituan.com^
-##抖音
-||link.wtturl.cn^
-||chengzijianzhan.com^
-||mon.toutiaocloud.com^
-||ec.ecombdapi.com^
 ##爱奇艺
 ||mp-api.iqiyi.com^
 ||sns-follow.iqiyi.com^
