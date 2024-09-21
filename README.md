@@ -1,22 +1,6 @@
 <div align="center">
 <h1 align="center"><br>一个强力去广告的规则</h1>
-<p>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/last-commit/8680/GOODBYEADS?style=flat-square" alt="last update" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/forks/8680/GOODBYEADS?style=flat-square" alt="forks" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/stars/8680/GOODBYEADS?style=flat-square" alt="stars" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS/issues/">
-    <img src="https://img.shields.io/github/issues/8680/GOODBYEADS?style=flat-square" alt="open issues" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/license/8680/GOODBYEADS?style=flat-square" alt="license" />
-  </a>
-</p>
+
 
 <h4>
     <a href="#a">规则订阅</a>
@@ -43,8 +27,8 @@ DNS拦截规则数量: 8421
 <summary>规则列表</summary>
 <ul>
 
-- **[拦截规则（Github）](https://ghp.ci/raw.githubusercontent.com/qq5460168/666/master/rules.txt)**
-- **[拦截规则(Ghproxy-国内加速)](https://ghp.ci/raw.githubusercontent.com/qq5460168/666/master/rules.txt)**
+- **[拦截规则（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/rules.txt)**
+- **[拦截规则(Ghproxy-国内加速)](https://ghp.ci/raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/rules.txt)**
 - **[DNS拦截规则（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/dns.txt)**
 - **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/dns.txt/)**
 - **[白名单（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/dns.txt)**
