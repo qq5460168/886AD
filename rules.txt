@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-21 08:43:56（北京时间）
+! Version: 2024-09-21 12:11:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 41630
+! Total count: 41643
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-09-20T23:53:09+08:00
+# Update time: 2024-09-21T03:53:17+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [我是晴雅你记住^-^]
@@ -712,7 +712,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-09-20 22:17:29 
+#更新时间: 2024-09-21 09:20:12 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -723,7 +723,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:28089
+#规则数量:28104
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -806,7 +806,6 @@
 .xyz/ty/*-*-*$third-party
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?
-/
 /*/*.add.*.add
 /*\.*\.shouji\.sogou\.com/
 /*\.[a-zA-Z0-9.-]skwai\.com/
@@ -6586,6 +6585,7 @@
 127.0.0.1 advp1.com
 127.0.0.1 advp2.com
 127.0.0.1 advp3.com
+127.0.0.1 advparvezali.com
 127.0.0.1 advpic.yicha.jp
 127.0.0.1 advplace.com
 127.0.0.1 advpoints.com
@@ -10837,6 +10837,7 @@
 127.0.0.1 chosentalladvanced.com
 127.0.0.1 chris.johnli.click
 127.0.0.1 christianbusinessadvertising.com
+127.0.0.1 christiepointadvocates.com
 127.0.0.1 chronicads.com
 127.0.0.1 cht.pro-activprofit.site
 127.0.0.1 chubbymess.pro
@@ -19830,6 +19831,7 @@
 127.0.0.1 pourloonada9.com
 127.0.0.1 poutineedreallyed.pro
 127.0.0.1 povaloa0.pro
+127.0.0.1 povvertyfocus.click
 127.0.0.1 powaznekonsekwnencje.click
 127.0.0.1 poweredby.jads.co
 127.0.0.1 poweredby.jads.com
@@ -20070,6 +20072,7 @@
 127.0.0.1 pro.program-plus.site
 127.0.0.1 pro.programpro.site
 127.0.0.1 pro.progrbest.top
+127.0.0.1 pro.progtopdep.top
 127.0.0.1 pro.projorlen.site
 127.0.0.1 pro.prot-rad.top
 127.0.0.1 pro.stormwindstudios.com
@@ -21594,6 +21597,7 @@
 127.0.0.1 rmxads.com
 127.0.0.1 road2gold.site
 127.0.0.1 roadshonkb.online
+127.0.0.1 roadsidetonationalwide.com
 127.0.0.1 robet-challengemode.pro
 127.0.0.1 roboczogodziny.click
 127.0.0.1 robotadserver.com
@@ -22057,6 +22061,7 @@
 127.0.0.1 safetysensehub.click
 127.0.0.1 sag9exikyu.pro
 127.0.0.1 sagging.pro
+127.0.0.1 sailgadvent.xyz
 127.0.0.1 saintleads.autos
 127.0.0.1 sakura-traffic.com
 127.0.0.1 salamogolden.click
@@ -26581,6 +26586,7 @@
 127.0.0.1 wow.ero-advertising.com
 127.0.0.1 wow.youdao.com
 127.0.0.1 woweffect.click
+127.0.0.1 wowsoul.click
 127.0.0.1 wp-cdn.cityads.com
 127.0.0.1 wp.viprik.pro
 127.0.0.1 wp3advesting.com
@@ -27038,6 +27044,7 @@
 127.0.0.1 www.advocatemy.org
 127.0.0.1 www.advocatenkantoormaastricht.com
 127.0.0.1 www.advocateseducationalservices.com
+127.0.0.1 www.advparvezali.com
 127.0.0.1 www.advshaktimann.com
 127.0.0.1 www.adw.ero-advertising.com
 127.0.0.1 www.adwo.com
@@ -27482,6 +27489,7 @@
 127.0.0.1 www.chorespoleczenstwo.click
 127.0.0.1 www.chori3oiwtb.click
 127.0.0.1 www.christianbusinessadvertising.com
+127.0.0.1 www.christiepointadvocates.com
 127.0.0.1 www.chwiladoslowna.click
 127.0.0.1 www.chwilagrozy.click
 127.0.0.1 www.cicaryu0.pro
@@ -29696,6 +29704,7 @@
 127.0.0.1 www.poufnedane.click
 127.0.0.1 www.poutineedreallyed.pro
 127.0.0.1 www.povaloa0.pro
+127.0.0.1 www.povvertyfocus.click
 127.0.0.1 www.powaznekonsekwnencje.click
 127.0.0.1 www.poweredbyliquidfire.mobi
 127.0.0.1 www.powiadomienia24h.click
@@ -30032,6 +30041,7 @@
 127.0.0.1 www.riyadh4moving.com
 127.0.0.1 www.road2gold.site
 127.0.0.1 www.roadshonkb.online
+127.0.0.1 www.roadsidetonationalwide.com
 127.0.0.1 www.robet-challengemode.pro
 127.0.0.1 www.roboczogodziny.click
 127.0.0.1 www.robustdres.click
@@ -30109,6 +30119,7 @@
 127.0.0.1 www.safetysensehub.click
 127.0.0.1 www.sag9exikyu.pro
 127.0.0.1 www.sagging.pro
+127.0.0.1 www.sailgadvent.xyz
 127.0.0.1 www.salkaner-invest.pro
 127.0.0.1 www.samaprawda.click
 127.0.0.1 www.sameklopoty.click
@@ -31028,6 +31039,7 @@
 127.0.0.1 www.worldwholenesswave.click
 127.0.0.1 www.wow.ero-advertising.com
 127.0.0.1 www.woweffect.click
+127.0.0.1 www.wowsoul.click
 127.0.0.1 www.wracam.click
 127.0.0.1 www.wraproads.online
 127.0.0.1 www.writeadvising.com
@@ -31131,6 +31143,7 @@
 127.0.0.1 www.wzorowezachowanie.click
 127.0.0.1 www.x2tesla-event.pro
 127.0.0.1 www.xadsmart.com
+127.0.0.1 www.xaka.adsndtrackify.xyz
 127.0.0.1 www.xanthofin.click
 127.0.0.1 www.xawofaa7.pro
 127.0.0.1 www.xaxugoy5.pro
@@ -31457,6 +31470,7 @@
 127.0.0.1 xaftp.irs01.com
 127.0.0.1 xajs.irs01.com
 127.0.0.1 xajs2.irs01.com
+127.0.0.1 xaka.adsndtrackify.xyz
 127.0.0.1 xameleonads.com
 127.0.0.1 xanthofin.click
 127.0.0.1 xapads.com
@@ -32002,7 +32016,8 @@
 142.250.141.188     alt2-mtalk.google.com
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
-151.101.193.194               github.global.ssl.fastly.net
+16.15.216.27                  github-com.s3.amazonaws.com
+16.182.101.97                 github-cloud.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -32015,14 +32030,12 @@
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
 185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
-185.199.108.133               private-user-images.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
-185.199.109.153               githubstatus.com
+185.199.109.153               assets-cdn.github.com
+185.199.109.154               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -32032,17 +32045,19 @@
 185.199.110.133 avatars5.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
-185.199.110.153               assets-cdn.github.com
 185.199.110.153               github.io
-185.199.110.154               github.githubassets.com
+185.199.110.153               githubstatus.com
+185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -32064,7 +32079,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.9.165                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.30.129                    github-production-release-asset-2e65be.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -32072,11 +32087,9 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.216.43.65                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.103.188                github-com.s3.amazonaws.com
-52.217.173.121                github-cloud.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-54.231.139.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.130.153                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.192.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
