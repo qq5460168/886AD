@@ -2,9 +2,9 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-23 09:10:21（北京时间）
+! Version: 2024-09-23 10:47:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 8383
+! Total count: 8387
 ||*-*-ad.kuaishou.cn^
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
@@ -1050,6 +1050,7 @@
 ||adx-gateway-live.dz11.com^
 ||adx-gateway-pre.dz11.com^
 ||adx-open-service.youku.com^
+||adx-os.anythinktech.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
 ||adx.halomobi.com^
@@ -7070,6 +7071,7 @@
 ||umengacs.m.taobao.com^
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com^
+||umini.shujupie.com^
 ||umkezbh.cn^
 ||umsns.com^
 ||umtrack.com^
@@ -7217,11 +7219,13 @@
 ||v2.uyan.cc^
 ||v20.events.data.microsoft.com^
 ||v26-novelapp.fqnovelvod.com^
+||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
 ||v3-be-pack.pglstatp-toutiao.com^
 ||v3-cold-src1.douyinvod.com^
 ||v3-fe-pack.pglstatp-toutiao.com^
 ||v3-novelapp.fqnovelvod.com^
+||v3.gdt.qq.com^
 ||v4-lm.adukwai.com^
 ||v4dwkcv.com^
 ||v5-be-pack.pglstatp-toutiao.com^
