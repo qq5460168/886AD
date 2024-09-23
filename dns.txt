@@ -2,9 +2,9 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-23 20:29:52（北京时间）
+! Version: 2024-09-23 22:14:10（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 8387
+! Total count: 8449
 ||*-*-ad.kuaishou.cn^
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
@@ -28,6 +28,7 @@
 ||*.ads.huawei.com.au^
 ||*.ads.huawei.com^
 ||*.beizi.biz^
+||*.cmgadx.com^
 ||*.diwodiwo.xyz^
 ||*.dns.cross.gt^
 ||*.e.qq.com^
@@ -48,6 +49,7 @@
 ||*/api/ad/*^
 ||*/auto_download/game_pkg_list/*^
 ||*/effect_ad/*^
+||*/effect_ad/splash*^
 ||*/effect_ad/splash_screen/*^
 ||*/game/abtest/*^
 ||*/guest/statuses_extend*^
@@ -532,11 +534,13 @@
 ||abdluv.xyz^
 ||abenshishabi.com^
 ||abolid.com^
+||abot.pos.baidu.com^
 ||abovede6.com^
 ||abram.xin^
 ||abrnfctkn.xyz^
 ||absod.video.iqiyi.com^
 ||absorbingconstitution.com^
+||abtest*-misc-lf.zijieapi.com^
 ||abtest-ch.snssdk.com^
 ||abtest.alibaba.com^
 ||abtest.qq.com^
@@ -567,6 +571,7 @@
 ||acscdn.com^
 ||act.api.max.mgtv.com^
 ||act.qq.com^
+||act.vip.iqiyi.com/interact/api/v2/show?P00001=*^
 ||act.vip.iqiyi.com^
 ||act.zhuanzhuan.com^
 ||activation.cyberlink.com^
@@ -1337,6 +1342,7 @@
 ||api.iegadp.qq.com^
 ||api.installer.xiaomi.com^
 ||api.ipify.org^
+||api.iqiyi.com/3f4/iface2.iqiyi.com/control/3.0/init_proxy*^
 ||api.iqiyi.com^
 ||api.jdapi.com^
 ||api.jietuhb.com^
@@ -1344,6 +1350,7 @@
 ||api.juliangcili.com^
 ||api.kingdata.ksyun.com^
 ||api.kuaishouzt.com^
+||api.kurobbs.com/config/getOpenScreen*^
 ||api.kwaizt.com^
 ||api.liumingye.cn^
 ||api.megvii.com^
@@ -1381,9 +1388,11 @@
 ||api.yuedu.dns.iqiyi.com^
 ||api.zhihu.com/ab/*^
 ||api.zhihu.com/commercial_api/answer/*/bottom*^
+||api.zhihu.com/commercial_api/launch_v2?app=*&size=*&non_full_size=*&vf=*^
 ||api.zhihu.com/commercial_api/launch_v2^
 ||api01pbmp.zhuishushenqi.com^
 ||api02u58f.zhuishushenqi.com^
+||api3-normal-c.amemv.com^
 ||api3-normal-hl.fqnovel.com^
 ||api3-normal-lf.fqnovel.com^
 ||api3-normal-lq.fqnovel.com^
@@ -1469,6 +1478,7 @@
 ||aqilk66444a.xyz^
 ||aquvg.com^
 ||aqvwn18102h.com^
+||ards.iqiyi.com^
 ||areyoutherenow.com^
 ||arkn81.com^
 ||arpg2.com^
@@ -1773,6 +1783,7 @@
 ||bsrv.qq.com^
 ||bsstrackercdnbj.kugou.com^
 ||bswsmlp.cn^
+||bsync3-normal-lq.zijieapi.com^
 ||btescs.fun^
 ||btgoo.cc^
 ||btrace.qq.com^
@@ -1869,6 +1880,7 @@
 ||cache.gaode.com^
 ||cache.qiumibao.com^
 ||cache.video.iqiyi.com^
+||cache.wuji.qq.com^
 ||caclick.qq.com^
 ||cad.youku.com^
 ||cai-identity.adobe.io^
@@ -2238,6 +2250,7 @@
 ||d.gdt.qq.com^
 ||d.kugou.com^
 ||d.toutiao.com^
+||d.url.cn/myapp/qq_desk/pre_res/official/*.plist?mType=ConfigCheck^
 ||d.yoyi.tv^
 ||d0lzq.com^
 ||d1.music.126.net^
@@ -2952,6 +2965,7 @@
 ||frontend-perf-service.e.kuaishou.com^
 ||frontier-toutiao.snssdk.com^
 ||frontier100-toutiao-hl.fqnovel.com^
+||frontier100-toutiao-lf.fqnovel.com^
 ||fronttoad.com^
 ||frpns.com^
 ||frrhdl.xyz^
@@ -3060,6 +3074,8 @@
 ||gdsoq.com^
 ||gdt.qq.com^
 ||gdzshoes.com^
+||gecko*-lf.zijieapi.com^
+||gecko*-lq.zijieapi.com^
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
 ||gecko.snssdk.com^
@@ -3560,6 +3576,7 @@
 ||i-game.book.qq.com^
 ||i.cidianwang.com^
 ||i.gdt.qq.com^
+||i.snssdk.com/api/ad/*^
 ||i.snssdk.com^
 ||i.vip.iqiyi.com^
 ||i2.y.qq.com^
@@ -3608,6 +3625,12 @@
 ||iephrenhq.com^
 ||if.mingxing.qq.com^
 ||iface2.dns.iqiyi.com^
+||iface2.iqiyi.com/carrier/2.0/init*^
+||iface2.iqiyi.com/control/3.0/init_login?app_vm=*^
+||iface2.iqiyi.com/views_pop/3.0/component/perception*^
+||iface2.iqiyi.com/views_pop/3.0/component/reward_ad_guide*^
+||iface2.iqiyi.com/views_pop/3.0/component/vip_expire_save_emotion*^
+||iface2.iqiyi.com/views_pop/3.0/pop_control?req_sn=*^
 ||iface2.iqiyi.com^
 ||ifacelog.dns.iqiyi.com^
 ||ifacelog.iqiyi.com^
@@ -3663,6 +3686,7 @@
 ||imagex-settings-*.volcimagex.net^
 ||imagex-settings.volcimagex.net^
 ||imapi2.snssdk.com^
+||imapi5-oth-lq.zijieapi.com^
 ||imc.l.qq.com^
 ||ime-store-cdn.gtimg.com^
 ||ime.gtimg.com^
@@ -3749,6 +3773,7 @@
 ||iparty.asia^
 ||ipc08dt.com^
 ||ipgsgtptgatf.xyz^
+||ipinfo.io^
 ||iplm.cc^
 ||ipm.atm.youku.com^
 ||ipqc5ejfe.icu^
@@ -3885,6 +3910,7 @@
 ||jianchajingmk.net^
 ||jianxinshanghai.com^
 ||jianyihang.com^
+||jibh.zhangxy2.cn^
 ||jieshimaya.xyz^
 ||jietuhb.com^
 ||jiezoiq.cn^
@@ -4271,6 +4297,7 @@
 ||lestv7.icu^
 ||leyad.cn^
 ||lezbrja.cn^
+||lf*-ad-union-sdk.pglstatp-toutiao*.com^
 ||lf*-ad-union-sdk.pglstatp-toutiao.com^
 ||lf*-orange.byteorge.com^
 ||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
@@ -4375,6 +4402,7 @@
 ||livep.l.qq.com^
 ||lives.l.aiseet.atianqi.com^
 ||lives.l.ott.video.qq.com^
+||lives.l.qq.com/livemsg?&ad_type=*^
 ||lives.l.qq.com^
 ||livew.l.qq.com^
 ||liveweb*.msstatic.com^
@@ -4422,6 +4450,7 @@
 ||log-alibaba-taobao-douyin.cdn.bcebos.com^
 ||log-api-mn.huxiu.com^
 ||log-api.huxiu.com^
+||log-api.pangolin-sdk-toutiao*.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
@@ -4474,6 +4503,7 @@
 ||log1.cmpassport.com^
 ||log1wtlogin.qq.com^
 ||log2.cmpassport.com^
+||log3-applog-lq.fqnovel.com^
 ||log3-misc-lf.amemv.com^
 ||log3-misc-lq.amemv.com^
 ||log3-normal-hl.toutiaoapi.com^
@@ -4544,6 +4574,9 @@
 ||luogod.xyz^
 ||luoyangjinmeii.com^
 ||lupic.cdn.bcebos.com^
+||lv-api-sinfonlinea.ulikecam.com/lv/v1/ad/*^
+||lv-api-sinfonlinea.ulikecam.com^
+||lv-api.ulikecam.com^
 ||lvcha99.cc^
 ||lvjtiaa.xyz^
 ||lvrvdn.xyz^
@@ -4603,6 +4636,7 @@
 ||m.uat.ctripqa.com^
 ||m.uat.qa.nt.ctripcorp.com^
 ||m.uscdn.top^
+||m.v.qq.com/activity/qqvideo/interact/gift.html^
 ||m.vcsoat.cn^
 ||m.wantemachine.com.cn^
 ||m.wapa.taopiaopiao.com^
@@ -4668,6 +4702,7 @@
 ||masdk.3g.qq.com^
 ||masdkv6.3g.qq.com^
 ||masterconn.qq.com^
+||match.adsrvr.cn^
 ||maximpetus.com^
 ||mazu.3g.qq.com^
 ||mazu.m.qq.com^
@@ -5337,6 +5372,7 @@
 ||oyysbc.xyz^
 ||ozkbdxdu.icu^
 ||p 1-lm.adkwai.com^
+||p*-*.adkwai.com^
 ||p*-ad-aweme.byteimg.com^
 ||p*-ad-sign.byteimg.com^
 ||p*-ad.byteimg.com^
@@ -5431,6 +5467,7 @@
 ||pages.uc.cn^
 ||pagespeed.report.qq.com^
 ||pageview.kgsz.cn^
+||pan.baidu.com/buy/ad/*^
 ||panchaxumbilic.com^
 ||pangle.cn^
 ||pangolin-dsp-toutiao-b.com^
@@ -5445,6 +5482,7 @@
 ||pangolin-sdk-toutiao5.com^
 ||pangolin-sdk.com^
 ||pangolin-sdk^
+||pangolin.snssdk.com/api/ad/*^
 ||pangolin.snssdk.com^
 ||pangolin16.isnssdk.com^
 ||pangolin16.sgsnssdk.com^
@@ -5472,6 +5510,7 @@
 ||pcstatbak.kugou.com^
 ||pcvzpj.xyz^
 ||pcweb.v1.mgtv.com^
+||pd.ads.cn.miaozhen.com^
 ||pdata.log.mgtv.com^
 ||pdhhmf.cn^
 ||pdiabbi.cn^
@@ -5518,6 +5557,7 @@
 ||pic.meituan.com^
 ||pic0.ptqy.gitv.tv^
 ||pic640.weishi.qq.com^
+||picgg.idti.cn^
 ||picnewsss.com^
 ||picovr.com^
 ||pig.pupuapi.com^
@@ -5534,6 +5574,7 @@
 ||piqtpbxo.icu^
 ||pirubcfy.xyz^
 ||pirxzl.xyz^
+||pitaya.bytedance.com^
 ||pitk.birdgesdk.com^
 ||pixel.facebook.com^
 ||pixiu-ssp.alibaba.com^
@@ -5577,9 +5618,12 @@
 ||poiqknfl.com^
 ||pojihfnkbllg.net^
 ||pojkhufef.xyz^
+||polaris*-normal-lf.zijieapi^
+||polaris.zijieapi.com^
 ||polaris3-normal-hl.zijieapi.com^
 ||polaris3-normal-lf.zijieapi.com^
 ||polaris3-normal-lq.zijieapi.com^
+||polaris5-normal-lq.zijieapi.com^
 ||polfaqgvsd.net^
 ||policy.jd.com^
 ||policy.video.iqiyi.com^
@@ -5594,6 +5638,7 @@
 ||poqwua.cn^
 ||pos.baidu.com^
 ||postserviceuk.com^
+||pow.wandx5.cn^
 ||powedw.com^
 ||ppedp.cn^
 ||ppg.viviv.com^
@@ -5859,6 +5904,7 @@
 ||qutyan8848.com^
 ||quzmtpxw.xyz^
 ||qvxvvjom.com^
+||qw.wandx5.cn^
 ||qw2v.taoxiehui.cn^
 ||qwapi.apple.com^
 ||qwcwnjk.com^
@@ -5919,6 +5965,9 @@
 ||reachmax.cn^
 ||reader.sh.vip.qq.com^
 ||readfar.com^
+||reading.snssdk.com/api/ad/*^
+||reading.snssdk.com/cloudpush/update_sender*^
+||reading.snssdk.com/reading/bookapi/sstimor/entry_type*^
 ||readme.red^
 ||realsrv.com^
 ||realtime-bid.com^
@@ -6396,6 +6445,7 @@
 ||sngmta.qq.com^
 ||snowflake.qq.com^
 ||sns-follow.iqiyi.com^
+||sns-paopao.iqiyi.com/v2/init/query_circle_star_reachlayer.action*^
 ||sns-paopao.iqiyi.com^
 ||snssdk.com^
 ||so.clzgd.com^
@@ -6595,6 +6645,7 @@
 ||t-remad.qm989.com^
 ||t.atomicfile.cn^
 ||t.bilibili.com^
+||t.dentsuchina.cn^
 ||t.gdt.qq.com^
 ||t.jmads.net^
 ||t.l.qq.com^
@@ -6618,6 +6669,7 @@
 ||t7z.cupid.iqiyi.com^
 ||ta.qq.com^
 ||ta20k.xyz^
+||tab.video.qq.com/tab/GetTabRemoteConfig*^
 ||tab.video.qq.com^
 ||tabbar-show-guide.uc.cn^
 ||tahltanboutell.com^
@@ -6858,6 +6910,7 @@
 ||tqmcj.cn^
 ||tquspo.com^
 ||tqytqdrq.icu^
+||tr.byteurl.cn^
 ||trace.qq.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
@@ -6905,6 +6958,7 @@
 ||trognoi.com^
 ||tronads.io^
 ||trp69.top^
+||trpc.qianbao.qq.com^
 ||trqhf.xyz^
 ||trrs-adp.2345.com^
 ||trslw.cn^
@@ -7027,6 +7081,7 @@
 ||ufile.cc^
 ||ufosdk.baidu.com^
 ||ufvauj.cn^
+||ug-data.mihoyo.com/ads-track/*^
 ||ug-data.mihoyo.com^
 ||ug.baidu.com^
 ||ug.snssdk.com^
@@ -7219,12 +7274,14 @@
 ||v2.uyan.cc^
 ||v20.events.data.microsoft.com^
 ||v26-novelapp.fqnovelvod.com^
+||v26-reading.qznovelvod.com^
 ||v2mi.gdt.qq.com^
 ||v3-ad.video.yximgs.com^
 ||v3-be-pack.pglstatp-toutiao.com^
 ||v3-cold-src1.douyinvod.com^
 ||v3-fe-pack.pglstatp-toutiao.com^
 ||v3-novelapp.fqnovelvod.com^
+||v3-reading.qznovelvod.com^
 ||v3.gdt.qq.com^
 ||v4-lm.adukwai.com^
 ||v4dwkcv.com^
@@ -7235,6 +7292,7 @@
 ||v5-hl-g-hw.douyinvod.com^
 ||v5-hl-h-bd.douyinvod.com^
 ||v5-hl-h-hw.douyinvod.com^
+||v5-novelapp.fqnovelvod.com^
 ||v6-adashx.ut.amap.com^
 ||v6-adashx.ut.cainiao.com^
 ||v6-adashx.ut.ele.me^
@@ -7374,6 +7432,7 @@
 ||volceapplog.com^
 ||volcsirius.com^
 ||volcsiriusbd.com^
+||volctrack.com^
 ||volgreal.com^
 ||vorluic.cn^
 ||vortex-win-sandbox.data.microsoft.com^
@@ -7500,6 +7559,7 @@
 ||weather-community-drcn.weather.dbankcloud.cn^
 ||webcast*-open-lq.douyin.com^
 ||webcast-open.douyin.com^
+||webcast.amemv.com/webcast/gamecp/*^
 ||webcast.amemv.com^
 ||webcast5-open-hl.douyin.com^
 ||webcast5-open-lf.douyin.com^
@@ -7646,6 +7706,7 @@
 ||www.dragonib.com^
 ||www.geodeep.org^
 ||www.googleadservices.com^
+||www.googletagmanager.com^
 ||www.govchengdu.cn^
 ||www.govguangxi.cn^
 ||www.govguilin.cn^
@@ -7744,6 +7805,7 @@
 ||www.zbinview.com^
 ||www.zhangjiyi.top^
 ||www.zhaohainan.cn^
+||www.zhihu.com/api/v4/answers/*/recommendations?omni=*&amp;amp;load_new_ad=*&amp;amp;page_index=*^
 ||www42.zskwai.com^
 ||wwxufo.com^
 ||wx.uc.downcdn.top^
