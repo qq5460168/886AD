@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-25 22:15:00（北京时间）
+! Version: 2024-09-26 00:20:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39633
+! Total count: 39681
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-09-25T13:53:15+08:00
+# Update time: 2024-09-25T15:53:47+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -736,7 +736,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-09-25 10:52:26 
+#更新时间: 2024-09-25 22:18:23 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -747,7 +747,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25887
+#规则数量:25941
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -1266,7 +1266,6 @@
 127.0.0.1 360dianjing.agrantsem.com
 127.0.0.1 360fenxi.mediav.com
 127.0.0.1 360popads.com
-127.0.0.1 365.915sj1.xyz
 127.0.0.1 3657fe52a193853bad36e839b2e8316c.urils.pl
 127.0.0.1 365win.pro
 127.0.0.1 3681288bd39c31d0f8de.goonlinebnparibas-pl.click
@@ -8741,7 +8740,6 @@
 127.0.0.1 api.optnmnstr.com
 127.0.0.1 api.otherlevels.com
 127.0.0.1 api.ozui.vn
-127.0.0.1 api.palpita.net
 127.0.0.1 api.par.vip.prod.criteo.com
 127.0.0.1 api.parse.com
 127.0.0.1 api.parsely.com
@@ -9009,6 +9007,7 @@
 127.0.0.1 apk.shouji.koowo.com
 127.0.0.1 apk.sky.fs.skysrt.com
 127.0.0.1 aplysialors.click
+127.0.0.1 apm-volcano.zuoyebang.com
 127.0.0.1 apm.umeng.com
 127.0.0.1 apm.volccdn.com
 127.0.0.1 apm3.tingyun.com
@@ -10100,6 +10099,7 @@
 127.0.0.1 bridesargean.click
 127.0.0.1 brief-tank.pro
 127.0.0.1 briefengineer.pro
+127.0.0.1 brigada2024.com
 127.0.0.1 bright-horizon.click
 127.0.0.1 bright-sdk.com
 127.0.0.1 brightportal.click
@@ -10186,6 +10186,7 @@
 127.0.0.1 buluo.qq.com
 127.0.0.1 buoyant-force.pro
 127.0.0.1 buoyant-quote.pro
+127.0.0.1 bupyryi3.pro
 127.0.0.1 burnett.radsport.pl
 127.0.0.1 bursa.conxxx.pro
 127.0.0.1 bushibousy.click
@@ -10294,6 +10295,7 @@
 127.0.0.1 c.isdspeed.qq.com
 127.0.0.1 c.it.msn.com
 127.0.0.1 c.jp.msn.com
+127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 c.latam.msn.com
 127.0.0.1 c.mpl.dutils.com
@@ -10415,6 +10417,7 @@
 127.0.0.1 canadapro.pro
 127.0.0.1 canariajournalen.ads.ramsalt.com
 127.0.0.1 cancunfishingadventures.com
+127.0.0.1 candata.click
 127.0.0.1 canny1316-ollox-pl.roadsign.top
 127.0.0.1 canonch.pro
 127.0.0.1 canvas.gdt.qq.com
@@ -10785,6 +10788,7 @@
 127.0.0.1 charge.adapp.baidu.com
 127.0.0.1 chart.advinion.com
 127.0.0.1 chartbeat-sdk.s3.amazonaws.com
+127.0.0.1 chasebank-update.onthewifi.com
 127.0.0.1 chasingroads.com
 127.0.0.1 chat-pro.cas-program.site
 127.0.0.1 chat-pro.program-plus.xyz
@@ -11407,7 +11411,6 @@
 127.0.0.1 commdata.v.qq.com
 127.0.0.1 commdata6.v.qq.com
 127.0.0.1 commercial-i30.com
-127.0.0.1 commercial-vip.top
 127.0.0.1 commercial.davey.com
 127.0.0.1 commercial.daznservices.com
 127.0.0.1 commercial.equifax.com
@@ -11540,6 +11543,7 @@
 127.0.0.1 correoargentino-ad.top
 127.0.0.1 correoytelegrafos.pro
 127.0.0.1 cors.hot-mob.com
+127.0.0.1 corsi.advaiora.it
 127.0.0.1 corusads.dserv.ca
 127.0.0.1 cosmicadventures.tech
 127.0.0.1 cosmiccascadecam.click
@@ -11567,6 +11571,7 @@
 127.0.0.1 cowboy.contextuads.com
 127.0.0.1 cowestoped.pro
 127.0.0.1 cowroidforril.click
+127.0.0.1 cowslipcornflowercowslip.pro
 127.0.0.1 cox.deliveryengine.adswizz.com
 127.0.0.1 cozydae9.pro
 127.0.0.1 cp-home-pl-02fa9a4ad7c.platamix.com
@@ -13190,7 +13195,6 @@
 127.0.0.1 es.ero-advertising.com
 127.0.0.1 escada01.webtrekk.net
 127.0.0.1 escortlist.pro
-127.0.0.1 esidemen-fad218.ingress-haven.ewp.live
 127.0.0.1 esla.interfoxprog.click
 127.0.0.1 eslisorchenet.click
 127.0.0.1 eslnd.click
@@ -14280,6 +14284,7 @@
 127.0.0.1 google-shopping-v2.sapoapps.vn
 127.0.0.1 google-shopping.sapoapps.vn
 127.0.0.1 google-stare.com
+127.0.0.1 google.business-fiche.com
 127.0.0.1 google.bv-hilden-west.de
 127.0.0.1 google.com-firewall.online
 127.0.0.1 google.mellrichstadt-stadtkapelle.de
@@ -14409,6 +14414,7 @@
 127.0.0.1 gulijeopoe.pro
 127.0.0.1 gullible-lawyer.pro
 127.0.0.1 gumalas.velgondaads.link
+127.0.0.1 gungnir.xiaojukeji.com
 127.0.0.1 guppyfrument.click
 127.0.0.1 guruads.de
 127.0.0.1 gurudeposit.click
@@ -16077,7 +16083,6 @@
 127.0.0.1 kradli-invest.pro
 127.0.0.1 kraksainfo.click
 127.0.0.1 kraksasamochod.click
-127.0.0.1 kreatividads.com
 127.0.0.1 kreatorinformacji.click
 127.0.0.1 krombor-invest.pro
 127.0.0.1 kronikadowodowa.click
@@ -18655,6 +18660,7 @@
 127.0.0.1 olx.polska-dastawka.pro
 127.0.0.1 olx.pro-redirect.shop
 127.0.0.1 olx.retrograde9.space
+127.0.0.1 olx.share-domain.shop
 127.0.0.1 omawiamywypadek.click
 127.0.0.1 omes-sec.heytapmobile.com
 127.0.0.1 omg.esprit-click.com
@@ -18703,6 +18709,7 @@
 127.0.0.1 online-info.click
 127.0.0.1 online.adservicemedia.dk
 127.0.0.1 online.cnzz.com
+127.0.0.1 online.detailings.click
 127.0.0.1 online.jtiadvance.co.uk
 127.0.0.1 online.people-pro.design
 127.0.0.1 onlineads.magicvalley.com
@@ -19025,11 +19032,13 @@
 127.0.0.1 p.teads.tv
 127.0.0.1 p.tencentmind.com
 127.0.0.1 p0-ad-sign.byteimg.com
+127.0.0.1 p0-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p0-orange.byteorge.com
 127.0.0.1 p0.tribution.mobi
 127.0.0.1 p1-ad-sign.byteimg.com
 127.0.0.1 p1-ad.adukwai.com
 127.0.0.1 p1-be-endcard.pglstatp-toutiao.com
+127.0.0.1 p1-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p1-dpa.byteimg.com
 127.0.0.1 p1-dy.bytexservice.com
 127.0.0.1 p1-jx.adukwai.com
@@ -19041,28 +19050,39 @@
 127.0.0.1 p1.adkwai.com
 127.0.0.1 p1.tribution.mobi
 127.0.0.1 p10-ad-sign.byteimg.com
+127.0.0.1 p10-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p10-orange.byteorge.com
 127.0.0.1 p11-ad-sign.byteimg.com
+127.0.0.1 p11-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p11-orange.byteorge.com
 127.0.0.1 p12-ad-sign.byteimg.com
+127.0.0.1 p12-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p12-orange.byteorge.com
 127.0.0.1 p13-ad-sign.byteimg.com
+127.0.0.1 p13-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p13-orange.byteorge.com
 127.0.0.1 p14-ad-sign.byteimg.com
+127.0.0.1 p14-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p14-orange.byteorge.com
 127.0.0.1 p15-ad-sign.byteimg.com
+127.0.0.1 p15-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p15-orange.byteorge.com
 127.0.0.1 p16-ad-sign.byteimg.com
 127.0.0.1 p16-ad.byteoversea.com
+127.0.0.1 p16-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p16-orange.byteorge.com
 127.0.0.1 p17-ad-sign.byteimg.com
+127.0.0.1 p17-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p17-orange.byteorge.com
 127.0.0.1 p18-ad-sign.byteimg.com
+127.0.0.1 p18-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p18-orange.byteorge.com
 127.0.0.1 p19-ad-sign.byteimg.com
+127.0.0.1 p19-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p19-orange.byteorge.com
 127.0.0.1 p2-ad-sign.byteimg.com
 127.0.0.1 p2-ad.adukwai.com
+127.0.0.1 p2-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p2-jx.adukwai.com
 127.0.0.1 p2-lm.adukwai.com
 127.0.0.1 p2-orange.byteorge.com
@@ -19072,25 +19092,34 @@
 127.0.0.1 p2.l.qq.com
 127.0.0.1 p2.tribution.mobi
 127.0.0.1 p20-ad-sign.byteimg.com
+127.0.0.1 p20-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p20-orange.byteorge.com
 127.0.0.1 p21-ad-sign.byteimg.com
+127.0.0.1 p21-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p21-orange.byteorge.com
 127.0.0.1 p22-ad-sign.byteimg.com
+127.0.0.1 p22-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p22-orange.byteorge.com
 127.0.0.1 p23-ad-sign.byteimg.com
+127.0.0.1 p23-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p23-orange.byteorge.com
 127.0.0.1 p24-ad-sign.byteimg.com
+127.0.0.1 p24-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p24-orange.byteorge.com
 127.0.0.1 p25-ad-sign.byteimg.com
+127.0.0.1 p25-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p25-orange.byteorge.com
 127.0.0.1 p26-ad-sign.byteimg.com
 127.0.0.1 p26-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p26-orange.byteorge.com
 127.0.0.1 p27-ad-sign.byteimg.com
+127.0.0.1 p27-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p27-orange.byteorge.com
 127.0.0.1 p28-ad-sign.byteimg.com
+127.0.0.1 p28-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p28-orange.byteorge.com
 127.0.0.1 p29-ad-sign.byteimg.com
+127.0.0.1 p29-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p29-orange.byteorge.com
 127.0.0.1 p3-ad-sign.byteimg.com
 127.0.0.1 p3-ad.adukwai.com
@@ -19102,18 +19131,22 @@
 127.0.0.1 p3.l.qq.com
 127.0.0.1 p3.tribution.mobi
 127.0.0.1 p30-ad-sign.byteimg.com
+127.0.0.1 p30-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p30-orange.byteorge.com
 127.0.0.1 p31-ad-sign.byteimg.com
+127.0.0.1 p31-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p31-orange.byteorge.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 p4-ad-sign.byteimg.com
 127.0.0.1 p4-ad.adukwai.com
+127.0.0.1 p4-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p4-orange.byteorge.com
 127.0.0.1 p4.tribution.mobi
 127.0.0.1 p4p.sina.com.cn
 127.0.0.1 p4talparad1se.xyz
 127.0.0.1 p5-ad-sign.byteimg.com
 127.0.0.1 p5-ad.adukwai.com
+127.0.0.1 p5-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p5-orange.byteorge.com
 127.0.0.1 p5.tribution.mobi
 127.0.0.1 p59.8hwo.pro
@@ -19124,10 +19157,12 @@
 127.0.0.1 p6-reading-sign.fqnovelpic.com
 127.0.0.1 p6.tribution.mobi
 127.0.0.1 p7-ad-sign.byteimg.com
+127.0.0.1 p7-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p7-orange.byteorge.com
 127.0.0.1 p7.tribution.mobi
 127.0.0.1 p7vf9d9xlv.click
 127.0.0.1 p8-ad-sign.byteimg.com
+127.0.0.1 p8-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p8-orange.byteorge.com
 127.0.0.1 p8.tribution.mobi
 127.0.0.1 p9-ad-sign.byteimg.com
@@ -19728,6 +19763,7 @@
 127.0.0.1 polskihistoria.pro
 127.0.0.1 polubmyinfo24.click
 127.0.0.1 polymorphicads.jp
+127.0.0.1 pomesspawn.click
 127.0.0.1 pomoc-drogowa.click
 127.0.0.1 pomocspoleczenstwa.click
 127.0.0.1 pomyslimyrazem.click
@@ -20301,7 +20337,6 @@
 127.0.0.1 pttgovt.click
 127.0.0.1 pub-0022a19ad46f4f3a8eaf8391b81b7edb.r2.dev
 127.0.0.1 pub-00a2ad7fd61a4ece8d6a0dd5f113b614.r2.dev
-127.0.0.1 pub-00ad3e5fc48344368a5c3cff8615e38e.r2.dev
 127.0.0.1 pub-01c0ddcad0924cda83a1bce4fc1ecdf7.r2.dev
 127.0.0.1 pub-0259917d32254fe8ad9ed6707a70637d.r2.dev
 127.0.0.1 pub-02c7a3badd434dd2a98a765f8b773218.r2.dev
@@ -21338,7 +21373,6 @@
 127.0.0.1 reactads.com
 127.0.0.1 reactads.engine.adglare.net
 127.0.0.1 reactivasolicitudes.viaservicezone.click
-127.0.0.1 reactivasolicitudes.viazonasegura.click
 127.0.0.1 reactivasoluciones.viaservicezone.click
 127.0.0.1 reactivasoluciones.zonasegura.click
 127.0.0.1 reactivasoluciones.zonaseguraservicio.click
@@ -22848,6 +22882,7 @@
 127.0.0.1 site.e.mi.com
 127.0.0.1 site.rmladv.com.br
 127.0.0.1 siteadvisor.com-br.site
+127.0.0.1 siteamericanaoficial.click
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sitterning.pro
 127.0.0.1 situlinvest.pro
@@ -23368,6 +23403,7 @@
 127.0.0.1 starannepismo.click
 127.0.0.1 staranysie.click
 127.0.0.1 starbase.pro
+127.0.0.1 starc.adv.koznak.tv
 127.0.0.1 starchy-foundation.pro
 127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 starget.workingadvantage.com
@@ -24491,6 +24527,7 @@
 127.0.0.1 tpptv.ipdx.cn.miaozhen.com
 127.0.0.1 tpsdkmw.pl
 127.0.0.1 tpush.html5.qq.com
+127.0.0.1 tpzxji.angelamuc.pro
 127.0.0.1 tq.adventurefeeds.com
 127.0.0.1 tr-asia.adsmoloco.com
 127.0.0.1 tr-eu.adsmoloco.com
@@ -24900,7 +24937,6 @@
 127.0.0.1 tthathehadstop.info
 127.0.0.1 ttmsg.qianqian.com
 127.0.0.1 ttnet.yandex.com.tr
-127.0.0.1 ttp.leelight444ne.dns-dynamic.net
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
 127.0.0.1 ttplugins.ttpsdk.info
@@ -24993,6 +25029,7 @@
 127.0.0.1 tx.xtnew.click
 127.0.0.1 tx2.a.yximgs.com
 127.0.0.1 txfgav.pottex-check.top
+127.0.0.1 txkikatlim.click
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 txthelj.click
 127.0.0.1 ty.viqiyi.admaster.com.cn
@@ -25221,6 +25258,7 @@
 127.0.0.1 unseaminoax.click
 127.0.0.1 unsnakyctg.click
 127.0.0.1 unstat.baidu.com
+127.0.0.1 unsulkyposes.click
 127.0.0.1 untiesagami.click
 127.0.0.1 untriedcause.pro
 127.0.0.1 uoad767.lisanse.com
@@ -26514,6 +26552,7 @@
 127.0.0.1 winnotice.inmobi.cn
 127.0.0.1 winsecretary.click
 127.0.0.1 wirtaspin-investing.pro
+127.0.0.1 wirtualnapolska.click
 127.0.0.1 wirtualnatv.click
 127.0.0.1 wirtualneinfo.click
 127.0.0.1 wirtualneinfo24h.click
@@ -27207,6 +27246,7 @@
 127.0.0.1 www.breakinginstantflash.click
 127.0.0.1 www.breakinglive.click
 127.0.0.1 www.breakingtoday.click
+127.0.0.1 www.brigada2024.com
 127.0.0.1 www.bright-horizon.click
 127.0.0.1 www.brightportal.click
 127.0.0.1 www.broadspring.com
@@ -27221,6 +27261,7 @@
 127.0.0.1 www.btw.ero-advertising.com
 127.0.0.1 www.bulletads.com
 127.0.0.1 www.bulletinquantumflow.click
+127.0.0.1 www.bupyryi3.pro
 127.0.0.1 www.businessandtrading.pro
 127.0.0.1 www.buttonpush.click
 127.0.0.1 www.buycheapadvertising.com
@@ -27347,6 +27388,7 @@
 127.0.0.1 www.coughat.pro
 127.0.0.1 www.coupleesenergyed.pro
 127.0.0.1 www.cowestoped.pro
+127.0.0.1 www.cowslipcornflowercowslip.pro
 127.0.0.1 www.cozydae9.pro
 127.0.0.1 www.cpmadvisors.com
 127.0.0.1 www.cpro.baidu.com
@@ -28235,8 +28277,10 @@
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro
 127.0.0.1 www.olx.pro-redirect.shop
+127.0.0.1 www.olx.share-domain.shop
 127.0.0.1 www.onel-pol.click
 127.0.0.1 www.onet-news.click
+127.0.0.1 www.online.detailings.click
 127.0.0.1 www.onlinedownloads.org
 127.0.0.1 www.onmatotajot.click
 127.0.0.1 www.opads.ero-advertising.com
@@ -28840,6 +28884,7 @@
 127.0.0.1 www.townshipbookmarking.pro
 127.0.0.1 www.townshiprutabagaas.pro
 127.0.0.1 www.tpsdkmw.pl
+127.0.0.1 www.tpzxji.angelamuc.pro
 127.0.0.1 www.trace-2000.com
 127.0.0.1 www.track.adsfast.com
 127.0.0.1 www.trackadsb1.com
@@ -29031,6 +29076,7 @@
 127.0.0.1 www.winads.cn
 127.0.0.1 www.windhawkadvisors.com
 127.0.0.1 www.wirtaspin-investing.pro
+127.0.0.1 www.wirtualnapolska.click
 127.0.0.1 www.wks.ero-advertising.com
 127.0.0.1 www.wogikeu4.pro
 127.0.0.1 www.wohivyazyu.pro
@@ -29085,6 +29131,7 @@
 127.0.0.1 www.xlodion-invest.pro
 127.0.0.1 www.xn--adspace-kvg.ero-advertising.com
 127.0.0.1 www.xobagao4.pro
+127.0.0.1 www.xoberny.click
 127.0.0.1 www.xofyfyemeo.pro
 127.0.0.1 www.xolarpannel.click
 127.0.0.1 www.xoqapiiawei.pro
@@ -29380,6 +29427,7 @@
 127.0.0.1 xnet.da.mgtv.com
 127.0.0.1 xoada0pzosa.appspot.com
 127.0.0.1 xobagao4.pro
+127.0.0.1 xoberny.click
 127.0.0.1 xocdia88.click
 127.0.0.1 xofyfyemeo.pro
 127.0.0.1 xolarpannel.click
@@ -29442,6 +29490,7 @@
 127.0.0.1 yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru
 127.0.0.1 yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
+127.0.0.1 yandex.cdek.ber.youla.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.ru
 127.0.0.1 yandex.youla.allegrolokalnie.pl-oferta-id2387942371.top
@@ -29808,7 +29857,6 @@
 127.0.0.1 zymubyo1.click
 127.0.0.1 zyvurao6.pro
 127.0.0.1 zz.bdstatic.com
-13.107.253.40                 vscode.dev
 13.107.42.16                  pipelines.actions.githubusercontent.com
 140.82.112.21                 education.github.com
 140.82.112.22 cloud.githubusercontent.com
@@ -29826,6 +29874,7 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
+16.182.33.33                  github-cloud.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -29837,15 +29886,10 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.109.153               assets-cdn.github.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
 185.199.109.153               githubstatus.com
-185.199.109.154               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29855,18 +29899,23 @@
 185.199.110.133 avatars5.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
+185.199.110.153               assets-cdn.github.com
 185.199.110.153               github.io
+185.199.110.154               github.githubassets.com
+185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29894,9 +29943,8 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.216.43.217                 github-cloud.s3.amazonaws.com
+52.217.103.188                github-com.s3.amazonaws.com
 52.217.194.241                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.46.228                 github-com.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 54.231.139.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
 54.231.204.97                 github-production-user-asset-6210df.s3.amazonaws.com
