@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-26 22:14:37（北京时间）
+! Version: 2024-09-27 00:18:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39684
+! Total count: 39638
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-09-26T13:53:14+08:00
+# Update time: 2024-09-26T15:53:47+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -736,7 +736,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-09-26 09:23:07 
+#更新时间: 2024-09-26 22:18:09 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -747,7 +747,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25945
+#规则数量:25898
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -1776,7 +1776,6 @@
 127.0.0.1 account.umeng.com
 127.0.0.1 accountant.trade2022.quest
 127.0.0.1 accounts-google-signin-identifier.immasterygiveaway.com
-127.0.0.1 accounts-google.no9.cc
 127.0.0.1 accounts-google.shop
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 accounts.servicar.click
@@ -1820,8 +1819,6 @@
 127.0.0.1 active1.pro-masters.xyz
 127.0.0.1 activeqq.3g.qq.com
 127.0.0.1 actives.youku.com
-127.0.0.1 activisionads.com
-127.0.0.1 activisiongifte.pro
 127.0.0.1 activisionpoint.click
 127.0.0.1 activisions.click
 127.0.0.1 activistforeheadsyndromear.pro
@@ -3795,6 +3792,7 @@
 127.0.0.1 ads.ccstock.cn
 127.0.0.1 ads.cdn.rovio.com
 127.0.0.1 ads.cdn.viber.com
+127.0.0.1 ads.cdn2-img.net
 127.0.0.1 ads.cdnow.com
 127.0.0.1 ads.cdnslate.com
 127.0.0.1 ads.cdrinfo.com
@@ -6838,6 +6836,7 @@
 127.0.0.1 alcazar.pro
 127.0.0.1 alchemy-trade.pro
 127.0.0.1 alchemy-trades.pro
+127.0.0.1 aldolstelly.click
 127.0.0.1 alenotebook.click
 127.0.0.1 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 127.0.0.1 alexa.radsport.pl
@@ -9337,7 +9336,6 @@
 127.0.0.1 avgads.space
 127.0.0.1 aviabotpl.pro
 127.0.0.1 aviplgame.pro
-127.0.0.1 avito.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 avoadsservices.com
 127.0.0.1 avowtech.mobileadstrk.com
 127.0.0.1 avroad3431.fun
@@ -10525,8 +10523,6 @@
 127.0.0.1 cd.ladsp.com
 127.0.0.1 cd0ad404ef172f7ca74302f53756c4e1.dopla.com.pl
 127.0.0.1 cdbank.yoyi.com.cn
-127.0.0.1 cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
-127.0.0.1 cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 cdn-2.tradplusad.com
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 cdn-ad.wtzw.com
@@ -10787,7 +10783,6 @@
 127.0.0.1 charge.adapp.baidu.com
 127.0.0.1 chart.advinion.com
 127.0.0.1 chartbeat-sdk.s3.amazonaws.com
-127.0.0.1 chasebank-update.onthewifi.com
 127.0.0.1 chasingroads.com
 127.0.0.1 chat-pro.cas-program.site
 127.0.0.1 chat-pro.program-plus.xyz
@@ -10810,6 +10805,7 @@
 127.0.0.1 cheat-hacks-free-download.com
 127.0.0.1 check-activity.com.ru
 127.0.0.1 check-dashlane.com
+127.0.0.1 check-hticompialnt520842.com
 127.0.0.1 check-iy-ver-172-3.site
 127.0.0.1 check-now.online
 127.0.0.1 check-olx.pl
@@ -13841,6 +13837,7 @@
 127.0.0.1 fusionhacks.pro
 127.0.0.1 fuss10.elemecdn.com
 127.0.0.1 fussy-highway.pro
+127.0.0.1 fussysandwich.pro
 127.0.0.1 futukuy0.pro
 127.0.0.1 futureads.io
 127.0.0.1 futurein-2023.click
@@ -14151,6 +14148,7 @@
 127.0.0.1 globalsellingads.com
 127.0.0.1 globalwebads.com
 127.0.0.1 globedore.click
+127.0.0.1 globmall.pro
 127.0.0.1 glod-invest.pro
 127.0.0.1 glores2.lanzoui.com
 127.0.0.1 glores2.lanzoux.com
@@ -16292,7 +16290,6 @@
 127.0.0.1 leadspace.com
 127.0.0.1 leadspackages.com
 127.0.0.1 leadsplumber.com
-127.0.0.1 leadspro.com.br
 127.0.0.1 leadsteed.com
 127.0.0.1 leadstore00.com
 127.0.0.1 leadsynaptic.go2jump.org
@@ -17907,7 +17904,6 @@
 127.0.0.1 myzaliy3.pro
 127.0.0.1 myzen.click
 127.0.0.1 mz-api.smzdm.com
-127.0.0.1 mzenkwnadg85ro.top
 127.0.0.1 mzpro.tes1aprodj.click
 127.0.0.1 n--pan-eixe.xn--baidu-jm6h.com
 127.0.0.1 n-ad-bg.adwo.com
@@ -18292,7 +18288,6 @@
 127.0.0.1 nodice.click
 127.0.0.1 noearon.click
 127.0.0.1 noisermaker.click
-127.0.0.1 noisy-advantage-deafening.on-fleek.app
 127.0.0.1 noisyjoke.pro
 127.0.0.1 nolimits.globalinvest365.click
 127.0.0.1 nomad1cno.site
@@ -19347,10 +19342,7 @@
 127.0.0.1 pavte.gradspeeches.com
 127.0.0.1 paxdola.click
 127.0.0.1 pay-click.ru
-127.0.0.1 pay.cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
-127.0.0.1 pay.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 pay.ofisls-pro.xyz
-127.0.0.1 pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 payment-callback.spotify.com
 127.0.0.1 paypalssl.doubleclick.net
 127.0.0.1 payperclickadvertising.org.uk
@@ -19682,8 +19674,6 @@
 127.0.0.1 poarigkurihka.pro
 127.0.0.1 pobierzteraz.mobi
 127.0.0.1 pocerportidv.pro
-127.0.0.1 pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
-127.0.0.1 pochta.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 pociagekspresowy.click
 127.0.0.1 pocketads.pl
 127.0.0.1 poczatekdobra.click
@@ -20647,7 +20637,6 @@
 127.0.0.1 pub-76de8a9dfc6c4015ad2d0d1161449d34.r2.dev
 127.0.0.1 pub-779d25a31fda4cea979dad4c122c0706.r2.dev
 127.0.0.1 pub-77df98259b4542448ce4d1ead679c942.r2.dev
-127.0.0.1 pub-783ac6b33440486aad2c467a00ee8667.r2.dev
 127.0.0.1 pub-785ceff4c7744e0291ce10ad33e52189.r2.dev
 127.0.0.1 pub-787955dcf69846d8bd51c284d7c1bad1.r2.dev
 127.0.0.1 pub-78e7b32de1fb4054ad74d951ae15a97c.r2.dev
@@ -21363,6 +21352,7 @@
 127.0.0.1 rd.wan.360.cn
 127.0.0.1 rd09ettvoemc.pro
 127.0.0.1 rd596n.jomodns.com
+127.0.0.1 rdoge.pro
 127.0.0.1 rdr.ad-score.com
 127.0.0.1 rdrm1.click
 127.0.0.1 rdrm2.click
@@ -22199,8 +22189,6 @@
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 sbem.tentaklsistem.click
-127.0.0.1 sberbank.yandex.allegrolokalnie.pl-oferta-id2387942371.top
-127.0.0.1 sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 sbjjzdwqg41ps.click
 127.0.0.1 sbkh5.z74d.com
 127.0.0.1 sbrakepads.com
@@ -22883,7 +22871,6 @@
 127.0.0.1 site.e.mi.com
 127.0.0.1 site.rmladv.com.br
 127.0.0.1 siteadvisor.com-br.site
-127.0.0.1 siteamericanaoficial.click
 127.0.0.1 sitemonitor.cn.miaozhen.com
 127.0.0.1 sitterning.pro
 127.0.0.1 situlinvest.pro
@@ -25030,7 +25017,6 @@
 127.0.0.1 tx.xtnew.click
 127.0.0.1 tx2.a.yximgs.com
 127.0.0.1 txfgav.pottex-check.top
-127.0.0.1 txkikatlim.click
 127.0.0.1 txt.go.sohu.com
 127.0.0.1 txthelj.click
 127.0.0.1 ty.viqiyi.admaster.com.cn
@@ -25283,7 +25269,6 @@
 127.0.0.1 update-information.zzux.com
 127.0.0.1 update-it-now.com
 127.0.0.1 update-java.kit.net
-127.0.0.1 update-ledger.net
 127.0.0.1 update-mac.com
 127.0.0.1 update-managepymntsupportintlapps.unusa.pk
 127.0.0.1 update-mxtuelul4gzs-information.line.pm
@@ -25639,6 +25624,7 @@
 127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 validate.appsflyer.com
 127.0.0.1 validus.pro
+127.0.0.1 validworking.pro
 127.0.0.1 valipl.cp31.ott.cibntv.net
 127.0.0.1 valofly.pro
 127.0.0.1 valuableadvantage.monster
@@ -25693,7 +25679,6 @@
 127.0.0.1 vendorchange.click
 127.0.0.1 vented.newdostawa174295.click
 127.0.0.1 venture-365-inspired.com
-127.0.0.1 veraflorindo.adv.br
 127.0.0.1 verandal.click
 127.0.0.1 verbenebaining.click
 127.0.0.1 verification.jiguang.cn
@@ -26553,6 +26538,7 @@
 127.0.0.1 winnotice.inmobi.cn
 127.0.0.1 winsecretary.click
 127.0.0.1 wirtaspin-investing.pro
+127.0.0.1 wirtualnaczytac.click
 127.0.0.1 wirtualnapolska.click
 127.0.0.1 wirtualnatv.click
 127.0.0.1 wirtualneinfo.click
@@ -26822,7 +26808,6 @@
 127.0.0.1 www-banner.chat.ru
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-google.nl
-127.0.0.1 www.0ad4a42868fc920e69787853d2a02df3.dirks.pl
 127.0.0.1 www.0latfee.ero-advertising.com
 127.0.0.1 www.0n.click
 127.0.0.1 www.1-1ads.com
@@ -26834,7 +26819,6 @@
 127.0.0.1 www.1l0x.pro
 127.0.0.1 www.2345.com
 127.0.0.1 www.24-news.pro
-127.0.0.1 www.2661077480949d8d0e48af1ad6801366.dirks.pl
 127.0.0.1 www.2baners.ero-advertising.com
 127.0.0.1 www.2ds.ero-advertising.com
 127.0.0.1 www.2fbanners.ero-advertising.com
@@ -27086,7 +27070,6 @@
 127.0.0.1 www.allyhealthadvocates.com
 127.0.0.1 www.aluminumcalculusar.pro
 127.0.0.1 www.aluminumforeheades.pro
-127.0.0.1 www.aluminummeantimeis.pro
 127.0.0.1 www.aluminummeringueis.pro
 127.0.0.1 www.aluminumplayroomar.pro
 127.0.0.1 www.am0r0usadv6ntures.sbs
@@ -27140,7 +27123,6 @@
 127.0.0.1 www.autumnadventure5.xyz
 127.0.0.1 www.avast-downloads.com
 127.0.0.1 www.avenueadventure.xyz
-127.0.0.1 www.aviplgame.pro
 127.0.0.1 www.avnads.com
 127.0.0.1 www.avoadsservices.com
 127.0.0.1 www.avsads.com
@@ -27161,7 +27143,6 @@
 127.0.0.1 www.balticpipe.pro
 127.0.0.1 www.ban3ers.ero-advertising.com
 127.0.0.1 www.ban4ers.ero-advertising.com
-127.0.0.1 www.bancade30.com
 127.0.0.1 www.banjers.ero-advertising.com
 127.0.0.1 www.banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 127.0.0.1 www.bann12s.ero-advertising.com
@@ -27414,7 +27395,6 @@
 127.0.0.1 www.cyberlaws.pro
 127.0.0.1 www.cyhners.ero-advertising.com
 127.0.0.1 www.d2378329a9-update.kaskak1.pl
-127.0.0.1 www.d355adf695dd65105ce844c1b8aa3546.dirks.pl
 127.0.0.1 www.d3d02-uppps.click
 127.0.0.1 www.da-ads.com
 127.0.0.1 www.daaa.ero-advertising.com
@@ -27496,7 +27476,6 @@
 127.0.0.1 www.dralig-investing.pro
 127.0.0.1 www.dravor-investing.pro
 127.0.0.1 www.drawermop.click
-127.0.0.1 www.drogowenewsy.click
 127.0.0.1 www.dropped-click.com
 127.0.0.1 www.dsads123a.is-best.net
 127.0.0.1 www.dsmthreads.com
@@ -27513,7 +27492,6 @@
 127.0.0.1 www.dyhonay8.pro
 127.0.0.1 www.dzialaniaobowiazkowe.click
 127.0.0.1 www.dzibaninvesting.pro
-127.0.0.1 www.dziennesprawozdanie.click
 127.0.0.1 www.dziennetragedie.click
 127.0.0.1 www.e-hpaces.ero-advertising.com
 127.0.0.1 www.e-traffic.com
@@ -27666,7 +27644,6 @@
 127.0.0.1 www.fylagya6.pro
 127.0.0.1 www.fyricoo0.pro
 127.0.0.1 www.gad6r4-uqps.club
-127.0.0.1 www.gainsgateway.pro
 127.0.0.1 www.gajdyninvest.pro
 127.0.0.1 www.game-advertising-online.com
 127.0.0.1 www.gammadsp.com
@@ -27977,7 +27954,6 @@
 127.0.0.1 www.konsekwencjaczynu.click
 127.0.0.1 www.konsola-dla-ciebie.click
 127.0.0.1 www.kordlang-investing.pro
-127.0.0.1 www.kosubua.pro
 127.0.0.1 www.kradli-invest.pro
 127.0.0.1 www.krombor-invest.pro
 127.0.0.1 www.ktojestoktoinema.click
@@ -28203,7 +28179,6 @@
 127.0.0.1 www.newbiznest.click
 127.0.0.1 www.newjokemer.click
 127.0.0.1 www.newsbesl.click
-127.0.0.1 www.newsdrogowy.click
 127.0.0.1 www.newsgazeta.click
 127.0.0.1 www.newsshow.click
 127.0.0.1 www.newsyoucanread24.com
@@ -28259,7 +28234,6 @@
 127.0.0.1 www.officeingservees.pro
 127.0.0.1 www.ogolnytemat.click
 127.0.0.1 www.ogromnewydarzenie.click
-127.0.0.1 www.ogromnezasiegi.click
 127.0.0.1 www.oistatniarundka.click
 127.0.0.1 www.okolicznewiesci.click
 127.0.0.1 www.oksioninvest.pro
@@ -28296,7 +28270,6 @@
 127.0.0.1 www.openinvestingstrat.click
 127.0.0.1 www.openstartjoin.click
 127.0.0.1 www.operator-platnosci.click
-127.0.0.1 www.opiniujemylive.click
 127.0.0.1 www.optad360.com
 127.0.0.1 www.orbimer-investing.pro
 127.0.0.1 www.orbitaltrace.click
@@ -28371,7 +28344,6 @@
 127.0.0.1 www.pge-sa.click
 127.0.0.1 www.pgeobrot.click
 127.0.0.1 www.pgesa.click
-127.0.0.1 www.pglopen.pro
 127.0.0.1 www.phoenixads.co.in
 127.0.0.1 www.phonesecure.mobi
 127.0.0.1 www.photo-ads.co.uk
@@ -28415,7 +28387,6 @@
 127.0.0.1 www.pocztowy.pro
 127.0.0.1 www.podtkoeiec.click
 127.0.0.1 www.podzatkaer.click
-127.0.0.1 www.pogadankalokalna.click
 127.0.0.1 www.pogagyo8.pro
 127.0.0.1 www.pointgroweye.pro
 127.0.0.1 www.pol-postesa.pro
@@ -28443,7 +28414,6 @@
 127.0.0.1 www.postnewsads.com
 127.0.0.1 www.potrzebneinfo.click
 127.0.0.1 www.potrzebuje.click
-127.0.0.1 www.pouczenieludzi.click
 127.0.0.1 www.poutineedreallyed.pro
 127.0.0.1 www.povaloa0.pro
 127.0.0.1 www.povvertyfocus.click
@@ -28614,7 +28584,6 @@
 127.0.0.1 www.rumorvoice.click
 127.0.0.1 www.rustyround.click
 127.0.0.1 www.rutabagacalculusar.pro
-127.0.0.1 www.rutabagaforeheadar.pro
 127.0.0.1 www.rutabagameantimeis.pro
 127.0.0.1 www.rutabagaturnoveres.pro
 127.0.0.1 www.rutolue2.pro
@@ -28640,8 +28609,6 @@
 127.0.0.1 www.salkaner-invest.pro
 127.0.0.1 www.samtek-invest.pro
 127.0.0.1 www.santander-wywiad2023.com
-127.0.0.1 www.scaffoldmeringueed.pro
-127.0.0.1 www.scaffoldstandingar.pro
 127.0.0.1 www.scooteresgardeniaed.pro
 127.0.0.1 www.scooteresgardeniaes.pro
 127.0.0.1 www.scooteresgardeniaing.pro
@@ -28832,8 +28799,6 @@
 127.0.0.1 www.teixeiraadvocaciaespecializada.com
 127.0.0.1 www.teletypegoodnesses.pro
 127.0.0.1 www.teletypeintervales.pro
-127.0.0.1 www.teletypestandingas.pro
-127.0.0.1 www.teletypestandingis.pro
 127.0.0.1 www.telewizja-regionalna24.click
 127.0.0.1 www.tematkoleje.click
 127.0.0.1 www.tembotopat.click
@@ -28927,7 +28892,6 @@
 127.0.0.1 www.tukinre.click
 127.0.0.1 www.tulilui8.pro
 127.0.0.1 www.turnoverbookmarkas.pro
-127.0.0.1 www.turnoverstandingaluminumes.pro
 127.0.0.1 www.tuwivye6.pro
 127.0.0.1 www.twoj-fart.click
 127.0.0.1 www.twoj-kupon.click
@@ -28937,7 +28901,6 @@
 127.0.0.1 www.twoubleerdo.pro
 127.0.0.1 www.txthelj.click
 127.0.0.1 www.tybocie3.pro
-127.0.0.1 www.tygodniowenowinki.click
 127.0.0.1 www.typo3.ero-advertising.com
 127.0.0.1 www.tytibaepau.pro
 127.0.0.1 www.tytufuu.pro
@@ -29072,13 +29035,12 @@
 127.0.0.1 www.wickedrosethreads.com
 127.0.0.1 www.wiecejwiesci.click
 127.0.0.1 www.wieczornewiad.click
-127.0.0.1 www.wielkieinformacje.click
-127.0.0.1 www.wiescidzienne.click
 127.0.0.1 www.wijypea1.click
 127.0.0.1 www.wiki.ero-advertising.com
 127.0.0.1 www.winads.cn
 127.0.0.1 www.windhawkadvisors.com
 127.0.0.1 www.wirtaspin-investing.pro
+127.0.0.1 www.wirtualnaczytac.click
 127.0.0.1 www.wirtualnapolska.click
 127.0.0.1 www.wks.ero-advertising.com
 127.0.0.1 www.wogikeu4.pro
@@ -29114,7 +29076,6 @@
 127.0.0.1 www.wx.eghe.skin
 127.0.0.1 www.wydarzenia-google.waw.pl
 127.0.0.1 www.wydarzeniaaktualne.click
-127.0.0.1 www.wydazeniamocne.click
 127.0.0.1 www.wypad3k0.blogspot.com
 127.0.0.1 www.x2tesla-event.pro
 127.0.0.1 www.xadsmart.com
@@ -29156,7 +29117,6 @@
 127.0.0.1 www.yandex.inpost-pl-pacid273jks.abun.qhopmusic.icanmining.ru
 127.0.0.1 www.yangtarp.click
 127.0.0.1 www.yarnropes.click
-127.0.0.1 www.yentacorner.click
 127.0.0.1 www.yntragame.click
 127.0.0.1 www.yoads.net
 127.0.0.1 www.yomatapet.click
@@ -29178,11 +29138,9 @@
 127.0.0.1 www.zakupowe-bystrzaki.click
 127.0.0.1 www.zalatwmy-wszyscy.click
 127.0.0.1 www.zaquinstall.click
-127.0.0.1 www.zarzadzajmy24.click
 127.0.0.1 www.zatnijprawwe.click
 127.0.0.1 www.zb5xpvwvups.click
 127.0.0.1 www.zbieram-bonusy.click
-127.0.0.1 www.zdzisiaj.click
 127.0.0.1 www.zenithpen.click
 127.0.0.1 www.zertlik-investing.pro
 127.0.0.1 www.zilygau1.pro
@@ -29195,7 +29153,6 @@
 127.0.0.1 www.zostan-zwyciezca.click
 127.0.0.1 www.zrudzinski.wantaolej.pro
 127.0.0.1 www.zsdkajdoofo.site
-127.0.0.1 www.zupelnienowe.click
 127.0.0.1 www.zupo.adsndtrackify.xyz
 127.0.0.1 www.zuqyryi7.pro
 127.0.0.1 www.zwariowane-to.click
@@ -29490,11 +29447,8 @@
 127.0.0.1 yamada2-dev.nend.net
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
-127.0.0.1 yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru
 127.0.0.1 yandex.ay.pay.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
-127.0.0.1 yandex.cdek.ber.youla.allegrolokalnie.pl-oferta-id2387942371.top
-127.0.0.1 yandex.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandex.ru
 127.0.0.1 yandex.youla.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 yandexadexchange.net
@@ -29549,7 +29503,6 @@
 127.0.0.1 youhave.mobi
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
-127.0.0.1 youla.pay.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 youleadstudents.org
 127.0.0.1 youngrul.pro
 127.0.0.1 youngtrailblazer.click
@@ -29877,7 +29830,7 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-16.182.37.225                 github-com.s3.amazonaws.com
+16.182.72.113                 github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -29890,10 +29843,10 @@
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
 185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
-185.199.108.133               github.map.fastly.net
-185.199.108.133               objects.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.109.153               assets-cdn.github.com
 185.199.109.153               github.io
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
@@ -29904,21 +29857,21 @@
 185.199.110.133 avatars5.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
-185.199.110.153               assets-cdn.github.com
 185.199.110.153               githubstatus.com
 185.199.110.154               github.githubassets.com
+185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
+185.199.111.133               github.map.fastly.net
 185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29939,7 +29892,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.17.135                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.31.100                    github-com.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -29947,10 +29900,10 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.216.43.217                 github-cloud.s3.amazonaws.com
-52.216.43.65                  github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.110.187                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.14.4                   github-cloud.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-54.231.162.241                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.130.153                github-production-user-asset-6210df.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
@@ -30450,6 +30403,7 @@ msn.cn###onetrust-consent-sdk
 msn.cn###rightRailContentContainer > div > div.modernRightRail_modulesContainer-DS-EntryPoint1-1 > fluent-design-system-provider:nth-child(2)
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 myqqjd.com##.adsbygoogl
+ng.link^
 nxnba.com##.bootom-fixed
 ofiii.com##.jsx-126687236
 ofiii.com##div.nonlinear_image_container.ad_impression
