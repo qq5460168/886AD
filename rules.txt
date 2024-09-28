@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-28 22:12:08（北京时间）
+! Version: 2024-09-29 00:17:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39649
+! Total count: 39632
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-09-28T13:53:23+08:00
+# Update time: 2024-09-28T15:53:38+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -736,7 +736,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-09-28 09:22:59 
+#更新时间: 2024-09-29 00:13:57 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -747,7 +747,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25910
+#规则数量:25893
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -1202,6 +1202,7 @@
 127.0.0.1 2ad.wtf
 127.0.0.1 2ad8d1.d2api.shuzilm.cn
 127.0.0.1 2adf1530a3.com
+127.0.0.1 2aq.teshn.dns-dynamic.net
 127.0.0.1 2b7003837ad4ebcf066ec9fa9a984991.poirt.pl
 127.0.0.1 2baners.ero-advertising.com
 127.0.0.1 2bb232b32911d673afad122d86565de0.wurp.pl
@@ -1395,6 +1396,7 @@
 127.0.0.1 60e9d1e6ebe8ed2822ad1073c5c2ccb7.dopla.com.pl
 127.0.0.1 61-nmobads.com
 127.0.0.1 61ads.net
+127.0.0.1 62f18194-01d0-459e-a945-4bad417cd3e1-00-2qivtb2vbf734.worf.replit.dev
 127.0.0.1 631.dlads.cn
 127.0.0.1 63341ad6b2a097bf30cc530a2ab3dce3.dopla.com.pl
 127.0.0.1 636e65919dd8bbec47166bada3880cea.nmdj.pl
@@ -6253,6 +6255,7 @@
 127.0.0.1 advancedsolarpowerltd.com
 127.0.0.1 advancedsolutions.actonservice.com
 127.0.0.1 advancedsuperfood.com
+127.0.0.1 advancedtrack.top
 127.0.0.1 advancedtrades.online
 127.0.0.1 advanceencumbrancehive.com
 127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
@@ -8776,7 +8779,6 @@
 127.0.0.1 api.qc.coccoc.com
 127.0.0.1 api.qids.xyz
 127.0.0.1 api.quantumgraph.com
-127.0.0.1 api.qub.ca
 127.0.0.1 api.radar.io
 127.0.0.1 api.ranking.rakuten.co.jp
 127.0.0.1 api.receptivity.io
@@ -9437,6 +9439,7 @@
 127.0.0.1 bad027ae34.com
 127.0.0.1 bad1.51gxqm.com
 127.0.0.1 bad213676f1a5b0721c65eb8d347f7ba.barctta.pl
+127.0.0.1 bada79.net
 127.0.0.1 badalekor-investing.pro
 127.0.0.1 badaniespoleczne.click
 127.0.0.1 badjs.qq.com
@@ -9499,6 +9502,7 @@
 127.0.0.1 balticstep.click
 127.0.0.1 baltictech.click
 127.0.0.1 baltik-pipe.click
+127.0.0.1 ban.mniighgh.dns-dynamic.net
 127.0.0.1 ban3ers.ero-advertising.com
 127.0.0.1 ban4ers.ero-advertising.com
 127.0.0.1 banalnypowod.click
@@ -11494,6 +11498,7 @@
 127.0.0.1 contextads.live
 127.0.0.1 contextuads.com
 127.0.0.1 contextualadv.com
+127.0.0.1 contjkd.pro
 127.0.0.1 conv.youdao.com
 127.0.0.1 conventional-nurse.pro
 127.0.0.1 conventionalsecond.pro
@@ -12071,6 +12076,7 @@
 127.0.0.1 del1ver-inpomt2655.glpel98.click
 127.0.0.1 del1ver-inpomt4062.qendm99.click
 127.0.0.1 del1ver-inpomt4703.cewnts103.click
+127.0.0.1 delayedmall.pro
 127.0.0.1 delb.mspaceads.com
 127.0.0.1 delfsrld.click
 127.0.0.1 delicious-slip.pro
@@ -12643,6 +12649,7 @@
 127.0.0.1 downloadsnaravers.com
 127.0.0.1 downloadsoundcloud.net
 127.0.0.1 downloadspan.com
+127.0.0.1 downloadsparrow.com
 127.0.0.1 downloadssss.standard.us-east-1.oortech.com
 127.0.0.1 downmobile.kugou.com
 127.0.0.1 downv6.qq.com
@@ -13594,7 +13601,6 @@
 127.0.0.1 fivetrafficroads.com
 127.0.0.1 fixituoapiu.pro
 127.0.0.1 fixly.pro
-127.0.0.1 fj69.dynamic-dns.net
 127.0.0.1 fkkldo.everadpro.click
 127.0.0.1 fl.quangbmden-vili.click
 127.0.0.1 flagads.net
@@ -14583,7 +14589,6 @@
 127.0.0.1 helpfulduty.pro
 127.0.0.1 helpinghandsadvocacy.org
 127.0.0.1 helps-ads.top
-127.0.0.1 helps-mi.top
 127.0.0.1 henson.radsport.pl
 127.0.0.1 hepsiads-bff.hepsiburada.com
 127.0.0.1 hepsiads-gw.hepsiburada.com
@@ -16915,6 +16920,7 @@
 127.0.0.1 magicznesploty.click
 127.0.0.1 magicznydetal.click
 127.0.0.1 magisk.download
+127.0.0.1 magnesioferrite.pro
 127.0.0.1 magnetadservices.com
 127.0.0.1 mail-ad1.hisys.hinet.net
 127.0.0.1 mail-ad2.hisys.hinet.net
@@ -17809,6 +17815,7 @@
 127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 mu88ads.com
 127.0.0.1 muabannhanh.pro
+127.0.0.1 muddyquote.pro
 127.0.0.1 muer.cdn-baidu.fs-sywh.com
 127.0.0.1 muewhoseprofit.pro
 127.0.0.1 muffledis.pro
@@ -17819,6 +17826,7 @@
 127.0.0.1 multicoloredsteak.pro
 127.0.0.1 multimediainfo.click
 127.0.0.1 multiply.crwdcntrl.net
+127.0.0.1 multisetup.pro
 127.0.0.1 multiwall-ads.shop
 127.0.0.1 multumludzi.click
 127.0.0.1 mum.m.alibaba.com
@@ -19823,6 +19831,7 @@
 127.0.0.1 positive-ads.com
 127.0.0.1 post-1254361794.file.myqcloud.com
 127.0.0.1 post-ad.info
+127.0.0.1 post-ch.express-del.pro
 127.0.0.1 post-corp.cc
 127.0.0.1 post-corp.me
 127.0.0.1 post-e.pro
@@ -20397,6 +20406,7 @@
 127.0.0.1 pub-1d553c139e2b4614ab4a7a10ad8c064d.r2.dev
 127.0.0.1 pub-1e41c7aecaee4933bcad5aa1587c30f6.r2.dev
 127.0.0.1 pub-1eaf8d9fdf504256ad21005c83cb81f5.r2.dev
+127.0.0.1 pub-1eed6999aadf4ca9b51ac2fd06523d5e.r2.dev
 127.0.0.1 pub-1f440aade3e84787bbe22702d966483b.r2.dev
 127.0.0.1 pub-200e4f2bad7546ae9bd0d1e062a73f0f.r2.dev
 127.0.0.1 pub-20720996e09940faad3d7ad2ea73d222.r2.dev
@@ -20792,6 +20802,7 @@
 127.0.0.1 pub-b365b8a961d64365bad86990be85a4b0.r2.dev
 127.0.0.1 pub-b38829aebd014e8c812ad809bf441666.r2.dev
 127.0.0.1 pub-b3b3ef9af35846a38052d7a8ca0adc8a.r2.dev
+127.0.0.1 pub-b3b5ddcec7b142218261ad4e5ed0b641.r2.dev
 127.0.0.1 pub-b3bb5c7add1343499e959551a11cfd68.r2.dev
 127.0.0.1 pub-b3d13ad3e67044958eafdfbc04874edc.r2.dev
 127.0.0.1 pub-b3f8ec936f1740c8bad0fe58f8e07b59.r2.dev
@@ -21300,7 +21311,6 @@
 127.0.0.1 ragasoftpipe.click
 127.0.0.1 rajska-wyspa.click
 127.0.0.1 rakehorse.pro
-127.0.0.1 rakften.click
 127.0.0.1 rampidads.com
 127.0.0.1 ranchreives.click
 127.0.0.1 randomadsrv.com
@@ -22101,7 +22111,6 @@
 127.0.0.1 sac.ayads.co
 127.0.0.1 sad2.plchat.xyz
 127.0.0.1 sadc1.outbrain.org
-127.0.0.1 saddlecreekadventures.co.za
 127.0.0.1 sadm26.com
 127.0.0.1 sadsabz.com
 127.0.0.1 sadsecs.com
@@ -23266,7 +23275,6 @@
 127.0.0.1 sprawyrozwiazanie.click
 127.0.0.1 spreadsheetsa.top
 127.0.0.1 spreadsheetse.top
-127.0.0.1 spreadsheetsf.top
 127.0.0.1 spreadsheetsg.top
 127.0.0.1 spreadsheetsh.top
 127.0.0.1 spreadsheetso.top
@@ -24198,7 +24206,6 @@
 127.0.0.1 test-adx-event.tradplusad.com
 127.0.0.1 test-api-developer.tradplusad.com
 127.0.0.1 test-api-installer.pt.xiaomi.com
-127.0.0.1 test-api.mbb.com.sg
 127.0.0.1 test-bidder.tradplusad.com
 127.0.0.1 test-developer.tradplusad.com
 127.0.0.1 test-event.tradplusad.com
@@ -24629,6 +24636,7 @@
 127.0.0.1 track.wesdk.co
 127.0.0.1 track.xapads.com
 127.0.0.1 trackadsb1.com
+127.0.0.1 trackadventure.top
 127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.adsales.rakuten.co.jp
 127.0.0.1 tracker.baidu.com
@@ -25074,7 +25082,6 @@
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 uapi.ads.oppomobile.com
 127.0.0.1 uapz-mi.top
-127.0.0.1 uapz-wx.top
 127.0.0.1 uat-demo.pulse.inmobi.com
 127.0.0.1 uat1.bfsspadserver.8le8le.com
 127.0.0.1 ubar-pro.ru
@@ -25444,6 +25451,8 @@
 127.0.0.1 usherhaze.click
 127.0.0.1 uslugazdrowia.click
 127.0.0.1 usp1.baidu.com
+127.0.0.1 usps.advancedtrack.top
+127.0.0.1 usps.trackadventure.top
 127.0.0.1 usqgkkgsdk-f94896.ingress-bonde.ewp.live
 127.0.0.1 usr-api.aiclk.com
 127.0.0.1 usris.gradspeeches.com
@@ -25479,7 +25488,6 @@
 127.0.0.1 uwnle-sm.top
 127.0.0.1 uxip-res.meizu.com
 127.0.0.1 uxip.meizu.com
-127.0.0.1 uyh.vxuef2q.dns-dynamic.net
 127.0.0.1 uyut-dom.pro
 127.0.0.1 uzasadnijpowod.click
 127.0.0.1 uzmyslawianie.click
@@ -25667,6 +25675,7 @@
 127.0.0.1 vcdn.anthill.vn
 127.0.0.1 vcdn.media.innity.net
 127.0.0.1 vcdn.subiz-cdn.com
+127.0.0.1 vce.bxsrtdfxr.dns-dynamic.net
 127.0.0.1 vcl-brain.snssdk.com
 127.0.0.1 vcs-hl.snssdk.com
 127.0.0.1 vcs.snssdk.com
@@ -26183,7 +26192,6 @@
 127.0.0.1 vulcan5.branch.io
 127.0.0.1 vupohaafinyp8.pro
 127.0.0.1 vupufuufau.pro
-127.0.0.1 vuvuvenareads.com
 127.0.0.1 vuwomoby.pro
 127.0.0.1 vv.play.aiseet.atianqi.com
 127.0.0.1 vv84.bj.bcebos.com
@@ -26435,7 +26443,6 @@
 127.0.0.1 westloft.click
 127.0.0.1 westtiling.click
 127.0.0.1 wet-maybe.pro
-127.0.0.1 wetransfr8729fils902783documentz7398downloads.standard.us-east-1.oortech.com
 127.0.0.1 wewawia5ua7.pro
 127.0.0.1 wf.taboola.com
 127.0.0.1 wfh.amqn.pro
@@ -27074,7 +27081,6 @@
 127.0.0.1 www.allyhealthadvocates.com
 127.0.0.1 www.aluminumcalculusar.pro
 127.0.0.1 www.aluminumforeheades.pro
-127.0.0.1 www.aluminummeringueis.pro
 127.0.0.1 www.aluminumplayroomar.pro
 127.0.0.1 www.am0r0usadv6ntures.sbs
 127.0.0.1 www.analytics-digit-in.cdn.ampproject.org
@@ -27225,7 +27231,6 @@
 127.0.0.1 www.boxedhelmetsteeped.pro
 127.0.0.1 www.boxingchestnuting.pro
 127.0.0.1 www.boxinghelmetsteepes.pro
-127.0.0.1 www.boyeaster.click
 127.0.0.1 www.brakoceny.click
 127.0.0.1 www.branch.io
 127.0.0.1 www.breakingbuzz.click
@@ -27456,7 +27461,6 @@
 127.0.0.1 www.dolanadserver.com
 127.0.0.1 www.domainpointweb.pro
 127.0.0.1 www.domob.cn
-127.0.0.1 www.doniesieniamiasta.click
 127.0.0.1 www.dooyoouwoorkherre-354128.click
 127.0.0.1 www.dorilis-invest.pro
 127.0.0.1 www.dostawa-olx.pro
@@ -27472,7 +27476,6 @@
 127.0.0.1 www.download.televisionfanatic.com
 127.0.0.1 www.download.weatherblink.com
 127.0.0.1 www.downloads-whatsapp.com
-127.0.0.1 www.dowodzimyprawdzie.click
 127.0.0.1 www.dpd-pl.id810094.pro
 127.0.0.1 www.dpd-pl.id912831.pro
 127.0.0.1 www.dpd-pl.platnosc.click
@@ -27497,7 +27500,6 @@
 127.0.0.1 www.dyhonay8.pro
 127.0.0.1 www.dzialaniaobowiazkowe.click
 127.0.0.1 www.dzibaninvesting.pro
-127.0.0.1 www.dziennetragedie.click
 127.0.0.1 www.e-hpaces.ero-advertising.com
 127.0.0.1 www.e-traffic.com
 127.0.0.1 www.e-wiadomosci.click
@@ -27566,7 +27568,6 @@
 127.0.0.1 www.fact.mestopoland.pro
 127.0.0.1 www.fajny-bon.click
 127.0.0.1 www.fakcikdrogowy.click
-127.0.0.1 www.faktynowinki.click
 127.0.0.1 www.famdlik-invest.pro
 127.0.0.1 www.fanners.ero-advertising.com
 127.0.0.1 www.fararchiveleading.pro
@@ -27621,9 +27622,6 @@
 127.0.0.1 www.foldedfiring.pro
 127.0.0.1 www.foldesfires.pro
 127.0.0.1 www.folepie5.pro
-127.0.0.1 www.foreheadheirloomas.pro
-127.0.0.1 www.foreheadheirloomed.pro
-127.0.0.1 www.foreheadteletypeis.pro
 127.0.0.1 www.foresight-wx.com
 127.0.0.1 www.forex-advice.net
 127.0.0.1 www.forum.ero-advertising.com
@@ -27837,7 +27835,6 @@
 127.0.0.1 www.incarcerateremonstrategoldbrickes.pro
 127.0.0.1 www.incarceratesoliloquizepercolateas.pro
 127.0.0.1 www.inclimber.click
-127.0.0.1 www.incomehorizon.pro
 127.0.0.1 www.increaseingdealed.pro
 127.0.0.1 www.indiaadventuretoursandtravels.com
 127.0.0.1 www.indiads.com
@@ -27856,7 +27853,6 @@
 127.0.0.1 www.informacjeonline.click
 127.0.0.1 www.informacyjnysmak.click
 127.0.0.1 www.information-update.dynamic-dns.net
-127.0.0.1 www.informatordzienny.click
 127.0.0.1 www.informatorlokalny.click
 127.0.0.1 www.informatorporwania.click
 127.0.0.1 www.infosquare.click
@@ -27885,7 +27881,6 @@
 127.0.0.1 www.intermmono.click
 127.0.0.1 www.internationaltaxadvice.com
 127.0.0.1 www.internet-partner.pl
-127.0.0.1 www.intervalsyndromeis.pro
 127.0.0.1 www.intext.ero-advertising.com
 127.0.0.1 www.inver-investing.pro
 127.0.0.1 www.invertin-invest.pro
@@ -28043,7 +28038,6 @@
 127.0.0.1 www.mabelorinvest.pro
 127.0.0.1 www.made4mini.com
 127.0.0.1 www.madveci.com
-127.0.0.1 www.madvertising-manage.com
 127.0.0.1 www.maestrolock.click
 127.0.0.1 www.mafyleo4.pro
 127.0.0.1 www.magento-analytics.com
@@ -28070,8 +28064,6 @@
 127.0.0.1 www.maximizer-pro.site
 127.0.0.1 www.mclick.mobi
 127.0.0.1 www.me-bu.pro
-127.0.0.1 www.meantimealuminumas.pro
-127.0.0.1 www.meantimeheirloomed.pro
 127.0.0.1 www.mebugay3.pro
 127.0.0.1 www.mediataads.space
 127.0.0.1 www.mediav.com
@@ -28086,7 +28078,6 @@
 127.0.0.1 www.membraneingpapered.pro
 127.0.0.1 www.membranewind.click
 127.0.0.1 www.mememakers.mobi
-127.0.0.1 www.meringuebookmarkis.pro
 127.0.0.1 www.messiahstickvestry.pro
 127.0.0.1 www.meta-ads.aag.co.id
 127.0.0.1 www.mexico-invest.pro
@@ -28098,7 +28089,6 @@
 127.0.0.1 www.mi.nwmw.skin
 127.0.0.1 www.miami.ero-advertising.com
 127.0.0.1 www.miaozhen.com
-127.0.0.1 www.miasteczkowe.click
 127.0.0.1 www.mibet.mobi
 127.0.0.1 www.microngroup.pro
 127.0.0.1 www.microsoft-update.name
@@ -28296,7 +28286,6 @@
 127.0.0.1 www.orlene.pro
 127.0.0.1 www.orleni.pro
 127.0.0.1 www.osloginvesting.pro
-127.0.0.1 www.osobisterzeczy.click
 127.0.0.1 www.otikimmowit.click
 127.0.0.1 www.oustely.pro
 127.0.0.1 www.outofyourdays.click
@@ -28386,7 +28375,6 @@
 127.0.0.1 www.ploffelon.pro
 127.0.0.1 www.plpost.click
 127.0.0.1 www.plusujesz-tankujesz.click
-127.0.0.1 www.plynaceinfo.click
 127.0.0.1 www.pobierzteraz.mobi
 127.0.0.1 www.poczta-365.pl
 127.0.0.1 www.pocztapolska.click
@@ -28519,7 +28507,6 @@
 127.0.0.1 www.rad7antrose.xyz
 127.0.0.1 www.rajska-wyspa.click
 127.0.0.1 www.rampidads.com
-127.0.0.1 www.raportprawdy.click
 127.0.0.1 www.raporty24.click
 127.0.0.1 www.rata.ero-advertising.com
 127.0.0.1 www.razmokl-invest.pro
@@ -28528,7 +28515,6 @@
 127.0.0.1 www.realtextads.com
 127.0.0.1 www.rebinwildadventure.com
 127.0.0.1 www.rec-corp.xyz
-127.0.0.1 www.recenzujemyinfo.click
 127.0.0.1 www.recitalwave.click
 127.0.0.1 www.rectangledownloads.com
 127.0.0.1 www.redfoxleads.com
@@ -28720,7 +28706,6 @@
 127.0.0.1 www.sprytna-nagroda.click
 127.0.0.1 www.stabilityguardclick.click
 127.0.0.1 www.standardisereplenishas.pro
-127.0.0.1 www.standingscaffoldis.pro
 127.0.0.1 www.star-advertising.com
 127.0.0.1 www.stationedforemaned.pro
 127.0.0.1 www.stationedmissioned.pro
@@ -28812,7 +28797,6 @@
 127.0.0.1 www.tematkoleje.click
 127.0.0.1 www.tembotopat.click
 127.0.0.1 www.teqojue3.pro
-127.0.0.1 www.tesl3r.giveo4jlf.click
 127.0.0.1 www.tesla-platform.pro
 127.0.0.1 www.teslax-pro.com
 127.0.0.1 www.tesler-project.pro
@@ -29044,7 +29028,6 @@
 127.0.0.1 www.wiadomosci-google.waw.pl
 127.0.0.1 www.wiadomoscipolska.pro
 127.0.0.1 www.wickedrosethreads.com
-127.0.0.1 www.wiecejwiesci.click
 127.0.0.1 www.wieczornewiad.click
 127.0.0.1 www.wijypea1.click
 127.0.0.1 www.wiki.ero-advertising.com
@@ -29842,7 +29825,8 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-16.182.99.17                  github-cloud.s3.amazonaws.com
+16.15.216.27                  github-com.s3.amazonaws.com
+16.182.67.129                 github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -29855,10 +29839,11 @@
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
 185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.109.153               assets-cdn.github.com
 185.199.109.153               github.io
+185.199.109.153               githubstatus.com
+185.199.109.154               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29868,22 +29853,21 @@
 185.199.110.133 avatars5.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
-185.199.110.153               assets-cdn.github.com
-185.199.110.153               githubstatus.com
-185.199.110.154               github.githubassets.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29904,6 +29888,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
+3.5.17.135                    github-production-repository-file-5c1aeb.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -29911,11 +29896,9 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.216.110.187                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.224.241                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.46.228                 github-com.s3.amazonaws.com
+52.217.173.145                github-production-user-asset-6210df.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-54.231.162.241                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.230.97                 github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
