@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-09-30 22:14:46（北京时间）
+! Version: 2024-10-01 00:19:02（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39654
+! Total count: 39667
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-09-30T13:53:15+08:00
+# Update time: 2024-09-30T15:53:09+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -737,7 +737,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-09-30 09:25:58 
+#更新时间: 2024-09-30 22:17:58 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -748,7 +748,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25908
+#规则数量:25922
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -1080,6 +1080,7 @@
 127.0.0.1 17gtest.bj2cu.u3.ucweb.com
 127.0.0.1 1805kicyvuy1.pro
 127.0.0.1 18632413c4767affab8d2ad3f72b410e.rigipsa.pl
+127.0.0.1 18cbf89c-9f6a-4623-bf53-cffeade1433f-00-27u73092ihs3q.worf.replit.dev
 127.0.0.1 18gtest.bj2cu.u3.ucweb.com
 127.0.0.1 18luck.pro
 127.0.0.1 1909cyzocouxagikui6.pro
@@ -1519,6 +1520,7 @@
 127.0.0.1 8bb.oqlf.pro
 127.0.0.1 8c4f3ea4add4937973e0dfb8a34b1d78.ndia.pl
 127.0.0.1 8c8vqu.vyk.admaster.com.cn
+127.0.0.1 8c9d9784-7b19-48d6-ad09-048069219be1-00-1nw4wk3cu8lkr.riker.replit.dev
 127.0.0.1 8cayca.viqiyi.admaster.com.cn
 127.0.0.1 8cayga.vsohu.admaster.com.cn
 127.0.0.1 8cbbwu.vsohu.admaster.com.cn
@@ -1665,6 +1667,7 @@
 127.0.0.1 a634ac762ead377e6240763e77395f8f.nyoh.pl
 127.0.0.1 a6407aadd0e498e7fd67afdb7a4f6835.twojedom.pl
 127.0.0.1 a65fc78bda0314060b9a50abad483b74.wurp.pl
+127.0.0.1 a728f560-46dc-4ad4-8535-6a122aac2319-00-2csmqebpgavr1.riker.replit.dev
 127.0.0.1 a751.oadz.com
 127.0.0.1 a79746915f26c9933e70.goonlinebnparibas-pl.click
 127.0.0.1 a7ad684f6cff1c47792b225f48e1d2ad.paczomatnews.pl
@@ -3465,7 +3468,6 @@
 127.0.0.1 ads-link.net
 127.0.0.1 ads-lite.net
 127.0.0.1 ads-lot.ru
-127.0.0.1 ads-manage-recovery8812441234.miracle-chain.com
 127.0.0.1 ads-management.su
 127.0.0.1 ads-market.online
 127.0.0.1 ads-marketing-vivofs.vivo.com.cn
@@ -6729,7 +6731,6 @@
 127.0.0.1 aff.mclick.mobi
 127.0.0.1 affbuzzads.com
 127.0.0.1 affiliate-api.raptive.com
-127.0.0.1 afftopads.com
 127.0.0.1 afhleads.keurig.ca
 127.0.0.1 afiletoget.click
 127.0.0.1 afiliapub.click
@@ -9336,6 +9337,7 @@
 127.0.0.1 avenueadventure.xyz
 127.0.0.1 average-champion.pro
 127.0.0.1 avgads.space
+127.0.0.1 avi.onlineprestamo.click
 127.0.0.1 aviabotpl.pro
 127.0.0.1 aviplgame.pro
 127.0.0.1 avoadsservices.com
@@ -10667,7 +10669,6 @@
 127.0.0.1 cdn.viraads.com
 127.0.0.1 cdn.wataads.com
 127.0.0.1 cdn.web.chelaile.net.cn
-127.0.0.1 cdn.wt-api.top
 127.0.0.1 cdn.yinxiang.com
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 cdn1.ad-center.com
@@ -10926,6 +10927,7 @@
 127.0.0.1 cladsneezesugar.com
 127.0.0.1 claim-oat.pro
 127.0.0.1 clanpasta.click
+127.0.0.1 claroi.click
 127.0.0.1 classicguarantee.pro
 127.0.0.1 classicreads.cfd
 127.0.0.1 clausing-advies.nl
@@ -12122,6 +12124,7 @@
 127.0.0.1 demr.mspaceads.com
 127.0.0.1 denamebauleah.click
 127.0.0.1 dental-drawer.pro
+127.0.0.1 denucu.photonads.com
 127.0.0.1 dephospimtic.pro
 127.0.0.1 deployads.com
 127.0.0.1 depmashine.inventnamb.click
@@ -12324,6 +12327,7 @@
 127.0.0.1 dm.51okc.com
 127.0.0.1 dm.66qw.net
 127.0.0.1 dm.aizhan.com
+127.0.0.1 dm.ajhe.lat
 127.0.0.1 dm.bytedance.com
 127.0.0.1 dm.cnbanbao.com
 127.0.0.1 dm.demdex.net
@@ -12570,6 +12574,7 @@
 127.0.0.1 download.dackinc.com
 127.0.0.1 download.dnv.com
 127.0.0.1 download.doumaibiji.cn
+127.0.0.1 download.ebaymx.com
 127.0.0.1 download.file.co.pl
 127.0.0.1 download.filmfanatic.com
 127.0.0.1 download.forfreeminecraft.com
@@ -12654,6 +12659,7 @@
 127.0.0.1 downloadsnaravers.com
 127.0.0.1 downloadsoundcloud.net
 127.0.0.1 downloadspan.com
+127.0.0.1 downloadsparrow.com
 127.0.0.1 downloadssss.standard.us-east-1.oortech.com
 127.0.0.1 downmobile.kugou.com
 127.0.0.1 downv6.qq.com
@@ -14143,6 +14149,7 @@
 127.0.0.1 glisteningproject.pro
 127.0.0.1 glitteringstress.pro
 127.0.0.1 glixu.click
+127.0.0.1 global-malls.pro
 127.0.0.1 global.adserver.yahoo.com
 127.0.0.1 global.msads.net
 127.0.0.1 globaladsales.com
@@ -15346,6 +15353,7 @@
 127.0.0.1 innowacyjnyportal.click
 127.0.0.1 inpast-pl.plid8347561.click
 127.0.0.1 inplatform.click
+127.0.0.1 inposdom-dm.top
 127.0.0.1 inpost-ad.top
 127.0.0.1 inpost-ei.click
 127.0.0.1 inpost-pl-3dsafe.id-safety.click
@@ -18328,7 +18336,6 @@
 127.0.0.1 notes-analytics-events.news.apple-dns.net
 127.0.0.1 noti-eu.adsmoloco.com
 127.0.0.1 notice.iqiyi.com
-127.0.0.1 notificafonefacil.pro
 127.0.0.1 notification-browser.com
 127.0.0.1 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 127.0.0.1 nova5.cadsolutions.org
@@ -21010,7 +21017,6 @@
 127.0.0.1 pub-faefade63c574567a1b666b64420a38b.r2.dev
 127.0.0.1 pub-fb083ff96a084263810de1145c98cad6.r2.dev
 127.0.0.1 pub-fb519c378293463b80af37ad2b874aaa.r2.dev
-127.0.0.1 pub-fc3c88231f344fb7ba23d6edff8ad5a1.r2.dev
 127.0.0.1 pub-fc5f8ad81bfe4fea81442121f47506a6.r2.dev
 127.0.0.1 pub-fcd1dc03524b4c788228ad46c317f7e5.r2.dev
 127.0.0.1 pub-fcd6b66f88ad43458199dce52acaf3d3.r2.dev
@@ -21340,6 +21346,7 @@
 127.0.0.1 raportujemydzis.click
 127.0.0.1 raporty24.click
 127.0.0.1 raportyprasowe.click
+127.0.0.1 rapu.photonads.com
 127.0.0.1 rata.ero-advertising.com
 127.0.0.1 ratel-ad.com
 127.0.0.1 rationalan.pro
@@ -24496,6 +24503,7 @@
 127.0.0.1 toponadss.com
 127.0.0.1 tor-browser-rus.ru
 127.0.0.1 torneoraid.pro
+127.0.0.1 toro.photonads.com
 127.0.0.1 toroadvertising.com
 127.0.0.1 toroadvertisingmedia.com
 127.0.0.1 tos.aptin.live
@@ -25302,6 +25310,7 @@
 127.0.0.1 update-protection.com
 127.0.0.1 update-security.ddns.info
 127.0.0.1 update-security.qhigh.com
+127.0.0.1 update-service-pinako.codeanyapp.com
 127.0.0.1 update-skype.freehostia.com
 127.0.0.1 update-trackhk.net
 127.0.0.1 update.123juzi.net
@@ -25427,7 +25436,6 @@
 127.0.0.1 us-geo.cityads.com
 127.0.0.1 us-usps-adsfc.xyz
 127.0.0.1 us-usps-mi.top
-127.0.0.1 us-usps-uc.top
 127.0.0.1 us-usps-wadsg.xyz
 127.0.0.1 us-west-2.ecs.mb.moatads.com
 127.0.0.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
@@ -26761,6 +26769,7 @@
 127.0.0.1 wtwoimmiescie.click
 127.0.0.1 wucagee0.pro
 127.0.0.1 wudonua9.pro
+127.0.0.1 wudoti.photonads.com
 127.0.0.1 wufgkofinvesting.pro
 127.0.0.1 wuh7fc7i1phj3rrv2ad6nfeg.architecturepreview.com
 127.0.0.1 wuhhw.wtelewizjinasi.click
@@ -27447,6 +27456,7 @@
 127.0.0.1 www.degensoft-api.com
 127.0.0.1 www.deltanews.click
 127.0.0.1 www.delyqoyutii.pro
+127.0.0.1 www.denucu.photonads.com
 127.0.0.1 www.dephospimtic.pro
 127.0.0.1 www.derzhava.click
 127.0.0.1 www.deta.ero-advertising.com
@@ -27463,6 +27473,7 @@
 127.0.0.1 www.dksdkadltttt.cztessl.live
 127.0.0.1 www.dla-piekna.click
 127.0.0.1 www.dladventureseekers.info
+127.0.0.1 www.dm.ajhe.lat
 127.0.0.1 www.dm.newpol.xyz
 127.0.0.1 www.dmvastj2pgw.click
 127.0.0.1 www.dns-eu-east-32.xyz
@@ -27748,6 +27759,7 @@
 127.0.0.1 www.hata.ero-advertising.com
 127.0.0.1 www.hazardshieldzone.click
 127.0.0.1 www.hbgfuj7yqadt983.com
+127.0.0.1 www.hdstreamz.click
 127.0.0.1 www.head3high.com
 127.0.0.1 www.headshgaln.store
 127.0.0.1 www.headswell.net
@@ -28520,6 +28532,7 @@
 127.0.0.1 www.rajska-wyspa.click
 127.0.0.1 www.rampidads.com
 127.0.0.1 www.raporty24.click
+127.0.0.1 www.rapu.photonads.com
 127.0.0.1 www.rata.ero-advertising.com
 127.0.0.1 www.razmokl-invest.pro
 127.0.0.1 www.readsmth.com
@@ -28851,6 +28864,7 @@
 127.0.0.1 www.topbiznes.pro
 127.0.0.1 www.topfinancialadvisorslouisvilleky.com
 127.0.0.1 www.toponad.com
+127.0.0.1 www.toro.photonads.com
 127.0.0.1 www.toroadvertisingmedia.com
 127.0.0.1 www.toveruy1.pro
 127.0.0.1 www.townshipbookmarking.pro
@@ -29838,8 +29852,7 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-16.15.184.87                  github-com.s3.amazonaws.com
-16.182.35.73                  github-cloud.s3.amazonaws.com
+16.182.72.129                 github-production-user-asset-6210df.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -29851,8 +29864,10 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.109.153               assets-cdn.github.com
+185.199.109.153               github.io
+185.199.109.154               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29862,18 +29877,15 @@
 185.199.110.133 avatars5.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
-185.199.110.153               assets-cdn.github.com
-185.199.110.153               github.io
 185.199.110.153               githubstatus.com
-185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
@@ -29881,6 +29893,7 @@
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29901,7 +29914,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.2.146                     github-production-user-asset-6210df.s3.amazonaws.com
+3.5.25.126                    github-com.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -29917,6 +29930,7 @@
 52.217.172.233                github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.217.44.220                 github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+54.231.228.233                github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
@@ -30448,7 +30462,6 @@ qq.com##A[dt-eid^='em_item_ad']
 qq.com##[id^='App_WAP_share_page']
 scoregg.com##.float-modal
 share.acgnx.se##IMG[src*='share.acgnx.se']
-shusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 sina.cn###float-btn.callApp_fl_btn
 sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
 sina.cn##SECTION.sw_c0.sina_sliders_pos
