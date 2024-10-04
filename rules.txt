@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-10-04 14:21:14（北京时间）
+! Version: 2024-10-04 16:19:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39594
+! Total count: 39599
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-10-04T05:53:17+08:00
+# Update time: 2024-10-04T07:53:17+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -737,7 +737,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-10-04 09:23:51 
+#更新时间: 2024-10-04 15:53:10 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -748,7 +748,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25954
+#规则数量:25959
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -1207,7 +1207,6 @@
 127.0.0.1 2bb232b32911d673afad122d86565de0.wurp.pl
 127.0.0.1 2bdfad8db309b30ccd0d6db3bdc0001c.podisat.pl
 127.0.0.1 2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl
-127.0.0.1 2c51e526-0789-4c03-80c6-f96ef4a9aad7-00-347qi2rbnfi50.worf.replit.dev
 127.0.0.1 2d03f1b1397fe68ba461fdacee512ad5.ntfws.pl
 127.0.0.1 2daa3fc4541c1f2bb56a4ef219c0ad6c.twojedom.pl
 127.0.0.1 2dance.services-ai-tech.click
@@ -2169,6 +2168,7 @@
 127.0.0.1 ad.buzzvil.com
 127.0.0.1 ad.bwise.ch
 127.0.0.1 ad.byfuh.com
+127.0.0.1 ad.bzot.top
 127.0.0.1 ad.ca.doubleclick.net
 127.0.0.1 ad.cacafly.com
 127.0.0.1 ad.caiyunapp.com
@@ -6950,7 +6950,6 @@
 127.0.0.1 amp.nz.igexin.com
 127.0.0.1 amp.nz4.getui.com
 127.0.0.1 amp.nz4.igexin.com
-127.0.0.1 ampliaciones.viazonasegura.click
 127.0.0.1 ampliacionesreactiva.solucionesonline.click
 127.0.0.1 ampliacionesreactiva.viaservicezone.click
 127.0.0.1 ampliacionreativaweb.click
@@ -8164,6 +8163,7 @@
 127.0.0.1 api-app.ants.vn
 127.0.0.1 api-app.coocaa.ottcn.com
 127.0.0.1 api-apsx.com
+127.0.0.1 api-bradesco.xyz
 127.0.0.1 api-c.dutils.com
 127.0.0.1 api-c.hiaiabc.com
 127.0.0.1 api-cn.store.heytapmobi.com
@@ -11087,6 +11087,7 @@
 127.0.0.1 click.lmbcustomersupport.com
 127.0.0.1 click.lobbyguard.com
 127.0.0.1 click.lozukowski.com
+127.0.0.1 click.ltms.app
 127.0.0.1 click.m.ambientplatform.vn
 127.0.0.1 click.maaxmarket.com
 127.0.0.1 click.mail.carousell.com
@@ -12671,7 +12672,7 @@
 127.0.0.1 downloadsnaravers.com
 127.0.0.1 downloadsoundcloud.net
 127.0.0.1 downloadspan.com
-127.0.0.1 downloadssss.standard.us-east-1.oortech.com
+127.0.0.1 downloadsparrow.com
 127.0.0.1 downmobile.kugou.com
 127.0.0.1 downv6.qq.com
 127.0.0.1 dowodowetajniki.click
@@ -15615,6 +15616,7 @@
 127.0.0.1 ir.jiguang.cn
 127.0.0.1 ir.mail.163.com
 127.0.0.1 ir.surveywall-api.survata.com
+127.0.0.1 irnt0ken-ad.com
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 ironmenfoetus.click
 127.0.0.1 ironspecter.click
@@ -15747,7 +15749,6 @@
 127.0.0.1 jibubio9.pro
 127.0.0.1 jic.talkingdata.com
 127.0.0.1 jice.admaster.com.cn
-127.0.0.1 jidla.partenariat-pro.uk
 127.0.0.1 jifen.2345.com
 127.0.0.1 jifendownload.2345.cn
 127.0.0.1 jigaretadv.top
@@ -17308,6 +17309,7 @@
 127.0.0.1 metrics5.data.hicloud.com
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 mexico-invest.pro
+127.0.0.1 mfacebookk.click
 127.0.0.1 mfadsrvr.com
 127.0.0.1 mfp.deliver.ifeng.com
 127.0.0.1 mg.adskeeper.co.uk
@@ -17328,6 +17330,7 @@
 127.0.0.1 mi-manga-hentai.blogspot.com
 127.0.0.1 mi-mercadito.mx
 127.0.0.1 mi-olx.pl
+127.0.0.1 mi-renovar.com
 127.0.0.1 mi-scotlabank.com
 127.0.0.1 mi-trophy.co.uk
 127.0.0.1 mi-xioami.com
@@ -18187,6 +18190,7 @@
 127.0.0.1 newaprads.com
 127.0.0.1 newarsalten.click
 127.0.0.1 newbiznest.click
+127.0.0.1 newcategory.pro
 127.0.0.1 newjokemer.click
 127.0.0.1 newjulads.com
 127.0.0.1 newllp.everadpro.click
@@ -19869,8 +19873,6 @@
 127.0.0.1 poscigzadanymi.click
 127.0.0.1 positive-ads.com
 127.0.0.1 post-1254361794.file.myqcloud.com
-127.0.0.1 post-ad.info
-127.0.0.1 post-ch.express-del.pro
 127.0.0.1 post-corp.cc
 127.0.0.1 post-corp.me
 127.0.0.1 post-e.pro
@@ -20564,7 +20566,6 @@
 127.0.0.1 pub-47752fad5d8046678118f8980f370361.r2.dev
 127.0.0.1 pub-47cf88b9b6f343a5a501976be6adf17e.r2.dev
 127.0.0.1 pub-4818236dd82042498f2808badd1a7f99.r2.dev
-127.0.0.1 pub-48cb51754474467eb8ada376108141d7.r2.dev
 127.0.0.1 pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev
 127.0.0.1 pub-48d9c000bdc949e2ad7cc02564ef7f48.r2.dev
 127.0.0.1 pub-49713332b3a74145a5d9ad3258f0ab60.r2.dev
@@ -21736,6 +21737,7 @@
 127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 roslom-invest.pro
 127.0.0.1 rosnacemedia.click
+127.0.0.1 rosskenyte.click
 127.0.0.1 rosyfeeling.pro
 127.0.0.1 rotator.beginads.com
 127.0.0.1 roty-dioraem.pro
@@ -23908,6 +23910,7 @@
 127.0.0.1 syndication.trafficreps.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 syndromemeringueis.pro
+127.0.0.1 synecdoque-fad6fd.ingress-comporellon.ewp.live
 127.0.0.1 synsads.com
 127.0.0.1 syrs.z74d.com
 127.0.0.1 syrupedchargeing.pro
@@ -26806,6 +26809,7 @@
 127.0.0.1 wuuokvuz.advicehigh.quest
 127.0.0.1 wv.inner-active.mobi
 127.0.0.1 ww.api-bradesco.site
+127.0.0.1 ww.bradesco-app.click
 127.0.0.1 ww.cn.miaozhen.com
 127.0.0.1 ww1.leadboltads.net
 127.0.0.1 ww1003.smartadserver.com
@@ -28016,6 +28020,7 @@
 127.0.0.1 www.kusihio.pro
 127.0.0.1 www.kutusieigia.pro
 127.0.0.1 www.kybapaa5.pro
+127.0.0.1 www.kyc-update-info.com
 127.0.0.1 www.kynugeo9.pro
 127.0.0.1 www.l-news.click
 127.0.0.1 www.ladsblue.com
@@ -29884,7 +29889,9 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-16.15.184.28                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.184.87                  github-com.s3.amazonaws.com
+16.182.72.129                 github-production-user-asset-6210df.s3.amazonaws.com
+16.182.99.17                  github-cloud.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -29897,12 +29904,13 @@
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
 185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
-185.199.109.153               github.io
+185.199.108.133               github.map.fastly.net
+185.199.109.153               githubstatus.com
+185.199.109.154               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29913,16 +29921,15 @@
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
 185.199.110.153               assets-cdn.github.com
-185.199.110.153               githubstatus.com
-185.199.110.154               github.githubassets.com
+185.199.110.153               github.io
+185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
@@ -29946,7 +29953,6 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.8.191                     github-production-user-asset-6210df.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -29960,8 +29966,7 @@
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
 52.217.172.233                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.198.233                github-com.s3.amazonaws.com
-52.217.229.73                 github-cloud.s3.amazonaws.com
+52.217.44.220                 github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
