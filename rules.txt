@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-10-08 09:10:23（北京时间）
+! Version: 2024-10-08 10:51:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39666
+! Total count: 39672
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-10-08T00:53:17+08:00
+# Update time: 2024-10-08T01:53:17+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -737,7 +737,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-10-07 22:18:09 
+#更新时间: 2024-10-08 09:23:45 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -748,7 +748,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25925
+#规则数量:25928
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -26608,6 +26608,7 @@
 127.0.0.1 wirtaspin-investing.pro
 127.0.0.1 wirtualnaczytac.click
 127.0.0.1 wirtualnaonline.click
+127.0.0.1 wirtualnapl.click
 127.0.0.1 wirtualnapolska.click
 127.0.0.1 wirtualnatv.click
 127.0.0.1 wirtualneinfo.click
@@ -27865,6 +27866,7 @@
 127.0.0.1 www.hytuzyu8.pro
 127.0.0.1 www.i-mobi.pl
 127.0.0.1 www.iakze.gradspeeches.com
+127.0.0.1 www.icefog7edno.click
 127.0.0.1 www.identyfikacje-now.2show4tv.click
 127.0.0.1 www.idlhi-gpps.click
 127.0.0.1 www.idlvwi-gpps.click
@@ -29053,6 +29055,7 @@
 127.0.0.1 www.wirtaspin-investing.pro
 127.0.0.1 www.wirtualnaczytac.click
 127.0.0.1 www.wirtualnaonline.click
+127.0.0.1 www.wirtualnapl.click
 127.0.0.1 www.wirtualnapolska.click
 127.0.0.1 www.wks.ero-advertising.com
 127.0.0.1 www.wogikeu4.pro
@@ -29855,6 +29858,7 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
+16.15.192.226                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -29866,10 +29870,9 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 185.199.109.153               github.io
-185.199.109.154               github.githubassets.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29881,7 +29884,7 @@
 185.199.110.133 media.githubusercontent.com
 185.199.110.153               assets-cdn.github.com
 185.199.110.153               githubstatus.com
-185.199.111.133               avatars.githubusercontent.com
+185.199.110.154               github.githubassets.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
@@ -29889,13 +29892,14 @@
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
 185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29916,6 +29920,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
+3.5.25.126                    github-com.s3.amazonaws.com
 3.5.8.191                     github-production-user-asset-6210df.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -29929,11 +29934,9 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.216.146.187                github-com.s3.amazonaws.com
-52.217.172.233                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.229.73                 github-cloud.s3.amazonaws.com
+52.217.235.169                github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-54.231.134.249                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.224.137                github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
@@ -31762,6 +31765,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx-gateway-live.dz11.com^
 ||adx-gateway-pre.dz11.com^
 ||adx-open-service.youku.com^
+||adx-os-req.anythinktech.com^
 ||adx-os.anythinktech.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -33141,6 +33145,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dataflow.biliapi.com^
 ||datahub.zhihu.com^
 ||datax.baidu.com^
+||datk.anythinktech.com^
 ||db11yy.com^
 ||db5-eap.settings-win.data.microsoft.com.akadns.net^
 ||db5.settings-win.data.microsoft.com.akadns.net^
@@ -33409,6 +33414,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dsplog-adnet.vivo.com.cn^
 ||dsplog-test.vivo.com.cn^
 ||dsplog.vivo.com.cn^
+||dspsdk.pinduoduo.com^
 ||dsqzk.cn^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^

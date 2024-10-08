@@ -2,9 +2,9 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-10-08 09:10:23（北京时间）
+! Version: 2024-10-08 10:51:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 8448
+! Total count: 8451
 ||*-*-ad.kuaishou.cn^
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
@@ -1055,6 +1055,7 @@
 ||adx-gateway-live.dz11.com^
 ||adx-gateway-pre.dz11.com^
 ||adx-open-service.youku.com^
+||adx-os-req.anythinktech.com^
 ||adx-os.anythinktech.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -2327,6 +2328,7 @@
 ||dataflow.biliapi.com^
 ||datahub.zhihu.com^
 ||datax.baidu.com^
+||datk.anythinktech.com^
 ||db11yy.com^
 ||db5-eap.settings-win.data.microsoft.com.akadns.net^
 ||db5.settings-win.data.microsoft.com.akadns.net^
@@ -2579,6 +2581,7 @@
 ||dsplog-adnet.vivo.com.cn^
 ||dsplog-test.vivo.com.cn^
 ||dsplog.vivo.com.cn^
+||dspsdk.pinduoduo.com^
 ||dsqzk.cn^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
