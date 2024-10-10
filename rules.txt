@@ -2,16 +2,16 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-10-10 09:09:57（北京时间）
+! Version: 2024-10-10 10:47:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 39718
+! Total count: 39722
 
  ! 某些其他
  #晴雅规则
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-10-10T00:52:54+08:00
+# Update time: 2024-10-10T01:52:54+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -737,7 +737,7 @@
 #斗鱼
 #日志上传和dns自查询
 #晴雅！！
-#更新时间: 2024-10-09 22:17:42 
+#更新时间: 2024-10-10 09:23:16 
 #有问题可以在文件里搜索关键词
 #未知来源 广告/日志
 #杂七杂八
@@ -748,7 +748,7 @@
 #笔趣阁
 #笔趣阁网页广告
 #美团dns
-#规则数量:25975
+#规则数量:25979
 #谷歌翻译，①网页，③新版APP用。
 #贴吧弹窗
 #酷友APPea 分享
@@ -16794,6 +16794,7 @@
 127.0.0.1 lp.tfd-corp.co.jp
 127.0.0.1 lp.trade360.com
 127.0.0.1 lpkobiznes.pro
+127.0.0.1 lpkoblznes.pro
 127.0.0.1 lplos.tentaklsistem.click
 127.0.0.1 lpps.inventnamb.click
 127.0.0.1 lptest.email-mobiledx.cjm.adobe.com
@@ -18251,6 +18252,7 @@
 127.0.0.1 newsdrogowy.click
 127.0.0.1 newsgazeta.click
 127.0.0.1 newsgenius.click
+127.0.0.1 newspolska.click
 127.0.0.1 newsportal.click
 127.0.0.1 newspost.click
 127.0.0.1 newspost.pro
@@ -28115,6 +28117,7 @@
 127.0.0.1 www.lottery.olg.ca
 127.0.0.1 www.loynreroof.bipinates.click
 127.0.0.1 www.lp.trade360.com
+127.0.0.1 www.lpkoblznes.pro
 127.0.0.1 www.lsepads.info
 127.0.0.1 www.lucamister.click
 127.0.0.1 www.lunawomte.click
@@ -28259,6 +28262,7 @@
 127.0.0.1 www.newjokemer.click
 127.0.0.1 www.newsbesl.click
 127.0.0.1 www.newsgazeta.click
+127.0.0.1 www.newspolska.click
 127.0.0.1 www.newsshow.click
 127.0.0.1 www.newsyoucanread24.com
 127.0.0.1 www.newyrodyte.click
@@ -29916,10 +29920,11 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
-185.199.109.154               github.githubassets.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.109.153               github.io
+185.199.109.153               githubstatus.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29930,22 +29935,21 @@
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
 185.199.110.153               assets-cdn.github.com
-185.199.110.153               github.io
-185.199.110.153               githubstatus.com
+185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
 185.199.111.133               media.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29966,10 +29970,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.19.101                    github-cloud.s3.amazonaws.com
 3.5.25.61                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.28.50                     github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.7.101                     github-production-user-asset-6210df.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -29982,8 +29983,11 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.217.193.113                github-com.s3.amazonaws.com
+52.216.101.115                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.137.73                 github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+54.231.131.25                 github-cloud.s3.amazonaws.com
+54.231.200.161                github-com.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
