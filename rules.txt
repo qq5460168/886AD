@@ -2,7 +2,7 @@
 ! Title: 去广告规则，反馈🐧群
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-10-12 12:17:25（北京时间）
+! Version: 2024-10-12 14:19:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 39661
 
@@ -11,7 +11,7 @@
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me: https://github.com/521xueweihan/GitHub520
-# Update time: 2024-10-12T03:52:53+08:00
+# Update time: 2024-10-12T05:52:23+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # [小说]
 # [视频客户端过滤器]
@@ -919,7 +919,9 @@
 103.230.123.190 mega.nz
 104.95.232.120 steam-chat.com
 104.95.232.120 www.steamcommunity.com
-108.177.104.188     alt7-mtalk.google.com
+108.177.104.188              alt1-mtalk.google.com
+108.177.104.188              alt2-mtalk.google.com
+108.177.12.188               alt8-mtalk.google.com
 110.43.121.13 bigota.d.miui.com
 110.43.121.13 hugeota.d.miui.com
 110.43.121.249 bigota.d.miui.com
@@ -29827,6 +29829,7 @@
 127.0.0.1 zymubyo1.click
 127.0.0.1 zyvurao6.pro
 127.0.0.1 zz.bdstatic.com
+13.107.253.40                 vscode.dev
 13.107.42.16                  pipelines.actions.githubusercontent.com
 140.82.112.10                 codeload.github.com
 140.82.112.17                 github.community
@@ -29839,16 +29842,15 @@
 140.82.114.21                 collector.github.com
 140.82.114.25                 alive.github.com
 140.82.114.3                  gist.github.com
-142.250.115.188     alt6-mtalk.google.com
-142.250.141.188     alt2-mtalk.google.com
-142.250.152.188     alt8-mtalk.google.com
-142.250.157.188     mtalk.google.com
+142.250.141.188              alt7-mtalk.google.com
+142.250.152.188              alt3-mtalk.google.com
+142.250.157.188              alt5-mtalk.google.com
+142.251.2.188                mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
 163.com##.js-open-app
-173.194.202.188     alt4-mtalk.google.com
+173.194.202.188              alt6-mtalk.google.com
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
-180.163.150.33      dl.l.google.com
-180.163.151.161     dl.google.com
+180.163.151.161              dl.l.google.com
 182.239.104.89 bigota.d.miui.com
 182.239.104.89 hugeota.d.miui.com
 183.136.207.132 bigota.d.miui.com
@@ -29856,10 +29858,12 @@
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
 185.199.108.133               avatars1.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               private-user-images.githubusercontent.com
-185.199.109.154               github.githubassets.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.109.153               assets-cdn.github.com
+185.199.109.153               githubstatus.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -29869,12 +29873,12 @@
 185.199.110.133 avatars5.githubusercontent.com
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
-185.199.110.153               assets-cdn.github.com
 185.199.110.153               github.io
-185.199.110.153               githubstatus.com
+185.199.110.154               github.githubassets.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
@@ -29882,9 +29886,7 @@
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
 185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               user-images.githubusercontent.com
+185.199.111.133               private-user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -29894,6 +29896,7 @@
 216.239.32.40 translate-pa.googleapis.com
 216.239.32.40 translate.google.com
 216.239.32.40 translate.googleapis.com
+220.181.174.33               dl.google.com
 23.12.10.105 steamcommunity.com
 23.202.34.138 bigota.d.miui.com
 23.202.34.138 hugeota.d.miui.com
@@ -29906,7 +29909,7 @@
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
 3.5.25.61                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.28.50                     github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.27.203                    github-cloud.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -29919,12 +29922,11 @@
 47.74.196.250 hugeota.d.miui.com
 51.ruyo.net###calendar-3
 51.ruyo.net###recent-posts-4
-52.216.105.99                 github-production-user-asset-6210df.s3.amazonaws.com
-52.216.208.49                 github-cloud.s3.amazonaws.com
-52.217.193.113                github-com.s3.amazonaws.com
+52.216.37.217                 github-production-user-asset-6210df.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+54.231.194.169                github-com.s3.amazonaws.com
+54.231.198.33                 github-production-release-asset-2e65be.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
-64.233.171.188      alt3-mtalk.google.com
 66.203.124.31 mega.co.nz
 66.203.125.15 g.api.mega.co.nz
 72.247.96.248 api.pinterest.com
@@ -29933,8 +29935,7 @@
 72.247.96.248 trk.pinterest.com
 72.247.96.248 v1.pinimg.com
 72.247.96.248 www.pinterest.com
-74.125.126.188      alt5-mtalk.google.com
-74.125.200.188      alt1-mtalk.google.com
+74.125.200.188               alt4-mtalk.google.com
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
@@ -35926,7 +35927,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mssdk3-normal-lq.zijieapi.com^
 ||mswd00602.xz.ajshs.cn^$important
 ||msxf.com^$important
-||msxf.com^$importantopen.heytapmobi.com^
 ||msync-im1-vip6-std.easemob.com^
 ||mt307.xyz^$important
 ||mt4v4.com^
