@@ -1,6 +1,9 @@
+import os
 import datetime
+
+os.chdir('tmp')
 # 打开原始文件和目标文件
-with open('.././rules.txt', 'r') as input_file, open('.././dns.txt', 'w') as output_file:
+with open('.././data/rules/adblock.txt', 'r') as input_file, open('.././data/rules/dns.txt', 'w') as output_file:
     # 逐行读取原始文件内容
     for line in input_file:
         # 去除行尾的换行符
