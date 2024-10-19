@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"><br>一个强力去广告的规则</h1>
+<h1 align="center">GOODBYEADS<br>一个强力去广告的规则</h1>
 <p>
   <a href="https://github.com/8680/GOODBYEADS">
     <img src="https://img.shields.io/github/last-commit/8680/GOODBYEADS?style=flat-square" alt="last update" />
@@ -33,22 +33,24 @@
 <h2 id="a">🎯 规则订阅</h2>
 
 ```
-更新时间: 2024-05-04 04:15:48 （北京时间） 
+更新时间: 2024-10-18 20:40:02 （北京时间） 
 
-拦截规则数量: 11923 
-DNS拦截规则数量: 6678 
-白名单规则数量: 905 
+拦截规则数量: 203886 
+DNS拦截规则数量: 94301 
+白名单规则数量: 14632 
 ``` 
 <details open>
 <summary>规则列表</summary>
 <ul>
 
-- **[拦截规则（Github）](https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)**
-- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/666/master/rules.txt)**
-- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/666/master/dns.txt/)**
-- **[白名单（Github）](https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/666/master/allow.txt)**
+- **[拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
+- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
+- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
+- **[Qx规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
+- **[Qx规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
+- **[白名单（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
+- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
 
 </ul>
 </details>
@@ -58,6 +60,15 @@ DNS拦截规则数量: 6678
 <summary>点击查看</summary>
 <ul>
 
+- [AdGuard规则](https://github.com/AdguardTeam/AdguardFilters)
+- [Tv规则](https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt)
+- [EasyPrivacy规则](https://easylist.to/)
+- [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
+- [去APP下载提示规则](https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt)
+- [oisd规则](https://small.oisd.nl/)
+- [秋风规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+- [CJX's Annoyance List](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+- [补充规则](https://github.com/8680/GOODBYEADS)
 </ul>
 </details>
 
@@ -84,9 +95,3 @@ DNS拦截规则数量: 6678
     <img src="https://api.star-history.com/svg?repos=8680/GOODBYEADS&type=Date">
   </a>
 </p>
-
-
-
-
-
-
