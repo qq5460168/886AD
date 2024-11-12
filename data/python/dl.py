@@ -54,12 +54,18 @@ adblock = [
 
 # 白名单规则
 allow = [
-    "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
-    "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
-    "https://file-git.trli.club/file-hosts/allow/Domains",
+    "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt"
+,
+    "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt"
+,
+    "https://file-git.trli.club/file-hosts/allow/Domains"
+,
     "https://hub.gitmirror.com/https://raw.githubusercontent.com/user001235/112/main/white.txt"
+,
 	"https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
+,
 	"https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt"
+,
 	"https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt"
 ]
 
