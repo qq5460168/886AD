@@ -68,7 +68,7 @@ DNS拦截规则数量: 7212
 - [oisd规则](https://small.oisd.nl/)
 - [秋风规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [CJX's Annoyance List](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-- [补充规则](https://github.com/8680/GOODBYEADS)
+- [补充规则](https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt)
 </ul>
 </details>
 
