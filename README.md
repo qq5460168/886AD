@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">GOODBYEADS<br>一个强力去广告的规则</h1>
+<h1 align="center"><br>一个强力去广告的规则</h1>
 <p>
   <a href="https://github.com/8680/GOODBYEADS">
     <img src="https://img.shields.io/github/last-commit/8680/GOODBYEADS?style=flat-square" alt="last update" />
@@ -43,14 +43,14 @@ DNS拦截规则数量: 7212
 <summary>规则列表</summary>
 <ul>
 
-- **[拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
-- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
-- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
-- **[Qx规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
-- **[Qx规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
-- **[白名单（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
+- **[拦截规则（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/adblock.txt)**
+- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/adblock.txt)**
+- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/dns.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/dns.txt)**
+- **[Qx规则（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/qx.list)**
+- **[Qx规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/qx.list)**
+- **[白名单（Github）](https://raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/allow.txt)**
+- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/qq5460168/886AD/refs/heads/master/data/rules/allow.txt)**
 
 </ul>
 </details>
