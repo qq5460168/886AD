@@ -39,7 +39,8 @@ adblock = [
     "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
     "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt",
-    "https://raw.hellogithub.com/hosts",
+
+"https://raw.hellogithub.com/hosts",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
     "https://raw.githubusercontent.com/loveqqzj/AdGuard/master/Mobile.txt",
