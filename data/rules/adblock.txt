@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-11-24 00:10:30（北京时间）
+! Version: 2024-11-24 02:11:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15080
+! Total count: 15087
 
  ! 某些其他
  #晴雅规则
@@ -523,6 +523,7 @@
 ##小红书
 ##开放平台
 ##当贝广告SDK
+##影视仓小雅误杀
 ##得物
 ##微信
 ##微信支付
@@ -532,6 +533,7 @@
 ##朴朴买菜
 ##泊链联盟
 ##浅笑分享
+##瑞幸
 ##百度云盘
 ##百度输入法
 ##盒马
@@ -5750,7 +5752,6 @@
 127.0.0.1 zt.jd.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
-13.107.246.51                 vscode.dev
 13.107.42.16                  pipelines.actions.githubusercontent.com
 140.82.112.10                 codeload.github.com
 140.82.112.21                 collector.github.com
@@ -5764,6 +5765,7 @@
 140.82.114.4                  github.com
 140.82.114.6                  api.github.com
 151.101.193.194               github.global.ssl.fastly.net
+16.182.68.241                 github-cloud.s3.amazonaws.com
 16.182.99.153                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 163.com##.js-open-app
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
@@ -5773,17 +5775,15 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
 185.199.108.133               private-user-images.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.108.153               github.io
+185.199.109.133               avatars4.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
+185.199.109.153               github.io
 185.199.109.153               githubstatus.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               github.map.fastly.net
 185.199.110.133 avatars.githubusercontent.com
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars1.githubusercontent.com
@@ -5794,15 +5794,17 @@
 185.199.110.133 desktop.githubusercontent.com
 185.199.110.133 media.githubusercontent.com
 185.199.110.154               github.githubassets.com
-185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               media.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+185.199.111.133               github.map.fastly.net
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -5821,7 +5823,6 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.27.116                    github-production-release-asset-2e65be.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 404: Not Found
@@ -5835,8 +5836,8 @@
 51.ruyo.net###recent-posts-4
 52.216.37.105                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.197.113                github-com.s3.amazonaws.com
+52.217.67.108                 github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
-54.231.232.81                 github-cloud.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 66.203.124.31 mega.co.nz
 66.203.125.15 g.api.mega.co.nz
@@ -5946,6 +5947,7 @@
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
 @@||api-cmnt.wtzw.com^$important
 @@||api-game.meizu.com^$important
+@@||api-pda.jdl.com^$important
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^$important
 @@||api.account.xiaomi.com^$important
@@ -5956,6 +5958,7 @@
 @@||api.flash.cn^$important
 @@||api.io.mi.com^$important
 @@||api.iplay.163.com^
+@@||api.jdl.com^$important
 @@||api.jr.mi.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
@@ -6080,6 +6083,7 @@
 @@||connect.rom.miui.com^$important
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
+@@||consumerapp-1251779293.image.myqcloud.com^$important
 @@||content-autofill.googleapis.com^$important
 @@||core.tantanapp.com^$important
 @@||counter-strike.net^$important
@@ -6146,6 +6150,7 @@
 @@||drive.quark.cn^$important
 @@||drive.uc.cn^$important
 @@||dsp.fcbox.com^$important
+@@||dualstack-a.apilocate.amap.com^$important
 @@||duapps.com^$important
 @@||duckduckgo.com^$important
 @@||duiba.com.cn^
@@ -6168,6 +6173,7 @@
 @@||ename.net^
 @@||enrichgw.10010.com^$important
 @@||ereg.wip3.adobe.com^
+@@||erp.jd.com^$important
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^$important
 @@||exp.sug.browser.miui.com^$important
@@ -6238,6 +6244,7 @@
 @@||h.trace.qq.com^$important
 @@||h5.m.taobao.com^$important
 @@||h5.mse.360.cn^
+@@||h5api.m.taobao.com^$important
 @@||haohuo.jinritemai.com^ 
 @@||haohuo.snssdk.com^
 @@||haokan.baidu.com^$important
@@ -6352,6 +6359,7 @@
 @@||log1.cmpassport.com^$important
 @@||logs.game.qq.com^$important
 @@||lol.qq.com^$important
+@@||lop-proxy.jd.com^$important
 @@||lpl.qq.com^$important
 @@||m.360buyimg.com^$important
 @@||m.intl.taobao.com^$important
@@ -6467,6 +6475,7 @@
 @@||pbaccess.video.qq.com^$important
 @@||pbs.twimg.com^$important
 @@||pcvideoaliyun.titan.mgtv.com^$important#
+@@||pda.jd.com^$important
 @@||pdc.micloud.xiaomi.net^$important
 @@||pepsico.com.cn^
 @@||phonecallapi.micloud.xiaomi.net^$important
@@ -9237,7 +9246,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||confinfo.map.qq.com^
 ||connectivitycheck.gstatic.com^
 ||connectreadoasis.com^
-||consumerapp*.image.myqcloud.com^
 ||content-autofill.googleapis.com^
 ||content-understand-strategy.sm.cn^
 ||content.rconfig.qq.com^
@@ -10223,7 +10231,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||guard-child-prd.vivo.com^
 ||gubgonx.cn^
 ||guid.tpns.tencent.com^
-||guide-acs.m.taobao.com^
 ||guiliangtechnology.com^
 ||guizhouxinsheng.com^
 ||gujkj.cn^

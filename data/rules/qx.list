@@ -1801,7 +1801,6 @@ DOMAIN,configv2.unityads.unitychina.cn,reject
 DOMAIN,confinfo.map.qq.com,reject
 DOMAIN,connectivitycheck.gstatic.com,reject
 DOMAIN,connectreadoasis.com,reject
-DOMAIN,consumerapp*.image.myqcloud.com,reject
 DOMAIN,content-autofill.googleapis.com,reject
 DOMAIN,content-understand-strategy.sm.cn,reject
 DOMAIN,content.rconfig.qq.com,reject
