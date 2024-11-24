@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-11-24 10:56:46（北京时间）
+! Version: 2024-11-24 12:11:26（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 7333
+! Total count: 7339
 ||sss.umeng.com^
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
@@ -1093,6 +1093,7 @@
 ||anxioushatedconservation.com^
 ||anythinktech.com^
 ||anyunwl04.com^
+||aoao11241iis.top^
 ||aobuygo.com^
 ||aoqinglv.cn^
 ||aornkmae.com^
@@ -1341,6 +1342,7 @@
 ||axcdt.cn^
 ||axcdy.cn^
 ||axz650.com^
+||ayads-network-centor.com^
 ||ayidaye.m.zwdu.com^
 ||aykibra.cn^
 ||aymtdcg.cn^
@@ -2273,6 +2275,7 @@
 ||dwibjkdsn.com^
 ||dwyngjb.icu^
 ||dwz.cn^
+||dxlxjvmo.icu^
 ||dxp.baidu.com^
 ||dxqck.com^
 ||dxwsty.cn^
@@ -2694,6 +2697,7 @@
 ||ghland.site^
 ||ghsnhjk.cn^
 ||gia.jd.com^
+||gifcdncn.trafficmanager.net^
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
 ||gjh9v.tianshilv.cn^
@@ -3332,6 +3336,7 @@
 ||jaowd.xyz^
 ||jashautchord.com^
 ||jauql.top^
+||javascript.trafficmanager.net^
 ||javase.top^
 ||jayhou.top^
 ||jbazhaheia.top^
@@ -5690,6 +5695,7 @@
 ||stats.qiumibao.com^
 ||stats.v.duowan.com^
 ||stats.wp.com^
+||status-un.trafficmanager.net^
 ||stdl.qq.com^
 ||stescud.com^
 ||stg-data.ads.heytapmobi.com^
