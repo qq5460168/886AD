@@ -48,7 +48,9 @@ adblock = [
     "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt"
     "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts"
     "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
-    "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt"
+    "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt"
+    "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt"
+    
 ]
 
 # 白名单规则
@@ -59,7 +61,9 @@ allow = [
     "https://hub.gitmirror.com/https://raw.githubusercontent.com/user001235/112/main/white.txt",
     "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt",
-    "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt"
+    "https://ghp.ci/https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt"
+    "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt"
+
 ]
 
 # 下载
