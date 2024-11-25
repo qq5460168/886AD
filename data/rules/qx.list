@@ -1,4 +1,5 @@
-DOMAIN,sss.umeng.com,reject
+DOMAIN, default.cn.sz.wagbridge.ad.alibabacorp.com,reject
+DOMAIN, default.cn.wagbridge.ad.alibabacorp.com,reject
 DOMAIN,*-*.ad*kwai.com,reject
 DOMAIN,*-ad-sign.byteimg.com,reject
 DOMAIN,*-ad.a.yximgs.com,reject
@@ -550,6 +551,7 @@ DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
 DOMAIN,ad-sdk.huxiu.com,reject
 DOMAIN,ad-sdk.lenovomm.com,reject
+DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ,reject
 DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ,reject
 DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com,reject
 DOMAIN,ad-ssp-engine-qa-ct.soulapp-inc.cn,reject
@@ -1242,6 +1244,7 @@ DOMAIN,appstoreonrt-stsdk.vivo.com.cn,reject
 DOMAIN,appstoreort-stsdk.vivo.com.cn,reject
 DOMAIN,appsupport.qq.com,reject
 DOMAIN,apptime.xyz,reject
+DOMAIN,appupgrade.vivo.com.cn,reject
 DOMAIN,aq-ad-h5-fe.c.t.soulapp-inc.cn,reject
 DOMAIN,aq.qq.servirce.com,reject
 DOMAIN,aqdlt.com,reject
@@ -2022,7 +2025,9 @@ DOMAIN,de.ad.gameley.com,reject
 DOMAIN,dedcrfvdj.xyz,reject
 DOMAIN,deeplink.umeng.com,reject
 DOMAIN,deeterno.cn,reject
+DOMAIN,default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
 DOMAIN,default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
+DOMAIN,default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
 DOMAIN,default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
 DOMAIN,default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com,reject
 DOMAIN,defaultts.tc.qq.com,reject
@@ -5650,6 +5655,7 @@ DOMAIN,ssp.maplehaze.cn,reject
 DOMAIN,ssp.qq.com,reject
 DOMAIN,ssp.tencentmusic.com,reject
 DOMAIN,ssqyuvavse.com,reject
+DOMAIN,sss.umeng.com,reject
 DOMAIN,sssxwsry.com,reject
 DOMAIN,st-ads-jssdk.vivo.com.cn,reject
 DOMAIN,st-adsgame.vivo.com.cn,reject

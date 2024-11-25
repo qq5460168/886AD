@@ -2,10 +2,11 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-11-25 14:14:13（北京时间）
+! Version: 2024-11-25 16:13:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 7477
-||sss.umeng.com^
+! Total count: 7483
+|| default.cn.sz.wagbridge.ad.alibabacorp.com^
+|| default.cn.wagbridge.ad.alibabacorp.com^
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
@@ -584,6 +585,7 @@
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
 ||ad-sdk.lenovomm.com^
+||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
 ||ad-ssp-engine-qa-ct.soulapp-inc.cn^
@@ -1286,6 +1288,7 @@
 ||appstoreort-stsdk.vivo.com.cn^
 ||appsupport.qq.com^
 ||apptime.xyz^
+||appupgrade.vivo.com.cn^
 ||aq-ad-h5-fe.c.t.soulapp-inc.cn^
 ||aq.qq.servirce.com^
 ||aqdlt.com^
@@ -2071,7 +2074,9 @@
 ||dedcrfvdj.xyz^
 ||deeplink.umeng.com^
 ||deeterno.cn^
+||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
+||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||defaultts.tc.qq.com^
@@ -5751,6 +5756,7 @@
 ||ssp.qq.com^
 ||ssp.tencentmusic.com^
 ||ssqyuvavse.com^
+||sss.umeng.com^
 ||sssxwsry.com^
 ||st-ads-jssdk.vivo.com.cn^
 ||st-adsgame.vivo.com.cn^
