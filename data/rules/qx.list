@@ -1914,18 +1914,15 @@ DOMAIN,d.kugou.com,reject
 DOMAIN,d.toutiao.com,reject
 DOMAIN,d.url.cn,reject
 DOMAIN,d0lzq.com,reject
-DOMAIN,d1.music.126.net,reject
 DOMAIN,d13gni3sfor862.cloudfront.net,reject
 DOMAIN,d16-ad.kwai.net,reject
 DOMAIN,d1esebcdm6wx7j.cloudfront.net,reject
 DOMAIN,d1f05vr3sjsuy7.cloudfront.net,reject
 DOMAIN,d1pmhihatyvp1k.cloudfront.net,reject
 DOMAIN,d1q4x2p7t0gq14.cloudfront.net,reject
-DOMAIN,d2.music.126.net,reject
 DOMAIN,d20903hof2l33q.cloudfront.net,reject
 DOMAIN,d227cncaprzd7y.cloudfront.net,reject
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net,reject
-DOMAIN,d3.music.126.net,reject
 DOMAIN,d37d9zbli5ytch.cloudfront.net,reject
 DOMAIN,d3f3.xyz,reject
 DOMAIN,d3fulrozqmnmsg.cloudfront.net,reject
@@ -1933,7 +1930,6 @@ DOMAIN,d3g.qq.com,reject
 DOMAIN,d3mshiiq22wqhz.cloudfront.net,reject
 DOMAIN,d3nfknbv.icu,reject
 DOMAIN,d4-ks.a.kwimgs.com,reject
-DOMAIN,d6.music.126.net,reject
 DOMAIN,d8962a.xyz,reject
 DOMAIN,da.mgtv.com,reject
 DOMAIN,da.mmarket.com,reject
