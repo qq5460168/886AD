@@ -19,6 +19,7 @@ DOMAIN,*.8le8le.com,reject
 DOMAIN,*.ads.heytapmobi.com,reject
 DOMAIN,*.ads.huawei.com.au,reject
 DOMAIN,*.ads.huawei.com,reject
+DOMAIN,*.anythinktech.com,reject$important,reject
 DOMAIN,*.beizi.biz,reject
 DOMAIN,*.cmgadx.com,reject
 DOMAIN,*.diwodiwo.xyz,reject
@@ -1513,6 +1514,7 @@ DOMAIN,brfvyrrp.com,reject
 DOMAIN,bridgetnbe.com,reject
 DOMAIN,broadcast.chat.bilibili.com,reject
 DOMAIN,brownfox.top,reject
+DOMAIN,browser.sentry-cdn.com,reject$important,reject
 DOMAIN,browser.vivo.com.cn,reject
 DOMAIN,browserbook.vivo.com.cn,reject
 DOMAIN,browserkernel.baidu.com,reject
