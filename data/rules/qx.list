@@ -2794,6 +2794,7 @@ DOMAIN,h.baminw.cn,reject
 DOMAIN,h.trace.qq.com,reject
 DOMAIN,h.wymwyma.cn,reject
 DOMAIN,h1-us.iot-dns.com,reject
+DOMAIN,h1v3fa.com,reject
 DOMAIN,h21n.top,reject
 DOMAIN,h2ji5.xyz,reject
 DOMAIN,h35.ynodd.cn,reject
