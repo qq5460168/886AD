@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-04 22:09:55（北京时间）
+! Version: 2024-12-05 00:12:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 7482
+! Total count: 7500
 || default.cn.sz.wagbridge.ad.alibabacorp.com^
 || default.cn.wagbridge.ad.alibabacorp.com^
 ||*-*.ad*kwai.com^
@@ -26,6 +26,7 @@
 ||*.ads.heytapmobi.com^
 ||*.ads.huawei.com.au^
 ||*.ads.huawei.com^
+||*.anythinktech.com^
 ||*.anythinktech.com^$important^
 ||*.beizi.biz^
 ||*.cmgadx.com^
@@ -36,6 +37,7 @@
 ||*.gdt.qq.com^
 ||*.hubcloud.com.cn^
 ||*.ksyungslb.com^
+||*.nstool.ntes53.netease.com^
 ||*.p2p.huya.com^
 ||*.qc.bsccdn.net^
 ||*.retail.n.weimob.com^
@@ -1255,6 +1257,8 @@
 ||app-measurement.com^
 ||app-preload.iqiyi.com^
 ||app.bugsnag.com^
+||app.duxiaoman.com^
+||app.duxiaomanfintech.com^
 ||app.fairparkdallas.com^
 ||app.fashalot.com^
 ||app.getsentry.com^
@@ -1484,6 +1488,7 @@
 ||bhjuy10.com^
 ||bhpprfk.cn^
 ||bhulgot.com^
+||bi-sensors.duxiaoman.com^
 ||bianxian.com^
 ||bid-adx.vlion.cn^
 ||bidtoolads.com^
@@ -1558,6 +1563,7 @@
 ||bridgetnbe.com^
 ||broadcast.chat.bilibili.com^
 ||brownfox.top^
+||browser.sentry-cdn.com^
 ||browser.sentry-cdn.com^$important^
 ||browser.vivo.com.cn^
 ||browserbook.vivo.com.cn^
@@ -1612,7 +1618,6 @@
 ||c-adash.m.taobao.com^
 ||c-gtc.getui.net^
 ||c-nfa.jd.com^
-||c.*.qq.com^
 ||c.ads.rgyun.com^
 ||c.bidtoolads.com^
 ||c.cnzz.com^
@@ -2493,6 +2498,7 @@
 ||ezraahdn.icu^
 ||ezu6rd5.houge.in^
 ||f.8fenxiang.com^
+||f1.market.mi-img.com^
 ||f1tfmxzg.icu^
 ||f23jjd8.xyz^
 ||f53a.com^
@@ -3898,6 +3904,10 @@
 ||link-sx18.netease.im^
 ||link-yqsx01.netease.im^
 ||link.jzzxapp.cn^
+||link04.yunxinfw.com^
+||link07.yunxinfw.com^
+||link103.yunxinfw.com^
+||link125.yunxinfw.com^
 ||linuozhiyao.xyz^
 ||linyongming.top^
 ||lishuaibin.cn^
@@ -5779,6 +5789,7 @@
 ||stat.xgo.com.cn^
 ||stat.xiaomi.com^
 ||stat.y.qq.com^
+||stat.youpin.mi.com^
 ||statcounter.com^
 ||static-d.iqiyi.com^
 ||static-s.iqiyi.com^
@@ -6270,6 +6281,7 @@
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com^
 ||umkezbh.cn^
+||umoney.dxmstatic.com^
 ||umwatsonc.events.data.microsoft.com^
 ||umyrn.xyz^
 ||un-acs.cp31.ott.cibntv.net^
@@ -6606,6 +6618,7 @@
 ||w.cnews.qq.com^
 ||w.inews.qq.com^
 ||w.l.qq.com^
+||w1.dxmstatic.com^
 ||w1.gskwai.com^
 ||w1.kskwai.com^
 ||w2.eckwai.com^
@@ -6779,6 +6792,7 @@
 ||www.dknindsl.com^
 ||www.doca182.com^
 ||www.dragonib.com^
+||www.dxmpay.com^
 ||www.geodeep.org^
 ||www.google-analytics.com^
 ||www.googleadservices.com^
@@ -6845,6 +6859,7 @@
 ||www.sioccu.com^
 ||www.smtlm.cc^
 ||www.soviewo.com^
+||www.sufeinet.com^
 ||www.sugarle.com^
 ||www.t5wm.cc^
 ||www.tctakoh.com^
@@ -6874,6 +6889,7 @@
 ||www.ynxjf.com^
 ||www.youzonggw.com^
 ||www.yueyuego.com^
+||www.yunzhanxinxi.com^
 ||www.yuyue008.cn^
 ||www.ywquyq.com^
 ||www.yymh1113.com^
@@ -6961,6 +6977,7 @@
 ||xilofr.xyz^
 ||ximit8023.maijijo.com^
 ||xinbo-lora.cn^
+||xindai.duxiaoman.com^
 ||xinerdact.com^
 ||xingya-ad-track.shytkjgs.com^
 ||xingyou25.xyz^
@@ -7210,6 +7227,7 @@
 ||yun-hl.3g.qq.com^
 ||yun.hljk.wang^
 ||yunconfig.com^
+||yunhyapp.com^
 ||yunl1.com^
 ||yunliunet.com^
 ||yunqishi8.com^
