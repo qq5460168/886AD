@@ -522,6 +522,7 @@ DOMAIN,acsc10.com,reject
 DOMAIN,acscdn.com,reject
 DOMAIN,act.qq.com,reject
 DOMAIN,act.vip.iqiyi.com,reject
+DOMAIN,actfile.cdn.pandora.xiaomi.com,reject
 DOMAIN,activation.cyberlink.com,reject
 DOMAIN,activeqq.3g.qq.com,reject
 DOMAIN,activity-ag.awemeughun.com,reject
@@ -2848,6 +2849,7 @@ DOMAIN,h45pmx1.cn,reject
 DOMAIN,h4b0srs.cn,reject
 DOMAIN,h5.dzgsdswh5.xyz,reject
 DOMAIN,h5.gdt.qq.com,reject
+DOMAIN,h5.tv.mi.com,reject
 DOMAIN,h5.vivo.com.cn,reject
 DOMAIN,h5vv.play.aiseet.atianqi.com,reject
 DOMAIN,h6cp.icu,reject
@@ -3232,6 +3234,7 @@ DOMAIN,indivdict.gtimg.com,reject
 DOMAIN,indivi-cdn-v6.shouji.sogou.com,reject
 DOMAIN,info.3g.qq.com,reject
 DOMAIN,info.gdt.qq.com,reject
+DOMAIN,info.mina.xiaoaisound.com,reject
 DOMAIN,info.zb.qq.com,reject
 DOMAIN,infotrack.gdt.qq.com,reject
 DOMAIN,inkuae.com,reject
@@ -4277,6 +4280,7 @@ DOMAIN,msch.f.360.cn,reject
 DOMAIN,msdk.qq.com,reject
 DOMAIN,msdk.voiceads.cn,reject
 DOMAIN,msdsd2.cn,reject
+DOMAIN,msec.opposhop.cn,reject
 DOMAIN,msg.ettoday.net,reject
 DOMAIN,msg.iqiyi.com,reject
 DOMAIN,msg.mobile.kugou.com,reject
@@ -5508,6 +5512,7 @@ DOMAIN,sf6-ttcdn-tos.pstatp.com,reject
 DOMAIN,sfbixfd.cn,reject
 DOMAIN,sfg11rr.com,reject
 DOMAIN,sfl-fe-tos.pglstatp-toutiao.com,reject
+DOMAIN,sfn.opposhop.cn,reject
 DOMAIN,sfp.safe.baidu.com,reject
 DOMAIN,sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com,reject
 DOMAIN,sg-public-data-api.hoyoverse.com,reject
@@ -5719,6 +5724,7 @@ DOMAIN,stescud.com,reject
 DOMAIN,stg-data.ads.heytapmobi.com,reject
 DOMAIN,stgowan.com,reject
 DOMAIN,stienlb.top,reject
+DOMAIN,stm-collect.cn.miaozhen.com,reject
 DOMAIN,stmzzs.com,reject
 DOMAIN,stnew.xyz,reject
 DOMAIN,store.log.ksyun.com,reject
@@ -5910,6 +5916,7 @@ DOMAIN,tjqonline.cn,reject
 DOMAIN,tjqwb.cn,reject
 DOMAIN,tjwzyjx.icu,reject
 DOMAIN,tk.anythinktech.com,reject
+DOMAIN,tk.d.mi.com,reject
 DOMAIN,tkcloud.iqiyi.com,reject
 DOMAIN,tknkfd.xyz,reject
 DOMAIN,tkqwurl.icu,reject

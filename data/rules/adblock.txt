@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-18 22:09:09（北京时间）
+! Version: 2024-12-19 00:11:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15516
+! Total count: 15523
 
  ! 某些其他
  #晴雅规则
@@ -8129,6 +8129,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||act.qq.com^
 ||act.vip.iqiyi.com/interact/api/v2/show?P00001=*^
 ||act.vip.iqiyi.com^
+||actfile.cdn.pandora.xiaomi.com^
 ||activation.cyberlink.com^
 ||activeqq.3g.qq.com^
 ||activity-ag.awemeughun.com^
@@ -10611,6 +10612,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||h4b0srs.cn^
 ||h5.dzgsdswh5.xyz^
 ||h5.gdt.qq.com^
+||h5.tv.mi.com^
 ||h5.vivo.com.cn^
 ||h5vv.play.aiseet.atianqi.com^
 ||h6cp.icu^
@@ -11025,6 +11027,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||inews.gtimg.com^$important
 ||info.3g.qq.com^
 ||info.gdt.qq.com^
+||info.mina.xiaoaisound.com^
 ||info.zb.qq.com^
 ||info4.video.qq.com^$important
 ||infotrack.gdt.qq.com^
@@ -12153,6 +12156,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||msdk.qq.com^
 ||msdk.voiceads.cn^
 ||msdsd2.cn^
+||msec.opposhop.cn^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
 ||msg.mobile.kugou.com^
@@ -13464,6 +13468,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sfbixfd.cn^
 ||sfg11rr.com^
 ||sfl-fe-tos.pglstatp-toutiao.com^
+||sfn.opposhop.cn^
 ||sfp.safe.baidu.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||sg-public-data-api.hoyoverse.com^
@@ -13695,6 +13700,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stgowan.com^
 ||stienlb.top^
 ||stlib.qbb6.com^$important
+||stm-collect.cn.miaozhen.com^
 ||stmzzs.com^
 ||stnew.xyz^
 ||store.log.ksyun.com^
@@ -13897,6 +13903,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tjqwb.cn^
 ||tjwzyjx.icu^
 ||tk.anythinktech.com^
+||tk.d.mi.com^
 ||tkcloud.iqiyi.com^
 ||tknkfd.xyz^
 ||tkodoczxfrie.yuchengxinxia.xyz^$important
