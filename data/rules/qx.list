@@ -1,5 +1,3 @@
-DOMAIN, default.cn.sz.wagbridge.ad.alibabacorp.com,reject
-DOMAIN, default.cn.wagbridge.ad.alibabacorp.com,reject
 DOMAIN,*-*.ad*kwai.com,reject
 DOMAIN,*-ad-sign.byteimg.com,reject
 DOMAIN,*-ad.a.yximgs.com,reject
@@ -555,9 +553,6 @@ DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
 DOMAIN,ad-sdk.huxiu.com,reject
 DOMAIN,ad-sdk.lenovomm.com,reject
-DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ,reject
-DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ,reject
-DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com,reject
 DOMAIN,ad-ssp-engine-qa-ct.soulapp-inc.cn,reject
 DOMAIN,ad-static.ssread.cn,reject
 DOMAIN,ad-survey.com,reject
@@ -2026,10 +2021,8 @@ DOMAIN,de.ad.gameley.com,reject
 DOMAIN,dedcrfvdj.xyz,reject
 DOMAIN,deeplink.umeng.com,reject
 DOMAIN,deeterno.cn,reject
-DOMAIN,default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
-DOMAIN,default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
-DOMAIN,default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
-DOMAIN,default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ,reject
+DOMAIN,default.cn.sz.wagbridge.ad.alibabacorp.com,reject
+DOMAIN,default.cn.wagbridge.ad.alibabacorp.com,reject
 DOMAIN,default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com,reject
 DOMAIN,defaultts.tc.qq.com,reject
 DOMAIN,degjidp.icu,reject
@@ -4948,7 +4941,6 @@ DOMAIN,ptmabek.cn,reject
 DOMAIN,ptvfzv.xyz,reject
 DOMAIN,pub.idqqimg.com,reject
 DOMAIN,pubfuture-ad.com,reject
-DOMAIN,public-bjy-rs-kce-node1466.idchb1az2.hb1.kwaidc.com,reject
 DOMAIN,public-deliver5.miguvideo.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,public.wlbaike.com,reject
@@ -7387,5 +7379,3 @@ DOMAIN,zztxr.cn,reject
 DOMAIN,zzxedr.xyz,reject
 DOMAIN,zzxlhwyp.com,reject
 DOMAIN,zzycj.com,reject
-DOMAIN, default.cn.sz.wagbridge.ad.alibabacorp.com,reject
-DOMAIN, default.cn.wagbridge.ad.alibabacorp.com,reject
