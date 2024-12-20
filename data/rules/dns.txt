@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-20 20:16:15（北京时间）
+! Version: 2024-12-20 22:08:37（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 7497
+! Total count: 7462
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
@@ -30,7 +30,6 @@
 ||*.cmgadx.com^
 ||*.diwodiwo.xyz^
 ||*.dns.cross.gt^
-||*.e.qq.com^
 ||*.gamecenter.qq.com^
 ||*.gdt.qq.com^
 ||*.hubcloud.com.cn^
@@ -77,14 +76,12 @@
 ||*bqt_logo_tag*^
 ||*channel=*&amp;amp;disable_rcmd=1*^
 ||*commercial_api*^
-||*commercial_api/real_time*^
 ||*dy-pic*.iqiyipic.com^
 ||*feed_ad*^
 ||*get-ads*^
 ||*getappmsgad*^
 ||*igd.xml*^
 ||*isAds*^
-||*load_new_ad=*^
 ||*miaozhen.com^
 ||*mobads*^
 ||*mobads://*^
@@ -135,7 +132,6 @@
 ||0yq00i.cn^
 ||1.11130.com.cn^
 ||1.feihua.com^
-||10.130.208.223^
 ||10090dfs.com^
 ||1017facai8.xyz^
 ||106.11.23.107^
@@ -144,35 +140,19 @@
 ||1105yh.com^
 ||1106yh.com^
 ||1107piaoliang2022.xyz^
-||111.45.69.159^
-||111.45.69.21^
-||111.51.128.172^
 ||1113dage2022.xyz^
 ||1116yitiao2022.xyz^
 ||1117liangtiao2022.xyz^
-||112.60.14.98^
 ||113-116-50-196-yf81c2bb.nodeedge.cn:9512^
 ||113.105.153.20^
 ||113.219.183.77^
 ||113.240.86.171^
-||119.28.83.28:8099^
 ||11jianzhan.com^
-||120.232.202.5^
-||120.232.202.6^
-||120.232.202.7^
-||120.232.207.80^
-||120.232.210.151^
-||120.232.210.153^
-||120.232.210.155^
-||120.238.119.113^
 ||1205qitiao2022.xyz^
 ||120askimages.com^
 ||121.12.1.102^
 ||121.12.1.95^
 ||121.43.235.135^
-||122.14.229.147^
-||122.14.229.148^
-||122.14.229.149^
 ||1222dfm3l.cc^
 ||1224.zg-babyroo.com^
 ||124.225.195.107^
@@ -192,12 +172,10 @@
 ||1640831964042.se-life.cn^
 ||180zhengkkl.com^
 ||183.232.114.245^
-||183.240.223.132^
 ||183.61.169.140^
 ||183.61.169.142^
 ||183.61.170.21^
 ||18479.pw^
-||185.172.2.183.in-addr.arpa^
 ||187388.com^
 ||188555.com^
 ||18dui.com^
@@ -220,17 +198,12 @@
 ||2052.flash2-http.qq.com^
 ||208622.top^
 ||21qma3vs.com^
-||220.243.190.6^
-||220.243.190.7^
-||220.243.190.8^
 ||222-76-2-45-yf4b1e07.ksyungslb.com^
 ||222.186.27.90^
 ||23.231.151.252^
 ||23dhj4q.com^
 ||23jgiy.com^
 ||2409-8754-8310-35--3.volcsirius.com^
-||2409:8702:4860:10::62^
-||2409:8c20:8ab1:203:1::5^
 ||2409:8c54:1040:9::149^
 ||2431.vainews.cn^
 ||24klm.cn^
@@ -272,8 +245,6 @@
 ||37bhof.com^
 ||387635.com^
 ||38kmute.xyz^
-||39.96.184.178^
-||39.96.185.90^
 ||39mydp.xyz^
 ||3ad5iot.com^
 ||3er88wn.com^
@@ -469,7 +440,6 @@
 ||9pyfqzkqqwiy.me^
 ||9xf9qkz5.com^
 ||Media.net^
-||[240e:ff:f100:1009::10f]:443^
 ||a-mo.net^
 ||a-qmad.qimao.com^
 ||a-qmad.qm989.com^
@@ -1224,7 +1194,6 @@
 ||api.zhihu.com/ab/*^
 ||api.zhihu.com/commercial_api/answer/*/bottom*^
 ||api.zhihu.com/commercial_api/launch_v2?app=*&size=*&non_full_size=*&vf=*^
-||api.zhihu.com/commercial_api/launch_v2^
 ||api01pbmp.zhuishushenqi.com^
 ||api02u58f.zhuishushenqi.com^
 ||api1.kwaixiaodian.com^
@@ -1863,7 +1832,6 @@
 ||community.xw.qq.com^
 ||comp.360os.com^
 ||compliance.tdos.qq.com^
-||compus.xiaofubao.com/compus/advertising/getStartupAdvertising^
 ||conf-darwin.xycdn.com^
 ||conf.hpplay.cn^
 ||config.ads.vungle.com^
@@ -4101,7 +4069,6 @@
 ||m-adash.m.taobao.com^
 ||m-adnet.dutils.com^
 ||m-adnet.hiaiabc.com^
-||m-cloud.zhihu.com/api/cloud/zhihu/config/all*^
 ||m-cloud.zhihu.com^
 ||m-game.book.qq.com^
 ||m.atm.youku.com^
@@ -4148,7 +4115,6 @@
 ||manual.sensorsdata.cn^
 ||maobujie.com^
 ||maoskk.com^
-||mapi.appvipshop.com/vips-mobile/rest/activity/advertisement/get^
 ||maplocatesdksnapshot.d.meituan.net^
 ||mapp.qzone.qq.com^
 ||maps.testing.amap.com^
@@ -4170,7 +4136,6 @@
 ||maximpetus.com^
 ||mazu.3g.qq.com^
 ||mbads.paas.cmbchina.com^
-||mbd.baidu.com/searchbox*action=feed&cmd=308*^
 ||mbekgac.xyz^
 ||mbveryu.top^
 ||mbxsku.cn^
@@ -4814,7 +4779,6 @@
 ||p4-ad.adbkwai.com^
 ||p4-ad.adkwai.com^
 ||p4-ad.adukwai.com^
-||p4-ad.adukwai.comaz4-api.ksapisrv.com/rest/n/ad/splash*^
 ||p4-live.a.yximgs.com^
 ||p5-ad.adbkwai.com^
 ||p5-ad.adkwai.com^
@@ -5793,6 +5757,7 @@
 ||static.ads-twitter.com^
 ||static.cdnativepush.com^
 ||static.dns.qiyipic.iqiyi.com^
+||static.doubleclick.net^
 ||static.gridsumdissector.com^
 ||static.hae123.cn^
 ||static.iqiyi.com^
