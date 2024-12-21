@@ -2,7 +2,7 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-21 22:07:14（北京时间）
+! Version: 2024-12-22 00:09:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 15474
 
@@ -2691,7 +2691,6 @@
 127.0.0.1 down.apps.sina.cn
 127.0.0.1 down.lltskb.com
 127.0.0.1 downdload.shuzilm.cn
-127.0.0.1 download.alicdn.com
 127.0.0.1 download.changhong.upgrade2.huan.tv
 127.0.0.1 download.sd.baidu.com
 127.0.0.1 download.sdk.mob.com
@@ -4795,7 +4794,6 @@
 127.0.0.1 share-jmlink.jpush.cn
 127.0.0.1 share.baidu.com
 127.0.0.1 share.mob.com
-127.0.0.1 sharechain.qq.com
 127.0.0.1 sharesdk.mob.com
 127.0.0.1 shark-tracer.netease.com
 127.0.0.1 shence.hupu.com
@@ -6247,6 +6245,7 @@
 @@||douyincdn.com^$important
 @@||down.anticheatexpert.com^$important
 @@||down.sandai.net^
+@@||download.alicdn.com^$important
 @@||download.uc.cn^
 @@||downpack.baidu.com^$important
 @@||downum.game.uc.cn^$important
@@ -6788,6 +6787,7 @@
 @@||sf3-pitaya-tos.pstatp.com^$important
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||share.myfreecams.com^$important
+@@||sharechain.qq.com^$important
 @@||shouji.360.cn^
 @@||shouji.sogou.com^
 @@||simg.sinajs.cn^$important
