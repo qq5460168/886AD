@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-21 12:10:54（北京时间）
+! Version: 2024-12-21 14:11:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15472
+! Total count: 15475
 
  ! 某些其他
  #晴雅规则
@@ -740,6 +740,7 @@
 /site/mov*$third-party
 /static/jietiandixs/jtd.js$~third-party
 /static/js/miniyyrtv-config.js
+/static/lbsite/*/*.js?v=$third-party
 /statics/js/dddd.js
 /statics/js/guding.js
 /statics/js/hth1111.html
@@ -7808,6 +7809,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||3pkf5m0gd.com^
 ||3prndxd.cn^
 ||3q3l.cn^
+||3qxsa.cc/js/news2.js
 ||3rsppty.cn^
 ||3t769up6.com^
 ||3v7c7y.online^
@@ -10343,6 +10345,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||g13eyx.com^
 ||g1kb9u.xyz^
 ||g6afvmg48.cc^
+||g7htk7ls7.com^
 ||gadx.hubcloud.com.cn^
 ||gahvy6ww.icu^
 ||gaia-mix-prd.vivo.com.cn^
