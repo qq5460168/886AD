@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-23 16:13:02（北京时间）
+! Version: 2024-12-23 18:10:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15474
+! Total count: 15475
 
  ! 某些其他
  #晴雅规则
@@ -6066,6 +6066,7 @@
 @@||api.zhuti.xiaomi.com^$important
 @@||api2-album.quark.cn^$important
 @@||apis.google.com
+@@||apischedule.ksyungslb.com^$important
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
 @@||app-api.pixiv.net^$important
