@@ -26,7 +26,6 @@ DOMAIN,*.dns.cross.gt,reject
 DOMAIN,*.gamecenter.qq.com,reject
 DOMAIN,*.gdt.qq.com,reject
 DOMAIN,*.hubcloud.com.cn,reject
-DOMAIN,*.ksyungslb.com,reject
 DOMAIN,*.nstool.ntes53.netease.com,reject
 DOMAIN,*.p2p.huya.com,reject
 DOMAIN,*.qc.bsccdn.net,reject
