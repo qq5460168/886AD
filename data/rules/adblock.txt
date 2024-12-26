@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-27 00:10:31（北京时间）
+! Version: 2024-12-27 02:12:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15312
+! Total count: 15321
 
  ! 某些其他
  #晴雅规则
@@ -5929,6 +5929,9 @@
 :8007/*/*?is_not=
 :8008/*/*?is_not=
 :8891/v*$third-party
+<<<<<<< HEAD
+=======
+>>>>>>> 1df2b9c2a14304b53827a56f1bb3f035215ef5ea
 ?adspot_
 ?local_ga_js=
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -6515,6 +6518,7 @@
 @@||luna-dict-community.nosdn.127.net^
 @@||m.360buyimg.com^$important
 @@||m.intl.taobao.com^$important
+@@||m.iqiyi.com^$important
 @@||m.jiaoyimao.com^$important
 @@||m.jingxi.com^
 @@||m.jingxi.com^$important
@@ -8772,7 +8776,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.vip.ptqy.gitv.tv^
 ||api.wqycq.com^
 ||api.wtzw.com^
-||api.x8zs.com^$important
 ||api.xahc971.com^
 ||api.xn--zw0autp42d.cn^
 ||api.xyhx.cc^
@@ -8826,6 +8829,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||app-measurement.com^
 ||app-preload.iqiyi.com^
 ||app.bugsnag.com^
+||app.duxiaoman.com^
+||app.duxiaomanfintech.com^
 ||app.fairparkdallas.com^
 ||app.fashalot.com^
 ||app.getsentry.com^
@@ -9069,6 +9074,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bhjuy10.com^
 ||bhpprfk.cn^
 ||bhulgot.com^
+||bi-sensors.duxiaoman.com^
 ||bianxian.com^
 ||bid-adx.vlion.cn^
 ||bidtoolads.com^
@@ -11485,7 +11491,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lf3-static.bytednsdoc.com^
 ||lf3-webcastcdn-tos-sign.douyinstatic.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
-||lf6-cdn-tos.bytecdntp.com^$important
 ||lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com^
 ||lf6-imcloud-file-sign.bytetos.com^
 ||lf6-orange.byteorge.com^
@@ -14014,6 +14019,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com^
 ||umkezbh.cn^
+||umoney.dxmstatic.com^
 ||umwatsonc.events.data.microsoft.com^
 ||umyrn.xyz^
 ||un-acs.cp31.ott.cibntv.net^
@@ -14349,6 +14355,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||w.cnews.qq.com^
 ||w.inews.qq.com^
 ||w.l.qq.com^
+||w1.dxmstatic.com^
 ||w1.gskwai.com^
 ||w1.kskwai.com^
 ||w2.eckwai.com^
@@ -14546,6 +14553,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.dknindsl.com^
 ||www.doca182.com^
 ||www.dragonib.com^
+||www.dxmpay.com^
 ||www.geodeep.org^
 ||www.google-analytics.com^
 ||www.googleadservices.com^
@@ -14753,6 +14761,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xilofr.xyz^
 ||ximit8023.maijijo.com^
 ||xinbo-lora.cn^
+||xindai.duxiaoman.com^
 ||xinerdact.com^
 ||xingya-ad-track.shytkjgs.com^
 ||xingyou25.xyz^

@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-27 00:10:31（北京时间）
+! Version: 2024-12-27 02:12:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 7302
+! Total count: 7309
 ||*-*.ad*kwai.com^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
@@ -1210,6 +1210,8 @@
 ||app-measurement.com^
 ||app-preload.iqiyi.com^
 ||app.bugsnag.com^
+||app.duxiaoman.com^
+||app.duxiaomanfintech.com^
 ||app.fairparkdallas.com^
 ||app.fashalot.com^
 ||app.getsentry.com^
@@ -1434,6 +1436,7 @@
 ||bhjuy10.com^
 ||bhpprfk.cn^
 ||bhulgot.com^
+||bi-sensors.duxiaoman.com^
 ||bianxian.com^
 ||bid-adx.vlion.cn^
 ||bidtoolads.com^
@@ -6110,6 +6113,7 @@
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com^
 ||umkezbh.cn^
+||umoney.dxmstatic.com^
 ||umwatsonc.events.data.microsoft.com^
 ||umyrn.xyz^
 ||un-acs.cp31.ott.cibntv.net^
@@ -6435,6 +6439,7 @@
 ||w.cnews.qq.com^
 ||w.inews.qq.com^
 ||w.l.qq.com^
+||w1.dxmstatic.com^
 ||w1.gskwai.com^
 ||w1.kskwai.com^
 ||w2.eckwai.com^
@@ -6606,6 +6611,7 @@
 ||www.dknindsl.com^
 ||www.doca182.com^
 ||www.dragonib.com^
+||www.dxmpay.com^
 ||www.geodeep.org^
 ||www.google-analytics.com^
 ||www.googleadservices.com^
@@ -6787,6 +6793,7 @@
 ||xilofr.xyz^
 ||ximit8023.maijijo.com^
 ||xinbo-lora.cn^
+||xindai.duxiaoman.com^
 ||xinerdact.com^
 ||xingya-ad-track.shytkjgs.com^
 ||xingyou25.xyz^

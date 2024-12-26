@@ -1173,6 +1173,8 @@ DOMAIN,app-log.dewu.com,reject
 DOMAIN,app-measurement.com,reject
 DOMAIN,app-preload.iqiyi.com,reject
 DOMAIN,app.bugsnag.com,reject
+DOMAIN,app.duxiaoman.com,reject
+DOMAIN,app.duxiaomanfintech.com,reject
 DOMAIN,app.fairparkdallas.com,reject
 DOMAIN,app.fashalot.com,reject
 DOMAIN,app.getsentry.com,reject
@@ -1395,6 +1397,7 @@ DOMAIN,bhcnmrn.icu,reject
 DOMAIN,bhjuy10.com,reject
 DOMAIN,bhpprfk.cn,reject
 DOMAIN,bhulgot.com,reject
+DOMAIN,bi-sensors.duxiaoman.com,reject
 DOMAIN,bianxian.com,reject
 DOMAIN,bid-adx.vlion.cn,reject
 DOMAIN,bidtoolads.com,reject
@@ -6012,6 +6015,7 @@ DOMAIN,umeng.co,reject
 DOMAIN,umeng.com,reject
 DOMAIN,umengcloud.com,reject
 DOMAIN,umkezbh.cn,reject
+DOMAIN,umoney.dxmstatic.com,reject
 DOMAIN,umwatsonc.events.data.microsoft.com,reject
 DOMAIN,umyrn.xyz,reject
 DOMAIN,un-acs.cp31.ott.cibntv.net,reject
@@ -6333,6 +6337,7 @@ DOMAIN,w.bnlg.fun,reject
 DOMAIN,w.cnews.qq.com,reject
 DOMAIN,w.inews.qq.com,reject
 DOMAIN,w.l.qq.com,reject
+DOMAIN,w1.dxmstatic.com,reject
 DOMAIN,w1.gskwai.com,reject
 DOMAIN,w1.kskwai.com,reject
 DOMAIN,w2.eckwai.com,reject
@@ -6501,6 +6506,7 @@ DOMAIN,www.diyuxa.com,reject
 DOMAIN,www.dknindsl.com,reject
 DOMAIN,www.doca182.com,reject
 DOMAIN,www.dragonib.com,reject
+DOMAIN,www.dxmpay.com,reject
 DOMAIN,www.geodeep.org,reject
 DOMAIN,www.google-analytics.com,reject
 DOMAIN,www.googleadservices.com,reject
@@ -6680,6 +6686,7 @@ DOMAIN,xiezhuo038.cn,reject
 DOMAIN,xilofr.xyz,reject
 DOMAIN,ximit8023.maijijo.com,reject
 DOMAIN,xinbo-lora.cn,reject
+DOMAIN,xindai.duxiaoman.com,reject
 DOMAIN,xinerdact.com,reject
 DOMAIN,xingya-ad-track.shytkjgs.com,reject
 DOMAIN,xingyou25.xyz,reject
