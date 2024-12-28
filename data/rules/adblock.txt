@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2024-12-28 22:07:13（北京时间）
+! Version: 2024-12-29 00:09:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15326
+! Total count: 15330
 
  ! 某些其他
  #晴雅规则
@@ -5933,9 +5933,6 @@
 :8007/*/*?is_not=
 :8008/*/*?is_not=
 :8891/v*$third-party
-<<<<<<< HEAD
-=======
->>>>>>> 1df2b9c2a14304b53827a56f1bb3f035215ef5ea
 ?adspot_
 ?local_ga_js=
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -6288,6 +6285,7 @@
 @@||edge.activity.windows.com^$important
 @@||edu-image.nosdn.127.net^
 @@||effect.snssdk.com^
+@@||emoji.qpic.cn^$important
 @@||ename.com.cn^
 @@||ename.net^
 @@||enrichgw.10010.com^$important
@@ -6517,6 +6515,7 @@
 @@||log1.cmpassport.com^$important
 @@||logs.game.qq.com^$important
 @@||lol.qq.com^$important
+@@||long.weixin.qq.com^$important
 @@||lop-proxy.jd.com^$important
 @@||lpl.qq.com^$important
 @@||luna-dict-community.nosdn.127.net^
@@ -6573,6 +6572,7 @@
 @@||mixer.sina.cn^$important
 @@||mjrpay.jd.com^$important
 @@||mlvbdc.live.qcloud.com^$important
+@@||mmsns.qpic.cn^$important
 @@||mobappconfig.securities.eastmoney.com^
 @@||mobile.appchina.com^$important
 @@||mobile.controller.duokanbox.com^$important
@@ -6797,6 +6797,8 @@
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||share.myfreecams.com^$important
 @@||sharechain.qq.com^$important
+@@||shmmsns.qpic.cn^$important
+@@||short.weixin.qq.com^$important
 @@||shouji.360.cn^
 @@||shouji.sogou.com^
 @@||simg.sinajs.cn^$important
@@ -6855,6 +6857,7 @@
 @@||sysdk.cl2009.com^$important
 @@||szlong.weixin.qq.com^
 @@||szmg.qq.com^
+@@||szmmsns.qpic.cn^$important
 @@||t.co^$important
 @@||t.uc.cn^$important
 @@||t3.market.mi-img.com^$important
@@ -7023,6 +7026,7 @@
 @@||www.youtube.com^$important
 @@||www1.appcleanermac.com^$important
 @@||wx.17u.cn^$important
+@@||wx.qlogo.cn^$important
 @@||wx2.sinaimg.cn^$important
 @@||wxapp.lvyadx.cn^
 @@||wxsnsdy.wxs.qq.com^
