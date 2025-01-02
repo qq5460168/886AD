@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-01-02 20:16:19（北京时间）
+! Version: 2025-01-02 22:08:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15475
+! Total count: 15473
 
 ## 163登陆
 ## 信息流及评论区广告
@@ -6130,6 +6130,7 @@
 @@||card-paopao.iqiyi.com^$important
 @@||cards.iqiyi.com^$important
 @@||castatic.fengkongcloud.com^$important
+@@||cbu01.alicdn.com^$important
 @@||cc.map.qq.com^$important
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
@@ -9302,9 +9303,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cbh365.club^
 ||cbjs.baidu.com^
 ||cbjslog.baidu.com^
-||cbu01.alicdn.com/img/ibank/*
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
-||cbu01.alicdn.com^$important
 ||cc-316.cc^
 ||cc-api-data.adobe.io^
 ||cc-cdn.adobe.com^
@@ -9850,7 +9849,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dns-*.eastus.cloudapp.azure.com^
 ||dns-info-static.hitwh.net.cn^
 ||dns-test.research.a10protects.com^
-||dns.alidns.com^
 ||dns.cyida.com^
 ||dns.jd.com.gslb.qianxun.com^
 ||dns.jd.com^

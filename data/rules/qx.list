@@ -2125,7 +2125,6 @@ DOMAIN,dns*po.lzn376.com,reject
 DOMAIN,dns-*.eastus.cloudapp.azure.com,reject
 DOMAIN,dns-info-static.hitwh.net.cn,reject
 DOMAIN,dns-test.research.a10protects.com,reject
-DOMAIN,dns.alidns.com,reject
 DOMAIN,dns.cyida.com,reject
 DOMAIN,dns.jd.com.gslb.qianxun.com,reject
 DOMAIN,dns.jd.com,reject
