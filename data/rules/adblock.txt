@@ -2,7 +2,7 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-01-05 20:15:03（北京时间）
+! Version: 2025-01-05 22:07:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 15473
 
@@ -1995,7 +1995,6 @@
 127.0.0.1 bat.bing.com
 127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bazhua.igexin.com
-127.0.0.1 bbs-static.miyoushe.com
 127.0.0.1 bbs.mob.com
 127.0.0.1 bbu.umeng.com
 127.0.0.1 bc-ad-vod.zdmimg.com
@@ -3731,7 +3730,6 @@
 127.0.0.1 mazu.m.qq.com
 127.0.0.1 mazu.sec.miui.com
 127.0.0.1 mbdlog.iqiyi.com
-127.0.0.1 mbdp02.bdstatic.com
 127.0.0.1 mcd-mkt-prod31-lb.campaign.adobe.com
 127.0.0.1 mcg-ads.inmobi.com
 127.0.0.1 mcgi.v.qq.com
@@ -4238,12 +4236,7 @@
 127.0.0.1 phone.getui.com
 127.0.0.1 phone.igexin.com
 127.0.0.1 pic-ad-ld.tupian1234.com
-127.0.0.1 pic.fastapi.net
-127.0.0.1 pic.feedsads.cn
 127.0.0.1 pic.jd-bbs.com
-127.0.0.1 pic.rmb.bdstatic.com
-127.0.0.1 pic6.ajkimg.com
-127.0.0.1 pic640.weishi.qq.com
 127.0.0.1 pig.pupuapi.com
 127.0.0.1 pigeon.umeng.com
 127.0.0.1 pingfore.qq.com
@@ -6094,6 +6087,7 @@
 @@||baijiahao.baidu.com^$important
 @@||baike.so.com^$important
 @@||baixing.com^
+@@||bbs-static.miyoushe.com^$important
 @@||bbs.mobileapi.hupu.com^$important
 @@||beian.miit.gov.cn^$important
 @@||bgp.video-upload-v*.lf.bytelb.net^
@@ -6133,6 +6127,7 @@
 @@||castatic.fengkongcloud.com^$important
 @@||cbu01.alicdn.com^$important
 @@||cc.map.qq.com^$important
+@@||cdn-f1.assistant.miui.com^$important
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
 @@||cdn.ark.qq.com^$important
@@ -6171,6 +6166,7 @@
 @@||cnlogin.cainiao.com^
 @@||cnnic.net.cn^
 @@||collect.hupu.com^$important
+@@||common.jbzj.com^$important
 @@||computemaster.bxcearth.com^$important
 @@||conf.hpplay.cn^
 @@||config.cmpassport.com^$important
@@ -6370,6 +6366,7 @@
 @@||haohuo.jinritemai.com^ 
 @@||haohuo.snssdk.com^
 @@||haokan.baidu.com^$important
+@@||hectorstatic.baidu.com^$important
 @@||hermes.hupu.com^$important
 @@||hls3-cf.xvideos-cdn.com^$important
 @@||hls9-cf.xvideos-cdn.com^$important
@@ -6546,6 +6543,7 @@
 @@||mars.jd.com^$important
 @@||mb.yidianzixun.com^$important
 @@||mbd.baidu.com^$important
+@@||mbdp02.bdstatic.com^$important
 @@||mca.cmpay.com^$important
 @@||mcc1684939218000.lgecqrb.com^$important
 @@||mcc1684939331000.lgecqrb.com^$important
@@ -6692,6 +6690,7 @@
 @@||pic.iask.com.cn^$important
 @@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
+@@||pic.rmb.bdstatic.com^$important
 @@||pic2.zhimg.com^
 @@||pingfore.qq.com^$important
 @@||pinghot.qq.com^$important
@@ -6842,6 +6841,7 @@
 @@||stats.gc.apple.com^
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
+@@||store.assistant.miui.com^$important
 @@||store.heytapimage.com^$important
 @@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^$important
