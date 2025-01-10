@@ -1062,7 +1062,6 @@ DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net,reject
-DOMAIN,apd-ugcvlive.apdcdn.tc.qq.com,reject
 DOMAIN,apd-vlive.apdcdn.tc.qq.com,reject
 DOMAIN,apd-vodp2plogin.teg.tencent-cloud.net,reject
 DOMAIN,apd-vodp2pnat.teg.tencent-cloud.net,reject
