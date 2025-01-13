@@ -142,6 +142,7 @@ DOMAIN,154.22.214.2,reject
 DOMAIN,155zn.com,reject
 DOMAIN,163487*.qmgmw.com,reject
 DOMAIN,1640831964042.se-life.cn,reject
+DOMAIN,17282.org,reject
 DOMAIN,180zhengkkl.com,reject
 DOMAIN,18479.pw,reject
 DOMAIN,187388.com,reject
@@ -1509,6 +1510,7 @@ DOMAIN,bslbahv.top,reject
 DOMAIN,bsrv.qq.com,reject
 DOMAIN,bswsmlp.cn,reject
 DOMAIN,bsync3-normal-lq.zijieapi.com,reject
+DOMAIN,btcili.top,reject
 DOMAIN,btescs.fun,reject
 DOMAIN,btgoo.cc,reject
 DOMAIN,btrace.qq.com,reject
@@ -6949,6 +6951,7 @@ DOMAIN,xwlyfl.xyz,reject
 DOMAIN,xwqtatnw.icu,reject
 DOMAIN,xwsqtngwa.xyz,reject
 DOMAIN,xww360.com,reject
+DOMAIN,xxaks01121sspao.xyz,reject
 DOMAIN,xxba.cc,reject
 DOMAIN,xxczdfb.cn,reject
 DOMAIN,xxdongfa.com,reject
