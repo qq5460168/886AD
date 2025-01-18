@@ -831,7 +831,6 @@ DOMAIN,adslvseed.qq.com,reject
 DOMAIN,adsmartgetqtt.guangtuikeji.com,reject
 DOMAIN,adsmind.apdcdn.tc.qq.com,reject
 DOMAIN,adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com,reject
-DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.tc.qq.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
 DOMAIN,adsmogo.com,reject
@@ -1627,7 +1626,6 @@ DOMAIN,cap.cyberlink.com,reject
 DOMAIN,captivias.site,reject
 DOMAIN,carbonads.com,reject
 DOMAIN,cards-css.iqiyi.com,reject
-DOMAIN,cards.iqiyi.com,reject
 DOMAIN,careers.hotjar.com,reject
 DOMAIN,carstat.bitauto.com,reject
 DOMAIN,cas.bugly.qq.com,reject
@@ -4209,7 +4207,6 @@ DOMAIN,mini-app-packages-cdn.taobao.com,reject
 DOMAIN,mini2015.qq.com,reject
 DOMAIN,miniapp-ad.cdn.bcebos.com,reject
 DOMAIN,minigame.gtimg.cn,reject
-DOMAIN,minigame.zijieapi.com,reject
 DOMAIN,minisite2012.qq.com,reject
 DOMAIN,minorshort.weixin.qq.com,reject
 DOMAIN,misadw1.cn,reject
@@ -5634,7 +5631,6 @@ DOMAIN,slink.ksapisrv.com,reject
 DOMAIN,slonlyuse.shop,reject
 DOMAIN,slsuggestion.live,reject
 DOMAIN,slutcmail.com,reject
-DOMAIN,sm.cn,reject
 DOMAIN,sm2kz.net,reject
 DOMAIN,smabye.com,reject
 DOMAIN,smad.ms.zhangyue.net,reject
@@ -6597,7 +6593,6 @@ DOMAIN,watson.ppe.telemetry.microsoft.com,reject
 DOMAIN,watson.telemetry.microsoft.com,reject
 DOMAIN,wawe.in,reject
 DOMAIN,wazveqv.xyz,reject
-DOMAIN,wbapp.mobile.sina.cn,reject
 DOMAIN,wbesryx.cn,reject
 DOMAIN,wbupbv.com,reject
 DOMAIN,wbvfj.xyz,reject
