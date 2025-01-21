@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-01-22 00:11:47（北京时间）
+! Version: 2025-01-22 02:12:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2451
+! Total count: 2450
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -967,12 +967,7 @@
 @@|zen-core-cn.allawntech.com^
 @@|zhuti.xiaomi.com^
 @@|zm.outer.hoopchina.com^
-@@||#a0.app.xiaomi.com^
-@@||#api.ad.xiaomi.com^
-@@||#globalapi.ad.xiaomi.com^
 @@||#m.uczzd.cn^
-@@||#pgdt.gtimg.cn^
-@@||#pingma.qq.com^
 @@||*.alipay.com^
 @@||*.alipay.com^$important
 @@||*.cdninstagram.com^$important
@@ -988,7 +983,6 @@
 @@||*.twimg.com^$important
 @@||*.video.xiaomi.com^$important
 @@||*.y.qq.com^$important
-@@||*?.mistat.xiaomi.com^
 @@||*ad*.ksyungslb.com^
 @@||*m.chenzhongtech.com^
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
@@ -1016,6 +1010,7 @@
 @@||96956.com.cn^$important
 @@||a.video.qq.com^$important
 @@||a0.app.xiaomi.com
+@@||a0.app.xiaomi.com^
 @@||a0.app.xiaomi.com^$important
 @@||about.gitlab.cn^$important
 @@||abtest.mistat.xiaomi.com^
@@ -1089,6 +1084,7 @@
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^$important
 @@||api.account.xiaomi.com^$important
+@@||api.ad.xiaomi.com^
 @@||api.airpush.com^
 @@||api.amemv.com^$important
 @@||api.comm.miui.com^$important
@@ -1548,6 +1544,7 @@
 @@||githubusercontent.com^$important
 @@||gk.sina.cn^
 @@||global-search.browser.miui.com^$important
+@@||globalapi.ad.xiaomi.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
 @@||googleadservices.com^
@@ -1976,6 +1973,7 @@
 @@||pdds.ucweb.com^
 @@||pepsico.com.cn^
 @@||personaclick.com^
+@@||pgdt.gtimg.cn^
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||pic*.iqiyipic.com^$important
 @@||pic*.zhimg.com^$important
@@ -1987,6 +1985,7 @@
 @@||pingfore.qq.com^$important
 @@||pinghot.qq.com^$important
 @@||pingjs.qq.com^$important
+@@||pingma.qq.com^
 @@||pingtas.qq.com^$important
 @@||pingtcss.qq.com^$important
 @@||pitaya.bytedance.com^
