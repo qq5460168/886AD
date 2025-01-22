@@ -2,11 +2,10 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-01-22 16:12:28（北京时间）
+! Version: 2025-01-22 18:07:54（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15812
+! Total count: 15823
 
-#
 #                    
 ## 163登陆
 ## 信息流及评论区广告
@@ -8048,6 +8047,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||2wgolxk.com^
 ||2xmzazd.cn^
 ||3.cjcp.cn^
+||3.cn^$important
 ||32.huanqiu.com^
 ||3269x.com^
 ||3337126.com^
@@ -8059,6 +8059,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||35vc.com^
 ||36.102.218.149:4482/image.uczzd.cn^
 ||360114.xyz^
+||360shuke.com^$important
 ||36htg.fun^
 ||36mghtd.xyz^
 ||37.1.213.100^
@@ -9521,6 +9522,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||c.ads.rgyun.com^
 ||c.bidtoolads.com^
 ||c.cnzz.com^
+||c.didi.cn^$important
 ||c.fa.jd.com^
 ||c.gdt.qq.com^
 ||c.gj.qq.com^
@@ -10463,6 +10465,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ezraahdn.icu^
 ||ezu6rd5.houge.in^
 ||f.8fenxiang.com^
+||f.airstar.com^$important
 ||f.gxrwc.xyz^$important
 ||f1.market.mi-img.com^
 ||f1tfmxzg.icu^
@@ -10958,6 +10961,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hegk06a.top^
 ||hegk09a.top^
 ||heioa.xyz^
+||help.jr.mi.com^$important
 ||henanqiuzhige.com^
 ||hermes-server.hupu.com^
 ||heshun365.cn^
@@ -12452,6 +12456,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mtrace.qq.com^
 ||mtt.eve.mdt.qq.com^
 ||mu6m1.com^
+||mucf.cc^$important
 ||muchenzhongguo.com^
 ||mudroom.aquadisco.xyz^
 ||muhnbc.cn^
@@ -13562,6 +13567,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s.toutiao.com^
 ||s.ufile.cc^
 ||s.union.360.cn^
+||s.webank.com^$important
 ||s1.hapying.com^
 ||s1.ssl.qhres.com^
 ||s1310ipmi.now-dns.net^
@@ -14037,6 +14043,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t-qmad.qimao.com^
 ||t-remad.qm989.com^
 ||t.atomicfile.cn^
+||t.ctrip.cn^$important
 ||t.dentsuchina.cn^
 ||t.gdt.qq.com^
 ||t.jmads.net^
@@ -14403,6 +14410,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||u-x.jd.com^
 ||u.guannin.com^
 ||u.l.qq.com^
+||u.msxf.com^$important
 ||u.txuesoft.cn^
 ||u.x.jd.com^
 ||u1.idongde.com^
@@ -14599,6 +14607,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||v*-be-pack.pglstatp-toutiao.com^
 ||v*-novelapp.fqnovelvod.com^
 ||v.adx.hubcloud.com.cn^
+||v.didi.cn^$important
 ||v.gdt.qq.com^
 ||v.smtcdns.com^
 ||v.streaming.qq.com^
@@ -14935,6 +14944,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wlgxaij.cn^
 ||wlhcb.cn^
 ||wlsyuule.cam^
+||wm4.cn^$important
 ||wmqfey.com^
 ||wmxke.com^
 ||wn.pos.baidu.com^
@@ -15253,6 +15263,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xinym1.xyz^
 ||xixrdn.xyz^
 ||xj.gdt.qq.com^
+||xjietiao.com^$important
 ||xjrvwz.com^
 ||xjssjc.com^
 ||xjzyhp.xyz^
