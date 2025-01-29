@@ -5361,6 +5361,7 @@ DOMAIN,rznscya.cn,reject
 DOMAIN,rzsgxmm.cn,reject
 DOMAIN,s*-fe-scm.pglstatp-toutiao.com,reject
 DOMAIN,s*a.pstatp.com,reject
+DOMAIN,s*voicecloud.cn,reject
 DOMAIN,s.1rtb.net,reject
 DOMAIN,s.btime.com,reject
 DOMAIN,s.click.taobao.com,reject
@@ -5632,6 +5633,7 @@ DOMAIN,slink.ksapisrv.com,reject
 DOMAIN,slonlyuse.shop,reject
 DOMAIN,slsuggestion.live,reject
 DOMAIN,slutcmail.com,reject
+DOMAIN,sm.cn,reject
 DOMAIN,sm2kz.net,reject
 DOMAIN,smabye.com,reject
 DOMAIN,smad.ms.zhangyue.net,reject
