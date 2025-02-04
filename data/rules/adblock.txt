@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-04 16:12:35（北京时间）
+! Version: 2025-02-04 18:10:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15886
+! Total count: 15914
 
 #                    
 ## 163登陆
@@ -8395,6 +8395,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||access.toggle.qq.com^
 ||access1.tpns.tencent.com^
 ||accomplishmentmentalresurrection.com^
+||acf.huaerdadi.com^
 ||acgshenshicha.cn^
 ||ack.tuisong.baidu.com^
 ||ackcdn.net^
@@ -8526,6 +8527,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adashx.ut.cainiao.com^
 ||adashx.ut.dingtalk.com^
 ||adashx.ut.youku.com^
+||adashxgc.ut.taobao.com^
 ||adasiatagmanager.appspot.com^
 ||adayvquq.cn^
 ||adbehavior.ximalaya.com^
@@ -8662,6 +8664,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.pubmatic.com^
 ||ads.raidrive.com##a
 ||ads.raidrive.com##img
+||ads.reader.yueyouxs.com^
 ||ads.service.kugou.com^
 ||ads.serving-sys.cn^
 ||ads.sohu.com^
@@ -8888,6 +8891,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||aiclk.com^
 ||aid.video.qq.com^
 ||aifwjekfe.xyz^
+||aig.aigzg.com^
 ||ailehui9149.com^
 ||aiqu222.com/da/
 ||aiqu2727.com/da/
@@ -9008,6 +9012,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||aoyou3.top^
 ||aoyou4.top^
 ||aoyou5.top^
+||ap.91adv.com.cn^
 ||aparvibices.com^
 ||apd-*.v.smtcdns.com^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
@@ -9265,7 +9270,11 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||auth-uploads.dhcc.wang^
 ||auth.be.sec.miui.com^
 ||auto423.com^$important
+||av1.xdrig.com^
 ||availablesshaother.com^
+||avapp.calvapib.me^
+||avapp.calvapic.me^
+||avapp.calvapid.me^
 ||avatar.confong.cn^
 ||avlstatic.vivo.com.cn^
 ||award.xmcdn.com^
@@ -9775,6 +9784,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cloud-log.yy.com^
 ||cloud.shtac.cn^
 ||cloudasbook.com^
+||cloudconf.fengkongcloud.com^
 ||cloudflare.st^
 ||club.bilibili.com^
 ||clue.oceanengine.com^
@@ -10387,6 +10397,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||egsxdp.cn^
 ||eheb8.cn^
 ||ehfjup.xyz^
+||ehg-youtube.hitbox.com^
 ||ehk.trenhdg.com^
 ||eiadf.xyz^
 ||eifyeldw.top^
@@ -10399,6 +10410,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ekdky.cn^
 ||elegant-creator.com^
 ||elevatorpartsbuy.com^
+||eleven.bayescom.cn^
 ||elinvarpayola.com^
 ||elopatchwork.com^
 ||elsmom.xyz^
@@ -10810,6 +10822,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||google-analytics.com^
 ||googleadapis.com^
 ||googleads-cn.com^
+||googleads.g.doubleclick-cn.net^
 ||googleads.g.doubleclick.nes^
 ||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
@@ -11161,6 +11174,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||huaweicdncmnet.inter.iqiyi.com^
 ||huaweinnd.top^
 ||huaxia.name^
+||hub5btmain.v6.shub.sandai.net^
+||hub5emu.v6.shub.sandai.net^
+||hub5idx.v6.shub.sandai.net^
 ||hubcloud.com.cn^
 ||hubiazhi.com^
 ||hudiecaifu.com^
@@ -11733,6 +11749,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kklpe.xyz^
 ||kkmbbvz.xyz^
 ||kkpgv2.xunlei.com^
+||kksdk.tapque.com^
 ||kkylx.xyz^
 ||kl.67it.com^
 ||kl.yditweb.cn^
@@ -12278,6 +12295,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mcs.snssdk.com^
 ||mcs.zijieapi.com^
 ||mdap.alipay.com^
+||mdapi.lyvsas.fun^
+||mdapi.mdlzyx.me^
+||mdapi.opsvwa.xyz^
 ||mdc.html5.qq.com^
 ||mdevstat.qqlive.qq.com^
 ||mdhxyhl.cn^
@@ -12733,6 +12753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||oceanbot-steam.com^
 ||oceanengine.com^
 ||ocloud-httpdns-cn.heytapmobi.com^
+||ocsp.apple.com^
 ||ocx.umeng.com^
 ||oehhq.xyz^
 ||oewtuho.cn^
@@ -12780,6 +12801,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||omgmta1.qq.com^
 ||omhoa.com^
 ||omlube.com/O/1000970O3001405O1O.js
+||omsdkapi.tapque.com^
 ||oncinu.com^
 ||one.fsylr.com^
 ||one.gongshu168.cn^
@@ -12901,6 +12923,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||p*-webcast-sign.douyinpic.com^
 ||p*-yx.adkwai.com^
 ||p.buluo.qq.com^
+||p.juxuyun.com^
 ||p.l.qq.com^
 ||p.mb.qq.com^
 ||p.ssp.qq.com^
@@ -13213,6 +13236,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||putv.qpic.cn^
 ||puy2.cn^
 ||pv.cheshi.com^
+||pv.dakawm.cc^
 ||pv.quw1234.icu^
 ||pv.zhiding.cn^
 ||pvajlmhjjq.xyz^
@@ -13695,10 +13719,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdk-log.partner.sm.cn^
 ||sdk-open-phone.getui.com^
 ||sdk.1rtb.net^
+||sdk.adtiming.com^
 ||sdk.alibaba.com.ailbaba.me^
 ||sdk.beizi.biz^
 ||sdk.e.qq.com^
 ||sdk.hzsanjiaomao.com^
+||sdk.kkpromotion.tapque.com^
 ||sdk.markmedia.com.cn^
 ||sdk.nouzhu.cn^$important
 ||sdk.open.phone.igexin.com^
@@ -13732,6 +13758,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdzhongke.cn^
 ||sealine.youku.com^
 ||search.video.iqiyi.com^
+||search1.kuaihuoapi.com^
 ||searchads.apple.com^
 ||searchpstatp.com^
 ||sec.umeng.com^
@@ -15165,6 +15192,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.pksanb.com^
 ||www.ppslsa.com^
 ||www.q4ee.top^
+||www.qchannel01.cn^
 ||www.qhj0u.com^$important
 ||www.qinlinghe.com^
 ||www.qkixi.com^
