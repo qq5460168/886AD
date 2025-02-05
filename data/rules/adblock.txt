@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-05 14:13:06（北京时间）
+! Version: 2025-02-05 16:12:10（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15914
+! Total count: 15937
 
 #                    
 ## 163登陆
@@ -6040,7 +6040,6 @@
 @@||adnmb3.com^
 @@||ads.privacy.qq.com^
 @@||ads.raidrive.com^
-@@||adsmind.gdtimg.com^$important
 @@||adstats.tencentmusic.com^$important
 @@||adv.ccb.com^
 @@||adv.sec.miui.com^$important
@@ -7039,6 +7038,7 @@
 @@||sm.cn^$important
 @@||smart.360.cn^
 @@||smsks1.cmpassport.com^$important
+@@||snowflake.qq.com^$important
 @@||sobot.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
@@ -8386,6 +8386,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||abtt.pufenchuanmu.com^
 ||ac.dun.163yun.com^
 ||ac.o2.qq.com^
+||ac.ppdaicdn.com^$important
 ||acaupail.net^
 ||acc.qq.com^
 ||access*.tpns.tencent.com^
@@ -9122,6 +9123,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.xn--zw0autp42d.cn^
 ||api.xyhx.cc^
 ||api.xyhx.org^
+||api.yangqianguan.com^$important
 ||api.yfanads.com^
 ||api.youtu.qq.com^
 ||api.yuedu.dns..com^
@@ -9156,6 +9158,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api5-normal-lq.fqnovel.com^
 ||api7.tuisong.baidu.com^
 ||apidns-js.kwd.inkuai.com^
+||apih5.yocdk.com^$important
 ||apihb6.ksapisrv.com^
 ||apijsv6.gifshow.com^
 ||apijsv6.ksapisrv.com^
@@ -9209,6 +9212,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||appsupport.qq.com^
 ||apptime.xyz^
 ||appupgrade.vivo.com.cn^
+||appweb.yangqianguan.com^$important
 ||aq-ad-h5-fe.c.t.soulapp-inc.cn^
 ||aq.qq.servirce.com^
 ||aqdlt.com^
@@ -9945,6 +9949,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||czghjt.com^
 ||d*-m.dewu.net^
 ||d-test.39.net^
+||d.com.cn^$important
 ||d.gdt.qq.com^
 ||d.kugou.com^
 ||d.rzskdw.cn^$important
@@ -10593,6 +10598,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||file.market.xiaomi.com^
 ||fillhr.xyz^
 ||filter.appstore.vivo.com.cn^
+||finance-gateway.diandian.com.cn^$important
 ||finderydy.video.qq.com^
 ||fintechpi.com^
 ||fionamignon.com^
@@ -10890,6 +10896,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gvbhae0.com^
 ||gvgdeo-c.125299490711.cos.ap-nqewak.com.yunruig.xyz^$important
 ||gw-w.jiaoliuqu.com^
+||gw.yoccj.cn^$important
 ||gw1jvhs.com^
 ||gw8gfjbsO5.adobe.io^
 ||gwertyuadf.com^
@@ -11888,6 +11895,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lcs-robs.adobe.io^
 ||lcs.baidu.com^
 ||lcsdk.3g.qq.com^
+||ld.ppdai.com^$important
 ||ldjhlqr.cn^
 ||ldxinb.xyz^
 ||leadc4.icu^
@@ -12137,6 +12145,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||loispp.com^
 ||lokindt.com^
 ||lokngd.com^
+||longshangxiaodai.cn^$important
 ||looedu.top^
 ||lookup.api.bsb.baidu.com^
 ||lookxiuxiu.com^
@@ -12279,6 +12288,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||masdkv6.3g.qq.com^
 ||masterconn.qq.com^
 ||match.adsrvr.cn^
+||maumkt.ppdaicdn.com^$important
 ||maximpetus.com^
 ||mazu.3g.qq.com^
 ||mbads.paas.cmbchina.com^
@@ -12651,6 +12661,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nike666.com^
 ||nimaxrv.cn^
 ||nimoatl.icu^
+||ninformation.15dai.cn^$important
 ||ningbojisheng.cn^
 ||nisihu.com.cn^
 ||nissifresh.com^
@@ -13208,12 +13219,15 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ptlogin2.bugly.qq.com^
 ||ptmabek.cn^
 ||ptvfzv.xyz^
+||pub-osscdn.zaxdcredit.com^$important
 ||pub.idqqimg.com^
 ||pubfuture-ad.com^
 ||pubfuture.com^$third-party
 ||public-deliver5.miguvideo.com^
+||public-test.yangqianguan.com^$important
 ||public.gdtimg.com^
 ||public.wlbaike.com^
+||public.yangqianguan.com^$important
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 ||pufei8.com/skin/t6.html
@@ -13439,6 +13453,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qzs.gdtimg.com^
 ||qzs.qq.com^
 ||r.cnews.qq.com^
+||r.ppdai.com^$important
 ||r.qq-hls.xyz^
 ||r.release.qq.com^
 ||r36ku.site^
@@ -13772,11 +13787,13 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sensors-log.dongqiudi.com^
 ||sentry-app.ireader.com^
 ||sentry.d.xiaomi.net^
+||sentry.fintopia.tech^$important
 ||sentry.io^$third-party
 ||sentry.kuaishou.com^
 ||senxiaopang.top^
 ||seordl.cn^
 ||sephreoqy.com^
+||seraph-cdn.zhongan.io^$important
 ||serv.vip.iqiyi.com^
 ||serv.vip.ptqy.gitv.tv^
 ||serveraddr.service.kugou.com^
@@ -13900,6 +13917,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||skogsborg.net^
 ||skxuueby.cn^
 ||sky.tongjiai.com^
+||slbh5.youkawallet.com^$important
 ||slfango.ltd^
 ||slink.gifshow.com^
 ||slink.ksapisrv.com^
@@ -13925,7 +13943,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sncop.uioozpxq.com^
 ||sngapm.qq.com^
 ||sngmta.qq.com^
-||snowflake.qq.com^
 ||sns-paopao.iqiyi.com^
 ||snssdk.com^
 ||so.clzgd.com^
@@ -14013,8 +14030,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stat.y.qq.com^
 ||stat.youpin.mi.com^
 ||statcounter.com^
+||static-ali.yangqianguan.com^$important
 ||static-d.iqiyi.com^
 ||static-s.iqiyi.com^
+||static-seraph.zhongan.io^$important
 ||static-ssl.mediav.com^
 ||static.ads-twitter.com^
 ||static.cdnativepush.com^
@@ -14030,6 +14049,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.qblv.qq.com^
 ||static.res.qq.com^
 ||static.squirrelgs.info^$important
+||static.yxh1.cn^$important
 ||static.yximgs.com^
 ||statics.woozooo.com^
 ||statics88.vip^
@@ -14199,6 +14219,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tfsuggestion.live^
 ||tftran.shop^
 ||tfttbd.xyz^
+||tfurl.zaxdcredit.cn^$important
 ||tfutcmail.com^
 ||tfzozf.xyz^
 ||tg.loclog.cn^
@@ -15242,6 +15263,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.xjwrq.com^
 ||www.xpdyqax.cn^
 ||www.xxmh*.com^
+||www.yirendai.com^$important
 ||www.ykjyyy.com/8888/
 ||www.ynxjf.com^
 ||www.youzonggw.com^
@@ -15249,6 +15271,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.yunzhanxinxi.com^
 ||www.yuyue008.cn^
 ||www.ywquyq.com^
+||www.yxh1.cn^$important
 ||www.yymh1113.com^
 ||www.z74d.com^$important
 ||www.zb757.cc^$important
