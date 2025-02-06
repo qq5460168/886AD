@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-06 22:08:51（北京时间）
+! Version: 2025-02-07 00:09:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15939
+! Total count: 15938
 
 #                    
 ## 163登陆
@@ -9076,7 +9076,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.comm.miui.com/*&ad_status=
 ||api.cxzudwk.com^
 ||api.e.kuaishou.cn^
-||api.e.kuaishou.com^
 ||api.eu.hismarttv.com^
 ||api.euro.hismarttv.com^
 ||api.faba.pw^
@@ -15939,7 +15938,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zzztl.com^$important
 ||奥门广场.com^
 某些其他
-﻿! Title: 去广告规则，反馈🐧群请点击主页
 ﻿[个人收集 2.0]
+﻿[个人维护]
 ﻿﻿! Title: 广告白名单规则，反馈🐧群
 ＃去除丰巢新版取件码页面广告

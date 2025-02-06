@@ -1138,7 +1138,6 @@ DOMAIN,api.bugsnag.com,reject
 DOMAIN,api.chcatv.hismarttv.com,reject
 DOMAIN,api.cxzudwk.com,reject
 DOMAIN,api.e.kuaishou.cn,reject
-DOMAIN,api.e.kuaishou.com,reject
 DOMAIN,api.eu.hismarttv.com,reject
 DOMAIN,api.euro.hismarttv.com,reject
 DOMAIN,api.faba.pw,reject
