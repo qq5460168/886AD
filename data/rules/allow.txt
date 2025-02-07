@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-08 00:10:59（北京时间）
+! Version: 2025-02-08 02:12:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2463
+! Total count: 2479
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1074,6 +1074,7 @@
 @@||ap6.ssl.msdk.qq.com^$important
 @@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
+@@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 @@||apd-ugcvlive.apdcdn.tc.qq.com^$important
 @@||apd-vlive.apdcdn.tc.qq.com^$important
 @@||api-album.quark.cn^$important
@@ -1134,6 +1135,7 @@
 @@||apischedule.ksyungslb.com^$important
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
+@@||apmfront.17u.cn^$important
 @@||app-api.pixiv.net^$important
 @@||app-api.smzdm.com^$important
 @@||app-measurement.com^$important
@@ -1158,6 +1160,7 @@
 @@||aq.qq.com^
 @@||as.weixin.qq.com^$important
 @@||ascdn.baidu.com^$important
+@@||assets.giocdn.com^$important
 @@||assistant.miui.com^
 @@||at.umeng.com^$important
 @@||audid-api-sg.taobao.com^
@@ -1349,7 +1352,9 @@
 @@||cpv2.mairuan.com^$important
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js
 @@||cre.dp.sina.cn^
+@@||credit-cdn.heytap.com^$important
 @@||credit-jfimage-cn.heytapimage.com^$important
+@@||credit.heytap.com^$important
 @@||cros-updates-serving.appspot.com^$important
 @@||csi.gstatic.com^
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
@@ -1436,6 +1441,7 @@
 @@||drive.quark.cn^$important
 @@||drive.uc.cn^$important
 @@||dsp.fcbox.com^$important
+@@||dss0.bdstatic.com^$important
 @@||du.163.com^
 @@||dualstack-a.apilocate.amap.com^$important
 @@||duapps.com^$important
@@ -1497,6 +1503,7 @@
 @@||fastconn-api.iot.360.cn^
 @@||fc3tn.baidu.com^
 @@||fc5tn.baidu.com^
+@@||fcbox.cfcom
 @@||feconf.zhuanzhuan.com^$important
 @@||feed-image.baidu.com^
 @@||feedback.miui.com^$important
@@ -1504,6 +1511,7 @@
 @@||fexclick.baidu.com^
 @@||fga0.market.xiaomi.com^$important
 @@||fgc0.market.xiaomi.com^$important
+@@||file.40017.cn^$important
 @@||file.market.xiaomi.com^$import
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
 @@||file.xiaomi.com^
@@ -1594,6 +1602,7 @@
 @@||hotel.17u.cn^$important
 @@||hsforms.net^
 @@||hudong.alicdn.com^$important
+@@||hugelog.fcbox.com^$important
 @@||huichuan-mc.sm.cn^
 @@||huichuan.sm.cn^
 @@||huluxia.com^$important
@@ -1641,6 +1650,7 @@
 @@||imgcache.qq.com^$important
 @@||imop.com^
 @@||imtt.dd.qq.com^$important
+@@||in.appcenter.ms^$important
 @@||increase-openapi.soulapp.cn^$important
 @@||indivi-cdn.shouji.sogou.com^$important
 @@||inews.gtimg.com^
@@ -1650,6 +1660,7 @@
 @@||instagram.com^$important
 @@||intercom-clicks.com^
 @@||interest.mix.sina.com.cn^$important
+@@||io75a.ocloud.heytapmobi.com^$important
 @@||ios.bugly.qq.com^$important
 @@||ios.crashsight.qq.com^$important
 @@||ip.cn^$important
@@ -1824,6 +1835,7 @@
 @@||mimg.127.net^
 @@||mini2015.qq.com^
 @@||minigame.zijieapi.com^$important
+@@||minorshort.weixin.qq.com^
 @@||mipcache.bdstatic.com^
 @@||mivideo.cdn.pandora.xiaomi.com^$important
 @@||mix.sina.com.cn^
@@ -1890,6 +1902,7 @@
 @@||o.actio.systems^$important
 @@||o.data.mistat.xiaomi.com^
 @@||o2o.api.xiaomi.com^$important
+@@||oauth-login-drcn.platform.dbankcloud.com^
 @@||oauth.secure.pixiv.net^$important
 @@||ohssr.cn^$important
 @@||onegoods.nosdn.127.net^
@@ -2047,6 +2060,7 @@
 @@||qr.cp31.ott.cibntv.net^$important
 @@||quan.suning.com^$important
 @@||quapp.shenbabao.com^$important
+@@||quark.cn^
 @@||quark.cn^$important
 @@||quark.sm.cn^$important
 @@||qun.qzone.qq.com^$important
@@ -2170,6 +2184,7 @@
 @@||stat.funshion.com^$important
 @@||stat.y.qq.com^$important
 @@||static-res.qq.com^$important
+@@||static-s.iqiyi.com^$important
 @@||static-ss.xvideos-cdn.com^$important
 @@||static.122.gov.cn^$important
 @@||static.e.189.cn^$important
@@ -2353,6 +2368,7 @@
 @@||we.tl^$important
 @@||web.vip.miui.com^$important
 @@||webcast-open.douyin.com^$important
+@@||webzjcaptcha.reg.163.com^
 @@||weibo.cn^$important
 @@||weidian.com^$important
 @@||weixin.qq.com^$important

@@ -555,6 +555,7 @@ DOMAIN,ad.cmvideo.cn,reject
 DOMAIN,ad.cyapi.cn,reject
 DOMAIN,ad.daum.net,reject
 DOMAIN,ad.dev.360.cn,reject
+DOMAIN,ad.duapps.com,reject
 DOMAIN,ad.e.kuaishou.com,reject
 DOMAIN,ad.gamebox.360.cn,reject
 DOMAIN,ad.gtbrowser.com,reject
@@ -746,6 +747,7 @@ DOMAIN,ads.reader.yueyouxs.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.serving-sys.cn,reject
 DOMAIN,ads.sohu.com,reject
+DOMAIN,ads.soulapp.cn,reject
 DOMAIN,ads.static.madserving.com,reject
 DOMAIN,ads.sunmaker.com,reject
 DOMAIN,ads.superad.cc,reject
@@ -2250,7 +2252,6 @@ DOMAIN,dsplog-adnet.vivo.com.cn,reject
 DOMAIN,dsplog.vivo.com.cn,reject
 DOMAIN,dspsdk.pinduoduo.com,reject
 DOMAIN,dsqzk.cn,reject
-DOMAIN,dss0.bdstatic.com,reject
 DOMAIN,dstbekdf.xyz,reject
 DOMAIN,dstbunkfw.xyz,reject
 DOMAIN,dt243100.com,reject
@@ -5398,6 +5399,7 @@ DOMAIN,s.qtad.qingting.fm,reject
 DOMAIN,s.toutiao.com,reject
 DOMAIN,s.ufile.cc,reject
 DOMAIN,s.union.360.cn,reject
+DOMAIN,s0n9app.com,reject
 DOMAIN,s1.hapying.com,reject
 DOMAIN,s1.ssl.qhres.com,reject
 DOMAIN,s1310ipmi.now-dns.net,reject
@@ -5755,7 +5757,6 @@ DOMAIN,stat.y.qq.com,reject
 DOMAIN,stat.youpin.mi.com,reject
 DOMAIN,statcounter.com,reject
 DOMAIN,static-d.iqiyi.com,reject
-DOMAIN,static-s.iqiyi.com,reject
 DOMAIN,static-ssl.mediav.com,reject
 DOMAIN,static.ads-twitter.com,reject
 DOMAIN,static.cdnativepush.com,reject
@@ -6077,6 +6078,7 @@ DOMAIN,tracker.didistatic.com,reject
 DOMAIN,tracker.gitee.com,reject
 DOMAIN,tracker.kugou.com,reject
 DOMAIN,tracker.medproad.com,reject
+DOMAIN,tracker.soulapp.cn,reject
 DOMAIN,trackerads.com,reject
 DOMAIN,trackercdnbj.kugou.com,reject
 DOMAIN,tracking.kdnet.net,reject
