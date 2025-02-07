@@ -502,7 +502,6 @@ DOMAIN,activity.baidu.com,reject
 DOMAIN,activity.hdslb.com,reject
 DOMAIN,activity.hnhnmg.com,reject
 DOMAIN,activity.inads.cn,reject
-DOMAIN,activity.youku.com,reject
 DOMAIN,ad*.sigmob.cn,reject
 DOMAIN,ad-*file.myqcloud.com,reject
 DOMAIN,ad-api.morefreegame.com,reject
@@ -2480,7 +2479,6 @@ DOMAIN,f1.market.mi-img.com,reject
 DOMAIN,f1tfmxzg.icu,reject
 DOMAIN,f23jjd8.xyz,reject
 DOMAIN,f53a.com,reject
-DOMAIN,f7.baidu.com,reject
 DOMAIN,f77j6t2b.com,reject
 DOMAIN,f77xv3.top,reject
 DOMAIN,f7853.com,reject
@@ -5771,7 +5769,6 @@ DOMAIN,static.ptoahaistais.com,reject
 DOMAIN,static.ptqy.gitv.tv,reject
 DOMAIN,static.qblv.qq.com,reject
 DOMAIN,static.res.qq.com,reject
-DOMAIN,static.yximgs.com,reject
 DOMAIN,statics.woozooo.com,reject
 DOMAIN,statics88.vip,reject
 DOMAIN,statis1.mama.cn,reject

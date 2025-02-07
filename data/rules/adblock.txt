@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-07 14:13:24（北京时间）
+! Version: 2025-02-07 16:12:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15940
+! Total count: 15945
 
 #                    
 ## 163登陆
@@ -761,7 +761,13 @@
 103.230.123.190 mega.nz
 104.95.232.120 steam-chat.com
 104.95.232.120 www.steamcommunity.com
+110.43.121.13 bigota.d.miui.com
+110.43.121.13 hugeota.d.miui.com
+110.43.121.249 bigota.d.miui.com
+110.43.121.249 hugeota.d.miui.com
 118pan.com##.card.mt-2:nth-child(2)
+123.6.13.6 bigota.d.miui.com
+123.6.13.6 hugeota.d.miui.com
 123pan.com##.adv-container-pc
 123pan.com##.banner_all_wrap
 123pan.com##.slick-slider, .slick-initialized
@@ -3842,7 +3848,6 @@
 127.0.0.1 minisite.letv.com
 127.0.0.1 minisite2012.qq.com
 127.0.0.1 minislugger.qunar.com
-127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 misc.in.duokanbox.com
 127.0.0.1 misc.pandora.xiaomi.com
@@ -6033,6 +6038,7 @@
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
 @@||activity.tuiapple.com^$important
+@@||activity.youku.com^$important
 @@||ad-log-upload.mihoyo.com^
 @@||ad.doubleclick.net^
 @@||ad.mcloud.139.com^$important
@@ -6054,6 +6060,7 @@
 @@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
+@@||ali.static.yximgs.com^$important
 @@||ali2.a.yximgs.com^$important
 @@||alissl.ucdl.pp.uc.cn^$important
 @@||aliyuncs.com/*.png
@@ -6270,6 +6277,7 @@
 @@||click.redditmail.com^
 @@||click.royalcaribbeanmarketing.com^
 @@||click.s.kohls.com^
+@@||click.simba.taobao.com^
 @@||click.simba.taobao.com^$important
 @@||click.snapshat.com^
 @@||click.zoom.us^
@@ -6452,6 +6460,7 @@
 @@||f11.baidu.com^$important
 @@||f12.baidu.com^$important
 @@||f4.market.xiaomi.com^
+@@||f7.baidu.com^$important
 @@||f8.market.xiaomi.com^$important
 @@||facebook.com^$important
 @@||fanqienovel.com^$important
@@ -8418,7 +8427,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||activity.hdslb.com^
 ||activity.hnhnmg.com^
 ||activity.inads.cn^
-||activity.youku.com^
 ||ad*.sigmob.cn^
 ||ad-*file.myqcloud.com^
 ||ad-api.morefreegame.com^
@@ -10531,7 +10539,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||f1tfmxzg.icu^
 ||f23jjd8.xyz^
 ||f53a.com^
-||f7.baidu.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f7853.com^
@@ -14053,7 +14060,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.res.qq.com^
 ||static.squirrelgs.info^$important
 ||static.yxh1.cn^$important
-||static.yximgs.com^
 ||statics.woozooo.com^
 ||statics88.vip^
 ||statis1.mama.cn^
@@ -14251,7 +14257,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||thezbpe5*.xyz^
 ||thind.unityads.unity3d.com^
 ||thinkmd.cn^
-||thirdwx.qlogo.cn^
 ||thoohizoogli.xyz^
 ||thvx9i.icu^
 ||tiandesign.top^
