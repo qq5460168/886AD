@@ -41,7 +41,8 @@ adblock = [
     "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt", "https://raw.hellogithub.com/hosts",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
-    "https://raw.githubusercontent.com/loveqqzj/AdGuard/master/Mobile.txt",
+
+    "",
     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt",
     "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list",
     "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt"
