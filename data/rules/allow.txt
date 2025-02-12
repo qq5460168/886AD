@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-12 22:09:13（北京时间）
+! Version: 2025-02-13 00:11:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2482
+! Total count: 2470
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -967,7 +967,6 @@
 @@|zen-core-cn.allawntech.com^
 @@|zhuti.xiaomi.com^
 @@|zm.outer.hoopchina.com^
-@@||#m.uczzd.cn^
 @@||*.alipay.com^
 @@||*.alipay.com^$important
 @@||*.cdninstagram.com^$important
@@ -1026,7 +1025,6 @@
 @@||acs.youku.com^$important
 @@||acs4baichuan.m.taobao.com^
 @@||act.vip.iqiyi.com^
-@@||act.vip.iqiyi.com^$important
 @@||act.zhuanzhuan.com^$important
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
@@ -1040,7 +1038,6 @@
 @@||adidasapp.api.adidas.com.cn^$important
 @@||adnmb3.com^
 @@||ads.privacy.qq.com^
-@@||ads.raidrive.com^
 @@||adsmind.gdtimg.com^$important
 @@||adstats.tencentmusic.com^$important
 @@||adv.ccb.com^
@@ -1072,7 +1069,6 @@
 @@||ap.6wz.co^$important
 @@||ap6.ssl.msdk.qq.com^
 @@||ap6.ssl.msdk.qq.com^$important
-@@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 @@||apd-ugcvlive.apdcdn.tc.qq.com^$important
@@ -1088,7 +1084,6 @@
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^$important
 @@||api.account.xiaomi.com^$important
-@@||api.ad.xiaomi.com^
 @@||api.airpush.com^
 @@||api.amemv.com^$important
 @@||api.comm.miui.com^$important
@@ -1106,7 +1101,7 @@
 @@||api.kingdata.ksyun.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
-@@||api.live.bilibili.com^$app=tv.danmaku.bili,important
+@@||api.live.bilibili.com^
 @@||api.live.bilibili.com^$important
 @@||api.look.163.com^$important
 @@||api.m.jd.com^$important
@@ -1503,7 +1498,7 @@
 @@||fastconn-api.iot.360.cn^
 @@||fc3tn.baidu.com^
 @@||fc5tn.baidu.com^
-@@||fcbox.cfcom
+@@||fcbox.cfcom^
 @@||feconf.zhuanzhuan.com^$important
 @@||feed-image.baidu.com^
 @@||feedback.miui.com^$important
@@ -1608,7 +1603,6 @@
 @@||huichuan-mc.sm.cn^
 @@||huichuan.sm.cn^
 @@||huluxia.com^$important
-@@||i*.snssdk.com^
 @@||i.gtimg.cn^$important
 @@||i.ibb.co^
 @@||i.snssdk.com^
@@ -1675,7 +1669,6 @@
 @@||ipxx.pro^$important
 @@||is-hl.snssdk.com^
 @@||is.snssdk.com^
-@@||is.snssdk.com^$important
 @@||is1-ssl.mzstatic.com^$important
 @@||isee.weishi.qq.com^
 @@||isee.weishi.qq.com^$important
@@ -1784,6 +1777,7 @@
 @@||m.qpic.cn^$important
 @@||m.tb.cn^$important
 @@||m.toutiao.com^
+@@||m.uczzd.cn^
 @@||m.video.9ddm.com^$important
 @@||m.video.xiaomi.com^$important
 @@||m.ykimg.com^$important
@@ -1990,7 +1984,7 @@
 @@||payapp.weixin.qq.com^$important
 @@||pbaccess.video.qq.com^$important
 @@||pbs.twimg.com^$important
-@@||pcvideoaliyun.titan.mgtv.com^$important#
+@@||pcvideoaliyun.titan.mgtv.com^$important
 @@||pda.jd.com^$important
 @@||pdc.micloud.xiaomi.net^$important
 @@||pdds-c1-cdn.uc.cn^
@@ -2000,7 +1994,6 @@
 @@||pgdt.gtimg.cn^
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||pic*.iqiyipic.com^$important
-@@||pic*.zhimg.com^$important
 @@||pic.iask.com.cn^$important
 @@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
@@ -2120,9 +2113,7 @@
 @@||sdk.alibaba.com.ailbaba.me^$important
 @@||sdk.live.360.cn^
 @@||sdk.open.talk.gepush.com^
-@@||sdk.open.talk.gepush.com^$important
 @@||sdkapi.sms.mob.com^
-@@||sdkconfig.ad.xiaomi.com^$important
 @@||se.360.cn^
 @@||search.kuwo.cn^
 @@||sec-cdn.static.xiaomi.net^$important
@@ -2140,9 +2131,9 @@
 @@||shmmsns.qpic.cn^$important
 @@||short.weixin.qq.com^$important
 @@||shouji.360.cn^
-@@||shouji.sogou.com^
 @@||shouji.sougou.com^
 @@||simg.sinajs.cn^$important
+@@||similarweb.com^
 @@||sina.cn^$important
 @@||sjh.baidu.com^
 @@||sjws.ssl.qihucdn.com^
@@ -2229,7 +2220,6 @@
 @@||t.me^$important
 @@||t.uc.cn^$important
 @@||t3.market.mi-img.com^$important
-@@||t5.a.market.xiaomi.com^$important
 @@||t7.baidu.com^$important
 @@||t7z.cupid.iqiyi.com^
 @@||tagtic.cn^
@@ -2291,7 +2281,6 @@
 @@||uland.taobao.com^$important
 @@||ulive-interact.uc.cn^
 @@||ulive-sc.uc.cn^
-@@||umengacs.m.taobao.com^$important
 @@||umengjmacs.m.taobao.com^
 @@||umiwi.com^
 @@||unet.ucweb.com^$important
@@ -2300,9 +2289,7 @@
 @@||up.cm.ksmobile.com^$important
 @@||upage.imtt.qq.com^$important
 @@||updata.miui.com^
-@@||updata.miui.com^$important
 @@||update.360safe.com^
-@@||update.360safe.com^$important
 @@||update.miui.com^$important
 @@||updateinfo.market.xiaomi.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
@@ -2390,6 +2377,7 @@
 @@||world.qpic.cn^$important
 @@||worldwide.sogou.com^$important
 @@||wqsd.jd.com
+@@||wqsd.jd.com^
 @@||ws.ribaoapi.com^$important
 @@||wtradv.market.xiaomi.com^
 @@||ww1.lanzous.com^$important

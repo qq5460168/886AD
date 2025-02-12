@@ -2,15 +2,13 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-12 22:09:13（北京时间）
+! Version: 2025-02-13 00:11:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 15933
+! Total count: 15921
 
-                   
 ## 163登陆
 ## 信息流及评论区广告
 ## 小米云服务备份
-## 放行
 ###
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -509,7 +507,6 @@
 ##ul#page-list.layui-clear.page-wz > ul > li:not([class])
 ##ul.thread_detail_ads
 ##七猫免费小说
-##个推
 ##中国移动
 ##乐播
 ##乐播投屏
@@ -554,7 +551,6 @@
 ##朴朴买菜
 ##樱花动漫
 ##泊链联盟
-##浅笑分享
 ##淘宝
 ##淘小说
 ##火山引擎
@@ -771,6 +767,7 @@
 123pan.com##.adv-container-pc
 123pan.com##.banner_all_wrap
 123pan.com##.slick-slider, .slick-initialized
+127.0.0.1                     education.github.com
 127.0.0.1 *-inapps.appsflyersdk.com
 127.0.0.1 *-launches.appsflyersdk.com
 127.0.0.1 *.bjmantis.net
@@ -5905,7 +5902,6 @@
 140.82.112.21                 central.github.com
 140.82.112.26                 live.github.com
 140.82.112.4                  gist.github.com
-140.82.113.21                 education.github.com
 140.82.113.4                  github.com
 140.82.114.17                 github.community
 140.82.114.21                 collector.github.com
@@ -5914,7 +5910,6 @@
 140.82.114.9                  codeload.github.com
 151.101.193.194               github.global.ssl.fastly.net
 16.182.39.81                  github-production-user-asset-6210df.s3.amazonaws.com
-16.182.42.113                 github-com.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 182.239.104.89 bigota.d.miui.com
@@ -5923,12 +5918,11 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.153               github.io
 185.199.108.153               githubstatus.com
-185.199.109.154               github.githubassets.com
+185.199.108.154               github.githubassets.com
+185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
@@ -5940,6 +5934,7 @@
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               github.map.fastly.net
+185.199.111.133               media.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
@@ -5962,7 +5957,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
-3.5.24.44                     github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.22.30                     github-cloud.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 404: Not Found
@@ -5974,9 +5969,10 @@
 45.116.79.187 fakelocation.api.lerist.dev
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.216.216.121                github-cloud.s3.amazonaws.com
-52.216.51.225                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.106.124                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.228.105                github-production-release-asset-2e65be.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+54.231.236.41                 github-com.s3.amazonaws.com
 5dm.app##[src*="sinaimg.cn"]
 66.203.124.31 mega.co.nz
 66.203.125.15 g.api.mega.co.nz
@@ -5998,7 +5994,6 @@
 :8007/*/*?is_not=
 :8008/*/*?is_not=
 :8891/v*$third-party
-<<<<<<< HEAD
 ?adspot_
 ?local_ga_js=
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -6022,7 +6017,6 @@
 @@|reading.snssdk.com^
 @@|tnc3-aliec2.snssdk.com^
 @@|v*-fq-tts.fqnovelvod.com^
-@@||#m.uczzd.cn^
 @@||*.alipay.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.img.mobile.sina.cn^$important
@@ -6071,7 +6065,6 @@
 @@||acs.youku.com^$important
 @@||acs4baichuan.m.taobao.com^
 @@||act.vip.iqiyi.com^
-@@||act.vip.iqiyi.com^$important
 @@||act.zhuanzhuan.com^$important
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
@@ -6081,16 +6074,12 @@
 @@||ad.doubleclick.net^
 @@||ad.mcloud.139.com^$important
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||adashx.m.taobao.com^$important
 @@||adidasapp.api.adidas.com.cn^$important
 @@||adnmb3.com^
 @@||ads.privacy.qq.com^
-@@||ads.raidrive.com^
-@@||adstats.tencentmusic.com^$important
 @@||adv.ccb.com^
 @@||adv.sec.miui.com^$important
 @@||aegis.qq.com^$important
-@@||aeventlog.beacon.qq.com^$important
 @@||aider-res.meizu.com^
 @@||aider.meizu.com^
 @@||aikanlive.miguvideo.com^
@@ -6113,7 +6102,6 @@
 @@||analytics.yinxiang.com^$important
 @@||ap.6wz.co^$important
 @@||ap6.ssl.msdk.qq.com^$important
-@@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 @@||apd-ugcvlive.apdcdn.tc.qq.com^$important
@@ -6129,7 +6117,6 @@
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^$important
 @@||api.account.xiaomi.com^$important
-@@||api.ad.xiaomi.com^
 @@||api.airpush.com^
 @@||api.amemv.com^$important
 @@||api.comm.miui.com^$important
@@ -6145,7 +6132,7 @@
 @@||api.jr.mi.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
-@@||api.live.bilibili.com^$app=tv.danmaku.bili,important
+@@||api.live.bilibili.com^
 @@||api.m.jd.com^$important
 @@||api.micloud.xiaomi.net^$important
 @@||api.miui.security.xiaomi.com^$important
@@ -6400,7 +6387,6 @@
 @@||da.mmarket.com^$important
 @@||dashi.163.com^$important
 @@||data.bilibili.com^
-@@||data.bilibili.com^$important
 @@||data.flurry.com^
 @@||data.mistat.*xiaomi.com^
 @@||data.mistat.intl.xiaomi.com^$important
@@ -6523,7 +6509,7 @@
 @@||fastconn-api.iot.360.cn^
 @@||fc3tn.baidu.com^
 @@||fc5tn.baidu.com^
-@@||fcbox.cfcom
+@@||fcbox.cfcom^
 @@||feconf.zhuanzhuan.com^$important
 @@||feed-image.baidu.com^
 @@||feedback.miui.com^$important
@@ -6621,7 +6607,6 @@
 @@||huichuan-mc.sm.cn^
 @@||huichuan.sm.cn^
 @@||huluxia.com^$important
-@@||i*.snssdk.com^
 @@||i.gtimg.cn^$important
 @@||i.ibb.co^
 @@||i.snssdk.com^
@@ -6685,7 +6670,6 @@
 @@||ipxx.pro^$important
 @@||is-hl.snssdk.com^
 @@||is.snssdk.com^
-@@||is.snssdk.com^$important
 @@||is1-ssl.mzstatic.com^$important
 @@||isee.weishi.qq.com^$important
 @@||issuecdn.baidupcs.com^
@@ -6786,6 +6770,7 @@
 @@||m.qpic.cn^$important
 @@||m.tb.cn^$important
 @@||m.toutiao.com^
+@@||m.uczzd.cn^
 @@||m.video.9ddm.com^$important
 @@||m.video.xiaomi.com^$important
 @@||m.ykimg.com^$important
@@ -6883,8 +6868,6 @@
 @@||n*-lf*-dy-ncdn-tos-sub.bytegecko.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
 @@||na1r.services.adobe.com^
-@@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
-@@||na61-na62.wagbridge.advertisement.alibabacorp.com^$important
 @@||na61-na62.wagbridge.alibaba.tanx.com^
 @@||nav.browser.miui.com^
 @@||ncomment.kuwo.cn^
@@ -6986,7 +6969,7 @@
 @@||payapp.weixin.qq.com^$important
 @@||pbaccess.video.qq.com^$important
 @@||pbs.twimg.com^$important
-@@||pcvideoaliyun.titan.mgtv.com^$important#
+@@||pcvideoaliyun.titan.mgtv.com^$important
 @@||pda.jd.com^$important
 @@||pdc.micloud.xiaomi.net^$important
 @@||pdds-c1-cdn.uc.cn^
@@ -6996,7 +6979,6 @@
 @@||pgdt.gtimg.cn^
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||pic*.iqiyipic.com^$important
-@@||pic*.zhimg.com^$important
 @@||pic.iask.com.cn^$important
 @@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
@@ -7106,9 +7088,7 @@
 @@||sdk.alibaba.com.ailbaba.me^$important
 @@||sdk.live.360.cn^
 @@||sdk.open.talk.gepush.com^
-@@||sdk.open.talk.gepush.com^$important
 @@||sdkapi.sms.mob.com^
-@@||sdkconfig.ad.xiaomi.com^$important
 @@||se.360.cn^
 @@||search.kuwo.cn^
 @@||sec-cdn.static.xiaomi.net^$important
@@ -7126,9 +7106,9 @@
 @@||shmmsns.qpic.cn^$important
 @@||short.weixin.qq.com^$important
 @@||shouji.360.cn^
-@@||shouji.sogou.com^
 @@||shouji.sougou.com^
 @@||simg.sinajs.cn^$important
+@@||similarweb.com^
 @@||sjh.baidu.com^
 @@||sjws.ssl.qihucdn.com^
 @@||sl.hpplay.cn^
@@ -7205,7 +7185,6 @@
 @@||t.co^$important
 @@||t.uc.cn^$important
 @@||t3.market.mi-img.com^$important
-@@||t5.a.market.xiaomi.com^$important
 @@||t7.baidu.com^$important
 @@||t7z.cupid.iqiyi.com^
 @@||tagtic.cn^
@@ -7260,7 +7239,6 @@
 @@||uland.taobao.com^$important
 @@||ulive-interact.uc.cn^
 @@||ulive-sc.uc.cn^
-@@||umengacs.m.taobao.com^$important
 @@||umengjmacs.m.taobao.com^
 @@||umiwi.com^
 @@||unet.ucweb.com^$important
@@ -7268,9 +7246,7 @@
 @@||uop.quark.cn
 @@||up.cm.ksmobile.com^$important
 @@||upage.imtt.qq.com^$important
-@@||updata.miui.com^$important
 @@||update.360safe.com^
-@@||update.360safe.com^$important
 @@||updateinfo.market.xiaomi.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
 @@||upload-bbs.miyoushe.com^$important
@@ -7346,7 +7322,7 @@
 @@||work.weixin.qq.com^$important
 @@||world.qpic.cn^$important
 @@||worldwide.sogou.com^$important
-@@||wqsd.jd.com
+@@||wqsd.jd.com^
 @@||ws.ribaoapi.com^$important
 @@||wtradv.market.xiaomi.com^
 @@||ww1.lanzous.com^$important
@@ -7657,7 +7633,6 @@ qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
 scoregg.com##.float-modal
 share.acgnx.se##IMG[src*='share.acgnx.se']
-similarweb.com^
 sina.cn###float-btn.callApp_fl_btn
 sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
 sina.cn##SECTION.sw_c0.sina_sliders_pos
@@ -15933,7 +15908,20 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zzztl.com^$important
 ||奥门广场.com^
 某些其他
+﻿! Title: 广告白名单规则，反馈🐧群
 ﻿[个人收集 2.0]
 ﻿[个人维护]
-﻿﻿! Title: 广告白名单规则，反馈🐧群
+！  抖音系
+！  番茄系
+！  酷狗
+！ 360
+！ QQ系
+！ ↑ 百度系 ↑ 
+！ 优酷系
+！ 头条
+！ 微信系
+！ 快手系
+！ 爱奇艺系  
+！↓ 百度系 ↓
+！美团
 ＃去除丰巢新版取件码页面广告
