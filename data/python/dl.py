@@ -38,7 +38,9 @@ adblock = [
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
     "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-    "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt", "https://raw.hellogithub.com/hosts",
+    "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt",
+
+ "https://raw.hellogithub.com/hosts",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt",
     "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
 
@@ -47,7 +49,7 @@ adblock = [
     "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list",
     "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt",
     "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
     "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt",
     "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt",
 
