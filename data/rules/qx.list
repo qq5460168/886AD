@@ -23,6 +23,7 @@ DOMAIN,*.3r5ia7l.xyz,reject
 DOMAIN,*.4egscv.com,reject
 DOMAIN,*.59p643.com,reject
 DOMAIN,*.5z6h6b.cn,reject
+DOMAIN,*.60qso7.com,reject
 DOMAIN,*.6nxa6g.com,reject
 DOMAIN,*.80ritc.com,reject
 DOMAIN,*.8le8le.com,reject
@@ -51,6 +52,7 @@ DOMAIN,*.dns-detect.alicdn.com,reject
 DOMAIN,*.dns.cross.gt,reject
 DOMAIN,*.dtsmndu.com,reject
 DOMAIN,*.eavztdi.com,reject
+DOMAIN,*.emsxev.xyz,reject
 DOMAIN,*.evqvxuq.com,reject
 DOMAIN,*.f1k4eil.xyz,reject
 DOMAIN,*.fohbgjv.com,reject
@@ -71,9 +73,12 @@ DOMAIN,*.kweisid.top,reject
 DOMAIN,*.kwilmid.top,reject
 DOMAIN,*.kxayxw.cn,reject
 DOMAIN,*.laebu.cn,reject
+DOMAIN,*.lzwrhiw.xyz,reject
 DOMAIN,*.mise*.buzz,reject
+DOMAIN,*.njp878.com,reject
 DOMAIN,*.nrb.footprintdns.com,reject
 DOMAIN,*.obj23q.com,reject
+DOMAIN,*.ombuw.xyz,reject
 DOMAIN,*.oneliner.cn,reject
 DOMAIN,*.oweisik.top,reject
 DOMAIN,*.p2p.huya.com,reject
@@ -84,6 +89,7 @@ DOMAIN,*.ppfu3m.com,reject
 DOMAIN,*.qc.bsccdn.net,reject
 DOMAIN,*.qgivvd.cn,reject
 DOMAIN,*.retail.n.weimob.com,reject
+DOMAIN,*.s8etj5.com,reject
 DOMAIN,*.saxysec.com,reject
 DOMAIN,*.sigmob.cn,reject
 DOMAIN,*.siigck.xyz,reject
@@ -95,12 +101,14 @@ DOMAIN,*.uweisit.top,reject
 DOMAIN,*.v4v6v4.com,reject
 DOMAIN,*.va.huya.com,reject
 DOMAIN,*.vegslb.com,reject
+DOMAIN,*.vkomjd.com,reject
 DOMAIN,*.weilayun.com,reject
 DOMAIN,*.wfojsm.com,reject
 DOMAIN,*.x586di.com,reject
 DOMAIN,*.xqojux.xyz,reject
 DOMAIN,*.ydxdg.xyz,reject
 DOMAIN,*.yinghua-*.cc,reject
+DOMAIN,*.z9ehxz.com,reject
 DOMAIN,*.ztgha.xyz,reject
 DOMAIN,*8le8le.com,reject
 DOMAIN,*MobadsSdk*,reject
@@ -1708,6 +1716,7 @@ DOMAIN,bhulgot.com,reject
 DOMAIN,bi-sensors.duxiaoman.com,reject
 DOMAIN,bianxian.com,reject
 DOMAIN,bid-adx.vlion.cn,reject
+DOMAIN,bidotz.icu,reject
 DOMAIN,bidtoolads.com,reject
 DOMAIN,bieqpf.cn,reject
 DOMAIN,biexsite.net,reject
@@ -5082,6 +5091,7 @@ DOMAIN,nzrovf.xyz,reject
 DOMAIN,nzymeedg.icu,reject
 DOMAIN,o.iads.unity3d.com,reject
 DOMAIN,o.zjjrlx4.com,reject
+DOMAIN,o1098464.ingest.sentry.io,reject
 DOMAIN,o2.jyjyj.cn,reject
 DOMAIN,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com,reject
 DOMAIN,o2o-ad-dev.oss-cn-shanghai.aliyuncs.com,reject
@@ -5107,6 +5117,7 @@ DOMAIN,ocsp.apple.com,reject
 DOMAIN,ocx.umeng.com,reject
 DOMAIN,oehhq.xyz,reject
 DOMAIN,oewtuho.cn,reject
+DOMAIN,of1j087.top,reject
 DOMAIN,offerwall.yandex.net,reject
 DOMAIN,ofooe.cn,reject
 DOMAIN,ofreadingand.biz,reject
@@ -7214,6 +7225,7 @@ DOMAIN,vktztp.xyz,reject
 DOMAIN,vlgkotr.cn,reject
 DOMAIN,vlive.qqvideo.tc.qq.com,reject
 DOMAIN,vlujojf.icu,reject
+DOMAIN,vm0c.tbl1444klf.cc,reject
 DOMAIN,vmat.gtimg.com,reject
 DOMAIN,vmbzhfh.cn,reject
 DOMAIN,vmdlxj.xyz,reject

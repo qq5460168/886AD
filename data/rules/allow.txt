@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-25 14:13:33（北京时间）
+! Version: 2025-02-25 16:13:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3535
+! Total count: 3542
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1086,6 +1086,7 @@
 @@||adv.sec.miui.com^$important
 @@||aegis.qq.com^$important
 @@||aeventlog.beacon.qq.com^$important
+@@||afdian.com^
 @@||ai-cdn.duba.net^
 @@||aider-res.meizu.com^
 @@||aider.meizu.com^
@@ -1981,6 +1982,7 @@
 @@||idmb.register.xmpush.global.xiaomi.com^
 @@||ietheivaicai.com^$important
 @@||iface2.iqiyi.com^$important
+@@||ifdian.net^
 @@||iflow-api.uc.cn^
 @@||iflow.uc.cn^$important
 @@||iflow.uczzd.cn^
@@ -2487,6 +2489,7 @@
 @@||oauth.secure.pixiv.net^$important
 @@||ohssr.cn^$important
 @@||omofun.link^
+@@||one.one.one.one^
 @@||onegoods.nosdn.127.net^
 @@||onekey1.cmpassport.com^$important
 @@||open.bytedanceapi.com^
@@ -3359,10 +3362,14 @@
 @@||www.bytedance.com^
 @@||www.chemdraw.com.cn^$important
 @@||www.clips4sale.com^
+@@||www.cloudflare-cn.com^
+@@||www.cloudflare.com^
+@@||www.cloudns.net^
 @@||www.cmpassport.com^$important
 @@||www.crossoverchina.com^$important
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
+@@||www.deepseek.com^
 @@||www.dell.com^
 @@||www.dianping.com^
 @@||www.docker.com^
