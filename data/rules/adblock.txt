@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-02-28 20:16:57（北京时间）
+! Version: 2025-02-28 22:09:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17627
+! Total count: 17662
 
  
 ## 163登陆
@@ -6291,9 +6291,10 @@
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-16.15.185.54                  github-production-release-asset-2e65be.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
+172.18.0.1                    github-com.s3.amazonaws.com
+172.18.0.1                    github-production-release-asset-2e65be.s3.amazonaws.com
 173.194.202.188     alt4-mtalk.google.com
 180.163.150.33      dl.l.google.com
 180.163.151.161     dl.google.com
@@ -6303,26 +6304,26 @@
 183.136.207.132 hugeota.d.miui.com
 183.136.207.132 superota.d.miui.com
 183.136.207.132 ultimateota.d.miui.com
-185.199.108.154               github.githubassets.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               cloud.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               github.map.fastly.net
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               private-user-images.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
 185.199.109.153               github.io
 185.199.109.153               githubstatus.com
-185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
-185.199.111.133               cloud.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
-185.199.111.133               github.map.fastly.net
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
-185.199.111.133               private-user-images.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
+185.199.109.154               github.githubassets.com
 185.199.111.133               user-images.githubusercontent.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -6342,6 +6343,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
+3.5.28.249                    github-cloud.s3.amazonaws.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 423down.com##LI.item:has(.sticky-post)
@@ -6352,9 +6354,7 @@
 45.116.79.187 fakelocation.api.lerist.dev
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.217.106.12                 github-cloud.s3.amazonaws.com
-52.217.106.124                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.142.113                github-com.s3.amazonaws.com
+52.217.132.225                github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.217.192.249                github-production-user-asset-6210df.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 5dm.app##[src*="sinaimg.cn"]
@@ -6428,6 +6428,7 @@
 @@||177j.wodenongtiacom^$important
 @@||17u.cn^$important
 @@||1sapp.com^
+@@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
 @@||360.cn^
 @@||360buyimg.com^$important
@@ -6436,10 +6437,12 @@
 @@||3975.com^
 @@||3d-platform-pro.obs.cn-south-1.myhuaweicloud.com^$important
 @@||3g.163.com^
+@@||3g.ali213.net^
 @@||3gimg.qq.com^$important
 @@||40017.cn^$important
 @@||7x24s.com^
 @@||96956.com.cn^$important
+@@||a.9game.cn^
 @@||a.video.qq.com^$important
 @@||a0.app.xiaomi.com^
 @@||a0.app.xiaomi.com^$important
@@ -6449,7 +6452,9 @@
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
 @@||access1.tpns.tencent.com^
+@@||account.dianping.com^
 @@||account.wps.cn^$important
+@@||accountapi.dianping.com^
 @@||accscdn.m.taobao.com^$important
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^$important
@@ -6483,6 +6488,7 @@
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
 @@||ali.static.yximgs.com^$important
+@@||ali2.a.kwimgs.com^
 @@||ali2.a.yximgs.com^$important
 @@||alissl.ucdl.pp.uc.cn^$important
 @@||aliyuncs.com/*.png
@@ -6641,6 +6647,7 @@
 @@||bs-origin.pull.yximgs.com^
 @@||btrace.qq.com^$important
 @@||bucket-ynote-online-cdn.note.youdao.com^$important
+@@||c.58cdn.com.cn^
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.gj.qq.com^
@@ -6653,6 +6660,7 @@
 @@||c1.skype.com^
 @@||cache.ip138.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
+@@||callback.58.com^
 @@||campus.163.com^
 @@||captive.apple.com^$important
 @@||card-paopao.iqiyi.com^$important
@@ -6840,6 +6848,7 @@
 @@||dfcfw.com^
 @@||dftoutiao.com^
 @@||di.phncdn.com^
+@@||dianfeijisuanqi.bmcx.com^
 @@||dig.bdurl.net^$important
 @@||dig.lianjia.com^
 @@||dig.lianjia.com^$important
@@ -7209,6 +7218,7 @@
 @@||kwimgs.com^$important
 @@||kyaru-concat.now.sh^$important
 @@||l.qq.com^
+@@||laohuangli.bmcx.com^
 @@||laomaotao.net^
 @@||lc-cn-n1-shared.com^
 @@||leihuo.163.com^
@@ -7287,11 +7297,13 @@
 @@||luna-dict-community.nosdn.127.net^
 @@||lx.meituan.net^
 @@||m.163.com^
+@@||m.17173.com^
 @@||m.360.cn^
 @@||m.360buyimg.com^$important
 @@||m.360video.so.com^
 @@||m.bilibili.com^
 @@||m.ctrip.com^
+@@||m.dianping.com^
 @@||m.ds.163.com^
 @@||m.intl.taobao.com^$important
 @@||m.ip138.com^
@@ -7356,6 +7368,7 @@
 @@||mdn.open.wo.cn^$important
 @@||me-api.jd.com^
 @@||med-fe.cdn.bcebos.com^
+@@||media.9game.cn^
 @@||mediation.adnxs.com^$important
 @@||meiqia.com^
 @@||member.aligames.com^$important
@@ -7439,8 +7452,10 @@
 @@||necaptcha.nosdn.127.net^
 @@||netease.com^$important
 @@||new.vip.weibo.cn^
+@@||newgame.17173.com^
 @@||news-l.play.aiseet.atianqi.com^
 @@||news.163.com^
+@@||news.17173.com^
 @@||news.sina.com.cn^
 @@||nileapi.market.xiaomi.com^$import
 @@||nimg.ws.126.net^
@@ -7469,6 +7484,7 @@
 @@||oppo.yidianzixun.com^$important
 @@||orange-dc.alibaba.com^$important
 @@||orbit.jd.com^
+@@||osp.meituan.net^
 @@||oss-asq-static.11222.cn^$important
 @@||ossapi.baidu.com^
 @@||otheve.beacon.qq.com^$important
@@ -7593,9 +7609,13 @@
 @@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
 @@||pic.rmb.bdstatic.com^$important
+@@||pic2.58cdn.com.cn^
 @@||pic2.zhimg.com^
+@@||pic4.58cdn.com.cn^
+@@||pic5.58cdn.com.cn^
 @@||pic640.weishi.qq.com^$important
 @@||pic7.iqiyipic.com^
+@@||pic8.58cdn.com.cn^
 @@||picasso-static.xiaohongshu.com^
 @@||pifa.pinduoduo.com^
 @@||pingfore.qq.com^$important
@@ -7706,6 +7726,7 @@
 @@||s.mvconf.f.360.cn^
 @@||s.ssl.qhres2.com^$important
 @@||s0.2mdn.net^
+@@||s0.meituan.net^
 @@||s1.hdslb.com^
 @@||s1.kskwai.com^$important
 @@||s1.meituan.net^
@@ -7751,10 +7772,12 @@
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||share.myfreecams.com^$important
 @@||sharechain.qq.com^$important
+@@||shenfenzheng.bmcx.com^
 @@||shminorshort.weixin.qq.com^
 @@||shmmsns.qpic.cn^$important
 @@||short.weixin.qq.com^$important
 @@||shouji.360.cn^
+@@||shouji.bmcx.com^
 @@||shouji.sougou.com^
 @@||simg.sinajs.cn^$important
 @@||similarweb.com^
@@ -7808,6 +7831,7 @@
 @@||static-tapad.tapdb.net^
 @@||static.122.gov.cn^$important
 @@||static.360buyimg.com^
+@@||static.ali213.net^
 @@||static.biligame.com^
 @@||static.e.189.cn^$important
 @@||static.hdslb.com^
@@ -7880,6 +7904,7 @@
 @@||tnc3-aliec2.snssdk.com^$important
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tongji.flash.cn^$important
+@@||top.17173.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
 @@||tpstelemetry.tencent.com^$important
@@ -7902,6 +7927,7 @@
 @@||tvepg.pandora.xiaomi.com^$important
 @@||twitter.com^
 @@||tx163.com^$important
+@@||tx2.a.kwimgs.com^
 @@||tybook.taoyuewenhua.net^
 @@||u.163.com^
 @@||u.oppomobile.com^
@@ -7994,6 +8020,7 @@
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||wan.baidu.com^
 @@||wan.douyu.com^
+@@||wannianrili.bmcx.com^
 @@||wap.cmpassport.com^$important
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important
@@ -8033,18 +8060,24 @@
 @@||www.123pan.com^$important
 @@||www.126.com^
 @@||www.163.com^
+@@||www.17173.com^
 @@||www.360kuai.com^$important
 @@||www.360simg.com^
+@@||www.9game.cn^
+@@||www.ali213.net^
 @@||www.alidns.com^$important
 @@||www.bilibili.com^
 @@||www.biligame.com^
 @@||www.blogger.com^$important
+@@||www.bmcx.com^
 @@||www.bqgyy.com^
 @@||www.chemdraw.com.cn^$important
 @@||www.cmpassport.com^$important
 @@||www.crossoverchina.com^$important
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
+@@||www.dianping.com^
+@@||www.dpfile.com^
 @@||www.dxmpay.com^$important
 @@||www.google-analytics.com^$domain=myqqjd.com
 @@||www.google.com^$important
@@ -8052,7 +8085,9 @@
 @@||www.googletagmanager.com^$domain=myqqjd.com
 @@||www.gstatic.com
 @@||www.gstatic.com^$important
+@@||www.haier.com^
 @@||www.hao123.com^$important
+@@||www.hisense.com^
 @@||www.ip138.com^
 @@||www.iqiyi.com^$important
 @@||www.jd.com^
