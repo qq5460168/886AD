@@ -2075,6 +2075,7 @@ DOMAIN,click.googleanalytics.com,reject
 DOMAIN,click.oneplus.cn,reject
 DOMAIN,click.tianyaui.com,reject
 DOMAIN,clickserver.googleads.com,reject
+DOMAIN,client.app.coc.10086.cn,reject
 DOMAIN,client.show.qq.com,reject
 DOMAIN,clientlog.music.163.com,reject
 DOMAIN,clientlog3.music.163.com,reject
