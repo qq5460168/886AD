@@ -630,6 +630,7 @@ DOMAIN,abgr2x.aprewf.cn,reject
 DOMAIN,abolid.com,reject
 DOMAIN,abot.pos.baidu.com,reject
 DOMAIN,abovede6.com,reject
+DOMAIN,abp.telemetry.adblockplus.org,reject
 DOMAIN,abram.xin,reject
 DOMAIN,abrnfctkn.xyz,reject
 DOMAIN,absod.video.iqiyi.com,reject
@@ -751,6 +752,7 @@ DOMAIN,ad.qingting.fm,reject
 DOMAIN,ad.qq.com,reject
 DOMAIN,ad.qun.qq.com,reject
 DOMAIN,ad.richmob.cn,reject
+DOMAIN,ad.seeyouyima.com,reject
 DOMAIN,ad.shunchangzhixing.com,reject
 DOMAIN,ad.sitemaji.com,reject
 DOMAIN,ad.sohu.com,reject
@@ -793,6 +795,7 @@ DOMAIN,adashx.m.taobao.com,reject
 DOMAIN,adashx.ut.amap.com,reject
 DOMAIN,adashx.ut.cainiao.com,reject
 DOMAIN,adashx.ut.dingtalk.com,reject
+DOMAIN,adashx.ut.shuqi.com,reject
 DOMAIN,adashx.ut.youku.com,reject
 DOMAIN,adashxgc.ut.taobao.com,reject
 DOMAIN,adasiatagmanager.appspot.com,reject
@@ -1031,6 +1034,8 @@ DOMAIN,adskp.org,reject
 DOMAIN,adslvfile.qq.com,reject
 DOMAIN,adslvseed.qq.com,reject
 DOMAIN,adsmart.konka.com,reject
+DOMAIN,adsmartget.datads.cn,reject
+DOMAIN,adsmartgetbes.datads.cn,reject
 DOMAIN,adsmartgetqtt.guangtuikeji.com,reject
 DOMAIN,adsmind.apdcdn.tc.qq.com,reject
 DOMAIN,adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com,reject
@@ -1117,6 +1122,7 @@ DOMAIN,adx-open-service.youku.com,reject
 DOMAIN,adx-os-req.anythinktech.com,reject
 DOMAIN,adx-os.anythinktech.com,reject
 DOMAIN,adx-static.ksosoft.com,reject
+DOMAIN,adx-track.domob.cn,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
 DOMAIN,adx.apiok.net,reject
@@ -1255,6 +1261,7 @@ DOMAIN,an.yandex.ru,reject
 DOMAIN,analy.qq.com,reject
 DOMAIN,analy.tuniu.cn,reject
 DOMAIN,analyse.weather.com.cn,reject
+DOMAIN,analysis-acc-ssl.xunlei.com,reject
 DOMAIN,analysis.yozocloud.cn,reject
 DOMAIN,analytics-api.samsunghealthcn.com,reject
 DOMAIN,analytics-sg.tiktok.com,reject
@@ -1371,6 +1378,7 @@ DOMAIN,api.bugly.qq.com,reject
 DOMAIN,api.bugsnag.com,reject
 DOMAIN,api.chcatv.hismarttv.com,reject
 DOMAIN,api.cxzudwk.com,reject
+DOMAIN,api.datanexus.qq.com,reject
 DOMAIN,api.e.kuaishou.cn,reject
 DOMAIN,api.e.kuaishou.com,reject
 DOMAIN,api.eu.hismarttv.com,reject
@@ -1590,12 +1598,14 @@ DOMAIN,azr.footprintdns.com,reject
 DOMAIN,azukgee.cn,reject
 DOMAIN,b-gtc.getui.net,reject
 DOMAIN,b.1th.app,reject
+DOMAIN,b.bdstatic.com,reject
 DOMAIN,b.qchannel03.cn,reject
 DOMAIN,b0rbgroup.xyz,reject
 DOMAIN,b0ufmrzl.icu,reject
 DOMAIN,b1-data.ads.heytapmobi.com,reject
 DOMAIN,b1.51yangsheng.com,reject
 DOMAIN,b10.justacdn.net,reject
+DOMAIN,b2-data.ads.heytapmobi.com,reject
 DOMAIN,b2.51yangsheng.com,reject
 DOMAIN,b2.ghj7l.com,reject
 DOMAIN,b269.photo.store.qq.com,reject
@@ -1804,6 +1814,7 @@ DOMAIN,brfvyrrp.com,reject
 DOMAIN,bridgetnbe.com,reject
 DOMAIN,broadcast.chat.bilibili.com,reject
 DOMAIN,brownfox.top,reject
+DOMAIN,browser.events.data.msn.cn,reject
 DOMAIN,browser.vivo.com.cn,reject
 DOMAIN,browserbook.vivo.com.cn,reject
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,reject
@@ -2029,6 +2040,7 @@ DOMAIN,chaoku.oss-cn-chengdu.aliyuncs.com,reject
 DOMAIN,chaseherbalpasty.com,reject
 DOMAIN,chat1.jd.com,reject
 DOMAIN,chdezxp.com,reject
+DOMAIN,checkappexec.microsoft.com,reject
 DOMAIN,cheda1.icu,reject
 DOMAIN,cheda10.icu,reject
 DOMAIN,cheda7.icu,reject
@@ -2116,6 +2128,7 @@ DOMAIN,cmspapp84.com,reject
 DOMAIN,cmts.iqiyi.com,reject
 DOMAIN,cmws.iad.apple.com,reject
 DOMAIN,cn-api.anythinktech.com,reject
+DOMAIN,cn-beijing.log.aliyuncs.com,reject
 DOMAIN,cn-da.anythinktech.com,reject
 DOMAIN,cn-fp.apitd.net,reject
 DOMAIN,cn-tk.anythinktech.com,reject
@@ -2135,6 +2148,7 @@ DOMAIN,cnzz.trafficmanager.net,reject
 DOMAIN,cocloud.site,reject
 DOMAIN,collect.kugou.com,reject
 DOMAIN,collector.dcdn.baidu.com,reject
+DOMAIN,collector.github.com,reject
 DOMAIN,collegepre.net,reject
 DOMAIN,colonistnobilityheroic.com,reject
 DOMAIN,commdata.v.qq.com,reject
@@ -2302,32 +2316,44 @@ DOMAIN,dasv10rewq.xyz,reject
 DOMAIN,dat.yl-zipper.com,reject
 DOMAIN,dat8.cc,reject
 DOMAIN,data-ads.oneplusmobile.com,reject
+DOMAIN,data-biz-ipc.tplinkcloud.com.cn,reject
+DOMAIN,data-drcn.push.dbankcloud.cn,reject
 DOMAIN,data-drcn.push.dbankcloud.com,reject
 DOMAIN,data-dre.push.dbankcloud.com,reject
 DOMAIN,data-drru.push.dbankcloud.com,reject
 DOMAIN,data-sdk-uuid-log.d.meituan.net,reject
 DOMAIN,data-sdk-uuid-report.dreport.meituan.net,reject
+DOMAIN,data-video.71edge.com,reject
 DOMAIN,data.ab.qq.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.bilibili.cn,reject
 DOMAIN,data.chsmarttv.com,reject
+DOMAIN,data.feidee.net,reject
 DOMAIN,data.gzuzfa.cn,reject
 DOMAIN,data.lichenqx.com,reject
 DOMAIN,data.mistat.india.xiaomi.com,reject
 DOMAIN,data.mistat.rus.xiaomi.com,reject
 DOMAIN,data.mistat.xiaomi.com,reject
 DOMAIN,data.qq.com,reject
+DOMAIN,data.seeyouyima.com,reject
 DOMAIN,data.video.dns.iqiyi.com,reject
 DOMAIN,data.video.iqiyi.com,reject
 DOMAIN,data.video.ptqy.gitv.tv,reject
+DOMAIN,data.xmseeyouyima.com.lan,reject
+DOMAIN,data.xmseeyouyima.com,reject
 DOMAIN,data.zhongquanjy.com,reject
 DOMAIN,data6.video.iqiyi.com,reject
 DOMAIN,databyterangers.com.cn,reject
 DOMAIN,datacollector-drcn.dt.dbankcloud.cn,reject
 DOMAIN,datacollector-drcn.dt.hicloud.com,reject
+DOMAIN,datacollector-dre.dt.hicloud.com,reject
 DOMAIN,datacollector-sea.soulapp.cn,reject
+DOMAIN,datafinder-api.cli.im,reject
 DOMAIN,dataflow.biliapi.com,reject
+DOMAIN,datagw-edge.alipay.com,reject
 DOMAIN,datahub.zhihu.com,reject
+DOMAIN,datasync-dev-prod-drcn.cloud.dbankcloud.cn,reject
+DOMAIN,datasync-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,datk.anythinktech.com,reject
 DOMAIN,dayujs.top,reject
 DOMAIN,db11yy.com,reject
@@ -2385,6 +2411,8 @@ DOMAIN,device-provisioning.googleapis.com,reject
 DOMAIN,device.fishmobi.com,reject
 DOMAIN,devicemgr.lebo.cn,reject
 DOMAIN,devlog-upload-os.hoyoverse.com,reject
+DOMAIN,devs-data.dutils.com,reject
+DOMAIN,devs-data.hiaiabc.com,reject
 DOMAIN,devs.data.mob.com,reject
 DOMAIN,dexinyi.cn,reject
 DOMAIN,dexuanyu.top,reject
@@ -2451,6 +2479,7 @@ DOMAIN,disp.titan.mgtv.com,reject
 DOMAIN,display-apps-ui-soak.iad.apple.com,reject
 DOMAIN,display-apps-ui.iad.apple.com,reject
 DOMAIN,display.ad.daum.net,reject
+DOMAIN,displaycatalog.mp.microsoft.com,reject
 DOMAIN,ditorialproce.biz,reject
 DOMAIN,dj09j5u.cn,reject
 DOMAIN,djbgfit.com,reject
@@ -2677,6 +2706,7 @@ DOMAIN,ecudsc.cn,reject
 DOMAIN,ecwmvlhy.com,reject
 DOMAIN,ed.gumoda.top,reject
 DOMAIN,edge.ads.twitch.tv,reject
+DOMAIN,edge.wshttpdns.com,reject
 DOMAIN,edong.link,reject
 DOMAIN,edoshbw.top,reject
 DOMAIN,edssnet.changchunets.com,reject
@@ -2753,6 +2783,7 @@ DOMAIN,erlirscid.com,reject
 DOMAIN,err.ifengcloud.ifeng.com,reject
 DOMAIN,errdom.oss-cn-heyuan.aliyuncs.com,reject
 DOMAIN,errlog.umeng.com,reject
+DOMAIN,errnewlog.umeng.com.lan,reject
 DOMAIN,errnewlog.umeng.com,reject
 DOMAIN,errnotice.oss-cn-shenzhen.aliyuncs.com,reject
 DOMAIN,error.baidu.com,reject
@@ -3334,6 +3365,7 @@ DOMAIN,hdypw.com,reject
 DOMAIN,hdzb6.cc,reject
 DOMAIN,heads-ak.spotify.com.edgesuite.net,reject
 DOMAIN,heads-fa.spotify.com,reject
+DOMAIN,healthdata.dbankcloud.cn,reject
 DOMAIN,hebstsmgs.com,reject
 DOMAIN,hefei64.com,reject
 DOMAIN,hefei668.com,reject
@@ -3469,6 +3501,7 @@ DOMAIN,htienlu.top,reject
 DOMAIN,htjrlm.com,reject
 DOMAIN,htseca.top,reject
 DOMAIN,httpdns-api.aliyuncs.com,reject
+DOMAIN,httpdns-browser.platform.dbankcloud.cn,reject
 DOMAIN,httpdns-sc.aliyuncs.com,reject
 DOMAIN,httpdns-sdk.n.netease.com,reject
 DOMAIN,httpdns.*.yy.com,reject
@@ -3490,6 +3523,7 @@ DOMAIN,httpdns.n.netease.com,reject
 DOMAIN,httpdns.n.shifen.com,reject
 DOMAIN,httpdns.ocloud.oppomobile.com,reject
 DOMAIN,httpdns.platform.dbankcloud.cn,reject
+DOMAIN,httpdns.platform.dbankcloud.com,reject
 DOMAIN,httpdns.pro,reject
 DOMAIN,httpdns.push.heytapmobi.com,reject
 DOMAIN,httpdns.push.oppomobile.com,reject
@@ -3503,6 +3537,7 @@ DOMAIN,https-apple.com,reject
 DOMAIN,httpsdns.baidu.com,reject
 DOMAIN,httpsjs.com,reject
 DOMAIN,htvixv.xyz,reject
+DOMAIN,huashan-datahub-drcn.emui.dbankcloud.com,reject
 DOMAIN,huatihui.io,reject
 DOMAIN,huatuo.qq.com,reject
 DOMAIN,huatuocode.huatuo.qq.com,reject
@@ -3512,6 +3547,7 @@ DOMAIN,huaxia.name,reject
 DOMAIN,hub5btmain.v6.shub.sandai.net,reject
 DOMAIN,hub5emu.v6.shub.sandai.net,reject
 DOMAIN,hub5idx.v6.shub.sandai.net,reject
+DOMAIN,hubciddata.sandai.net,reject
 DOMAIN,hubcloud.com.cn,reject
 DOMAIN,hubiazhi.com,reject
 DOMAIN,hudiecaifu.com,reject
@@ -3644,6 +3680,7 @@ DOMAIN,ilce.alicdn.com,reject
 DOMAIN,ildopxge.com,reject
 DOMAIN,ilyf4amifh.com,reject
 DOMAIN,im-x.jd.com,reject
+DOMAIN,im58log.58.com,reject
 DOMAIN,im64.jpush.cn,reject
 DOMAIN,imag8.pubmatic.com,reject
 DOMAIN,imag86.pubmatic.com,reject
@@ -3708,6 +3745,7 @@ DOMAIN,indivi-cdn-v6.shouji.sogou.com,reject
 DOMAIN,info.3g.qq.com,reject
 DOMAIN,info.gdt.qq.com,reject
 DOMAIN,info.mina.xiaoaisound.com,reject
+DOMAIN,info.pinyin.sogou.com,reject
 DOMAIN,info.zb.qq.com,reject
 DOMAIN,infotrack.gdt.qq.com,reject
 DOMAIN,inkuae.com,reject
@@ -3967,6 +4005,7 @@ DOMAIN,js.kalvinbg.cn,reject
 DOMAIN,js.keeyekey.xyz,reject
 DOMAIN,js.loveshop8.com,reject
 DOMAIN,js.moeamv.com,reject
+DOMAIN,js.monitor.azure.com,reject
 DOMAIN,js.spfccc.com,reject
 DOMAIN,js.whfyhouse.com,reject
 DOMAIN,js.ysfzf.cn,reject
@@ -4106,6 +4145,7 @@ DOMAIN,kgmobilestatbak.kugou.com,reject
 DOMAIN,khgjfm16.com,reject
 DOMAIN,kifyeldd.top,reject
 DOMAIN,kiitsl.icu,reject
+DOMAIN,kinglog.feidee.net,reject
 DOMAIN,kinhincauking.website,reject
 DOMAIN,kinleung.cn,reject
 DOMAIN,kissfang.cn,reject
@@ -4198,6 +4238,7 @@ DOMAIN,ktienld.top,reject
 DOMAIN,ktx769.cc,reject
 DOMAIN,kuais.mryhq1.cn,reject
 DOMAIN,kuaishou-mipdx.cn.miaozhen.com,reject
+DOMAIN,kuaishou.httpdns.pro,reject
 DOMAIN,kuaishouad.cn,reject
 DOMAIN,kuanxin.top,reject
 DOMAIN,kunzhang.name,reject
@@ -4364,6 +4405,7 @@ DOMAIN,lingke05.top,reject
 DOMAIN,lingsiqiwu.com,reject
 DOMAIN,lingting.xin,reject
 DOMAIN,link.jzzxapp.cn,reject
+DOMAIN,linking-data-drcn.hispace.dbankcloud.cn,reject
 DOMAIN,linuozhiyao.xyz,reject
 DOMAIN,linyongming.top,reject
 DOMAIN,lishuaibin.cn,reject
@@ -4432,12 +4474,14 @@ DOMAIN,log*-normal-lq.toutiaoapi.com,reject
 DOMAIN,log*.aliyuncs.com,reject
 DOMAIN,log-alibaba-taobao-douyin.cdn.bcebos.com,reject
 DOMAIN,log-api-mn.huxiu.com,reject
+DOMAIN,log-api.caoliao.net,reject
 DOMAIN,log-api.huxiu.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao*.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-*.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao.com,reject
 DOMAIN,log-hl.snssdk.com,reject
+DOMAIN,log-klink.zijieapi.com,reject
 DOMAIN,log-report.com,reject
 DOMAIN,log-sdk.clickwifi.net,reject
 DOMAIN,log-sdk.gifshow.com,reject
@@ -4484,6 +4528,7 @@ DOMAIN,log.zijieapi.com,reject
 DOMAIN,log.zongheng.com,reject
 DOMAIN,log0-applog-lq.fqnovel.com,reject
 DOMAIN,log0-misc-alinc2.amemv.com,reject
+DOMAIN,log0-misc-hl.amemv.com,reject
 DOMAIN,log0-misc-lf.amemv.com,reject
 DOMAIN,log0-misc-lq.amemv.com,reject
 DOMAIN,log1.cmpassport.com,reject
@@ -4493,19 +4538,28 @@ DOMAIN,log3-applog-lq.fqnovel.com,reject
 DOMAIN,log3-misc-lf.amemv.com,reject
 DOMAIN,log3-misc-lq.amemv.com,reject
 DOMAIN,log3-normal-hl.toutiaoapi.com,reject
+DOMAIN,log5-applog-hl.fqnovel.com,reject
+DOMAIN,log5-misc-hl.amemv.com,reject
 DOMAIN,log5-misc-lf.amemv.com,reject
 DOMAIN,log5-misc-lq.amemv.com,reject
 DOMAIN,log6.reader.qq.com,reject
 DOMAIN,logapi-and.zhipin.com,reject
 DOMAIN,logapi-ios.zhipin.com,reject
 DOMAIN,logbak.hicloud.com,reject
+DOMAIN,logcollect.qufenqian.vip,reject
+DOMAIN,logconf.iflytek.com,reject
 DOMAIN,loggate.moxigame.cn,reject
 DOMAIN,logger.qingting.fm,reject
 DOMAIN,loggw.alipay.com.cn,reject
+DOMAIN,lognew.cloooud.com,reject
 DOMAIN,logos.kiwibrowser.com,reject
 DOMAIN,logrcv.aiclk.com,reject
 DOMAIN,logs.amap.com,reject
 DOMAIN,logsdk.qq.com,reject
+DOMAIN,logserver-cn-comue.obs.cn-north1.ctyun.cn,reject
+DOMAIN,logserver-cn-ty.obs.cn-north1.ctyun.cn,reject
+DOMAIN,logservice-drcn.dt.hihonorcloud.com,reject
+DOMAIN,logservice.dbankcloud.cn,reject
 DOMAIN,logservice.hicloud.com,reject
 DOMAIN,logservice1.hicloud.com,reject
 DOMAIN,logstat.kugou.com,reject
@@ -4711,6 +4765,7 @@ DOMAIN,mercury-sdk.snssdk.com,reject
 DOMAIN,mercury.jd.com,reject
 DOMAIN,mermaid.ximalaya.com,reject
 DOMAIN,merqieth.com,reject
+DOMAIN,met-horn-log.dreport.meituan.net,reject
 DOMAIN,meta-cdn.video.iqiyi.com,reject
 DOMAIN,meta.video.iqiyi.com,reject
 DOMAIN,metauniverse88.com,reject
@@ -4719,14 +4774,22 @@ DOMAIN,metaword.cn,reject
 DOMAIN,metheny.cn,reject
 DOMAIN,metok.sys.miui.com,reject
 DOMAIN,metrics-ad-drcn.dt.hihonorcloud.com,reject
+DOMAIN,metrics-appdistribute-drcn.dt.hihonorcloud.com,reject
+DOMAIN,metrics-basecloud-drcn.dt.hihonorcloud.com,reject
 DOMAIN,metrics-collector.xaidc.com,reject
 DOMAIN,metrics-dra.dt.hicloud.com,reject
+DOMAIN,metrics-drcn.dt.dbankcloud.cn,reject
+DOMAIN,metrics-drcn.dt.hihonorcloud.com,reject
 DOMAIN,metrics-picture.d.meituan.net,reject
 DOMAIN,metrics.apple.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
+DOMAIN,metrics.dt.dbankcloud.cn,reject
+DOMAIN,metrics.dt.hihonorcloud.com,reject
 DOMAIN,metrics.icloud.com,reject
 DOMAIN,metrics.mzstatic.com,reject
 DOMAIN,metrics1-drcn.dt.dbankcloud.cn,reject
+DOMAIN,metrics1.data.hicloud.com.lan,reject
+DOMAIN,metrics1.data.hicloud.com,reject
 DOMAIN,metrics2.data.hicloud.com,reject
 DOMAIN,metrics5.data.hicloud.com,reject
 DOMAIN,metrics5.dt.dbankcloud.ru,reject
@@ -4834,6 +4897,7 @@ DOMAIN,mon11-misc-lq.fqnovel.com,reject
 DOMAIN,moneyds.cn,reject
 DOMAIN,moneyds.cn,reject
 DOMAIN,moni-onrt-stsdk.vivo.com.cn,reject
+DOMAIN,moniter.wb.qq.com,reject
 DOMAIN,monitor-ads-test.huan.tv,reject
 DOMAIN,monitor-uu.play.aiseet.atianqi.com,reject
 DOMAIN,monitor.ads.8le8le.com,reject
@@ -5101,6 +5165,7 @@ DOMAIN,nuheoub.cn,reject
 DOMAIN,nunxhv.com,reject
 DOMAIN,nutaku.net,reject
 DOMAIN,nuucmzuc.com,reject
+DOMAIN,nw-umwatson.events.data.microsoft.com,reject
 DOMAIN,nwera.xyz,reject
 DOMAIN,nwgfzjdjhm2.xyz,reject
 DOMAIN,nxhwvt.xyz,reject
@@ -5422,7 +5487,9 @@ DOMAIN,payoneok.com,reject
 DOMAIN,pbaiyho.cn,reject
 DOMAIN,pbtsjh.xyz,reject
 DOMAIN,pcbrowser.dd.qq.com,reject
+DOMAIN,pcdn-monitor.cdn.bcebos.com,reject
 DOMAIN,pcdn-tracker.baidu.com,reject
+DOMAIN,pcdnlog-receiver-pub.jd.com,reject
 DOMAIN,pchznf.xyz,reject
 DOMAIN,pcm-img.zhls.qq.com,reject
 DOMAIN,pcmlll.nyriidul.com,reject
@@ -5437,6 +5504,7 @@ DOMAIN,pdhhmf.cn,reject
 DOMAIN,pdiabbi.cn,reject
 DOMAIN,pdjjrh.xyz,reject
 DOMAIN,pdrtcgfx.cn,reject
+DOMAIN,pds-app-cn-beijing.cn-beijing.log.aliyuncs.com,reject
 DOMAIN,pds.pinduoduo.com,reject
 DOMAIN,pdweigee.com,reject
 DOMAIN,pdxdxl.xyz,reject
@@ -5601,6 +5669,7 @@ DOMAIN,pubfuture-ad.com,reject
 DOMAIN,public-deliver5.miguvideo.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,public.wlbaike.com,reject
+DOMAIN,publiclog.zhiyan.tencent-cloud.net,reject
 DOMAIN,pufhzpt.cn,reject
 DOMAIN,pull-flv-f13.douyincdn.com,reject
 DOMAIN,pull.ximalaya.com,reject
@@ -5949,6 +6018,7 @@ DOMAIN,rpkcqtf.cn,reject
 DOMAIN,rppihz.xyz,reject
 DOMAIN,rpt-gdt.play.aiseet.atianqi.com,reject
 DOMAIN,rpt.gdt.qq.com,reject
+DOMAIN,rptdata.wb.qq.com,reject
 DOMAIN,rpyor0k.xyz,reject
 DOMAIN,rqd.qq.com,reject
 DOMAIN,rqxtbr.xyz,reject
@@ -5970,6 +6040,7 @@ DOMAIN,rte.fuoo1.top,reject
 DOMAIN,rtjmln.xyz,reject
 DOMAIN,rtlog*-applog-lq.fqnovel.com,reject
 DOMAIN,rtlog3-applog-lq.fqnovel.com,reject
+DOMAIN,rtlog5-applog-hl.fqnovel.com,reject
 DOMAIN,rtlog5-applog-lq.fqnovel.com,reject
 DOMAIN,rtmark.net,reject
 DOMAIN,rtmonitor.kugou.com,reject
@@ -6067,6 +6138,7 @@ DOMAIN,sasdk.3g.qq.com,reject
 DOMAIN,saveu5-normal-lf.zijieapi.com,reject
 DOMAIN,saveu5-normal-lq.zijieapi.com,reject
 DOMAIN,saviourketonic.com,reject
+DOMAIN,sb.scorecardresearch.com,reject
 DOMAIN,sb4you1.com,reject
 DOMAIN,sb6k.top,reject
 DOMAIN,sbcjahdc.com,reject
@@ -6167,6 +6239,7 @@ DOMAIN,securitymobile.club,reject
 DOMAIN,selornews.com,reject
 DOMAIN,sensifyfugged.com,reject
 DOMAIN,sensors-log.dongqiudi.com,reject
+DOMAIN,sensorsdata.cmcc-cs.cn,reject
 DOMAIN,sentry-app.ireader.com,reject
 DOMAIN,sentry.d.xiaomi.net,reject
 DOMAIN,sentry.io,reject
@@ -6229,6 +6302,7 @@ DOMAIN,shanvezhu.com,reject
 DOMAIN,shanxicloud.net,reject
 DOMAIN,share.jileme.net,reject
 DOMAIN,shareman.xyz,reject
+DOMAIN,shark-tracer.netease.com,reject
 DOMAIN,shbdyx.com,reject
 DOMAIN,sheeroop.com,reject
 DOMAIN,shenfagg.com,reject
@@ -6452,6 +6526,7 @@ DOMAIN,stmzzs.com,reject
 DOMAIN,stnew.xyz,reject
 DOMAIN,stocks-analytics-events.apple.com,reject
 DOMAIN,store.log.ksyun.com,reject
+DOMAIN,storecatalogrevocation.storequality.microsoft.com,reject
 DOMAIN,stp.vivo.com.cn,reject
 DOMAIN,strategy.beacon.qq.com,reject
 DOMAIN,stream.snssdk.com,reject
@@ -6571,6 +6646,7 @@ DOMAIN,tcsgcdn.top,reject
 DOMAIN,tcss.qq.com,reject
 DOMAIN,tcuqqhj.icu,reject
 DOMAIN,tczyt8.cn,reject
+DOMAIN,td-log-collect.galsanggame.com,reject
 DOMAIN,tdavopl.icu,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdid.m.qq.com,reject
@@ -6720,6 +6796,7 @@ DOMAIN,tns.simba.taobao.com,reject
 DOMAIN,toastspinner.com,reject
 DOMAIN,tobapplog.ctobsnssdk.com,reject
 DOMAIN,tobapplog.volceapplog.com,reject
+DOMAIN,toblog.ctobsnssdk.com.lan,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,toblog.snssdk.com,reject
 DOMAIN,toblog.volceapplog.com,reject
@@ -6756,6 +6833,7 @@ DOMAIN,tqytqdrq.icu,reject
 DOMAIN,tr.byteurl.cn,reject
 DOMAIN,tr.iadsdk.apple.com,reject
 DOMAIN,trace.qq.com,reject
+DOMAIN,trace.seeyouyima.com,reject
 DOMAIN,tracelog-debug.aiclk.com,reject
 DOMAIN,tracelog-debug.qquanquan.com,reject
 DOMAIN,track.66mobi.com,reject
@@ -6823,6 +6901,7 @@ DOMAIN,ttienli.top,reject
 DOMAIN,ttly888.com,reject
 DOMAIN,ttok09.com,reject
 DOMAIN,ttvosc.com,reject
+DOMAIN,ttxyajs.data.kuiniuca.com,reject
 DOMAIN,ttykabh.icu,reject
 DOMAIN,ttzhongbao.com,reject
 DOMAIN,tu.mt20230625tu.com,reject
@@ -6945,9 +7024,14 @@ DOMAIN,ulog*.*,reject
 DOMAIN,ulog-sdk.gifshow.com,reject
 DOMAIN,ulog-sdk.ksapisrv.com,reject
 DOMAIN,ulogjs.gifshow.com,reject
+DOMAIN,ulogjs.ksapisrv.com,reject
 DOMAIN,ulogs.umeng.com,reject
 DOMAIN,ulogs.umengcloud.com.gds.alibabadns.com,reject
 DOMAIN,ulogs.umengcloud.com,reject
+DOMAIN,ulogs1.gifshow.com,reject
+DOMAIN,ulogs1.ksapisrv.com,reject
+DOMAIN,ulogs2.gifshow.com,reject
+DOMAIN,ulogs2.ksapisrv.com,reject
 DOMAIN,ulojlvmejkaem.xyz,reject
 DOMAIN,ulyuom.xyz,reject
 DOMAIN,um5xcgngmart.xyz,reject
@@ -7132,6 +7216,7 @@ DOMAIN,v6-adashx.ut.cainiao.com,reject
 DOMAIN,v6-adashx.ut.ele.me,reject
 DOMAIN,v6-be-pack.pglstatp-toutiao.com,reject
 DOMAIN,v6-data.video.dns.iqiyi.com,reject
+DOMAIN,v6-devs-data.dutils.com,reject
 DOMAIN,v6-fe-pack.pglstatp-toutiao.com,reject
 DOMAIN,v6-gdvod.kwaicdn.com,reject
 DOMAIN,v6-novelapp-nxyd.fqnovelvod.com,reject
@@ -7233,6 +7318,7 @@ DOMAIN,vijnhyru.xyz,reject
 DOMAIN,vip.ffzy-online3.com,reject
 DOMAIN,viplp.top,reject
 DOMAIN,vipwm.cc,reject
+DOMAIN,vipxyajs.data.kuiniuca.com,reject
 DOMAIN,viroffyy.com,reject
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com,reject
 DOMAIN,vivotest.oss-cn-beijing.aliyuncs.com,reject
@@ -7424,6 +7510,9 @@ DOMAIN,wkrcbszi.xyz,reject
 DOMAIN,wlay.dd-dns.de,reject
 DOMAIN,wlgxaij.cn,reject
 DOMAIN,wlhcb.cn,reject
+DOMAIN,wlog.gifshow.com,reject
+DOMAIN,wlog.ksapisrv.com,reject
+DOMAIN,wlog.kuaishou.com,reject
 DOMAIN,wlsyuule.cam,reject
 DOMAIN,wmqfey.com,reject
 DOMAIN,wmxke.com,reject
@@ -8232,6 +8321,7 @@ DOMAIN,ziravd.xyz,reject
 DOMAIN,zisnuthz.com,reject
 DOMAIN,zixun.imtt.qq.com,reject
 DOMAIN,zixuncooperation.html5.qq.com,reject
+DOMAIN,ziyuan-data.n.shifen.com,reject
 DOMAIN,zj-yxw.com,reject
 DOMAIN,zjjbtl.com,reject
 DOMAIN,zjkssw.com,reject
