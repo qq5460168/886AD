@@ -769,7 +769,6 @@ DOMAIN,ad.weixin.qq.com,reject
 DOMAIN,ad.winrar.com.cn,reject
 DOMAIN,ad.wtzw.com,reject
 DOMAIN,ad.wx.com,reject
-DOMAIN,ad.xelements.cn,reject
 DOMAIN,ad.xiaohongshu.com,reject
 DOMAIN,ad.xiaomi.com,reject
 DOMAIN,ad.ximalaya.com,reject
@@ -1246,7 +1245,6 @@ DOMAIN,amcn.bytedance.com,reject
 DOMAIN,amdc.alipay.com,reject
 DOMAIN,amdc.m.taobao.com,reject
 DOMAIN,amdcopen.m.taobao.com,reject
-DOMAIN,amdcopen.m.umeng.com,reject
 DOMAIN,amerzbj.cn,reject
 DOMAIN,amltaqap.com,reject
 DOMAIN,ampproject.org,reject
@@ -1266,7 +1264,6 @@ DOMAIN,analysis.yozocloud.cn,reject
 DOMAIN,analytics-api.samsunghealthcn.com,reject
 DOMAIN,analytics-sg.tiktok.com,reject
 DOMAIN,analytics.126.com,reject
-DOMAIN,analytics.126.net,reject
 DOMAIN,analytics.163.com,reject
 DOMAIN,analytics.95516.com,reject
 DOMAIN,analytics.ad.daum.net,reject
@@ -1593,7 +1590,6 @@ DOMAIN,az2-api-js.gifshow.com,reject
 DOMAIN,az2-upload-js.gifshow.com,reject
 DOMAIN,az4-upload.ksapisrv.com,reject
 DOMAIN,azdxypf.cn,reject
-DOMAIN,azr.footprintdns.com,reject
 DOMAIN,azukgee.cn,reject
 DOMAIN,b-gtc.getui.net,reject
 DOMAIN,b.1th.app,reject
