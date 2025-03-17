@@ -795,6 +795,7 @@ DOMAIN,adashx.ut.amap.com,reject
 DOMAIN,adashx.ut.cainiao.com,reject
 DOMAIN,adashx.ut.dingtalk.com,reject
 DOMAIN,adashx.ut.shuqi.com,reject
+DOMAIN,adashx.ut.uc.cn,reject
 DOMAIN,adashx.ut.youku.com,reject
 DOMAIN,adashxgc.ut.taobao.com,reject
 DOMAIN,adasiatagmanager.appspot.com,reject
@@ -3281,9 +3282,11 @@ DOMAIN,gzdata.com.cn,reject
 DOMAIN,gzfzcj.cn,reject
 DOMAIN,gzqvd.cn,reject
 DOMAIN,gzsjym.xyz,reject
+DOMAIN,h-adashx.ut.amap.com,reject
 DOMAIN,h-adashx.ut.cainiao.com,reject
 DOMAIN,h-adashx.ut.dingtalk.com,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
+DOMAIN,h-adashx.ut.uc.cn,reject
 DOMAIN,h-adashx.ut.youku.com,reject
 DOMAIN,h-adashx4bc.ut.taobao.com,reject
 DOMAIN,h-adashx4yt.ut.taobao.com,reject
@@ -6075,6 +6078,7 @@ DOMAIN,rzsgxmm.cn,reject
 DOMAIN,s*-fe-scm.pglstatp-toutiao.com,reject
 DOMAIN,s*a.pstatp.com,reject
 DOMAIN,s*voicecloud.cn,reject
+DOMAIN,s-adashx.ut.uc.cn,reject
 DOMAIN,s.1rtb.net,reject
 DOMAIN,s.amazon-adsystem.com,reject
 DOMAIN,s.btime.com,reject
