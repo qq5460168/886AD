@@ -1398,7 +1398,6 @@ DOMAIN,api.kingdata.ksyun.com,reject
 DOMAIN,api.kuaishouzt.com,reject
 DOMAIN,api.kwaizt.com,reject
 DOMAIN,api.liumingye.cn,reject
-DOMAIN,api.m.jd.com,reject
 DOMAIN,api.megvii.com,reject
 DOMAIN,api.miui.security.xiaomi.com,reject
 DOMAIN,api.myadsget.com,reject
@@ -1944,8 +1943,10 @@ DOMAIN,cbjs.baidu.com,reject
 DOMAIN,cbjslog.baidu.com,reject
 DOMAIN,cbu01.alicdn.com,reject
 DOMAIN,cc-316.cc,reject
+DOMAIN,cc-algo-cn.heytapimage.com,reject
 DOMAIN,cc-api-data.adobe.io,reject
 DOMAIN,cc-cdn.adobe.com,reject
+DOMAIN,cc-img-cn.heytapimage.com,reject
 DOMAIN,cc.m.jd.com,reject
 DOMAIN,cc.map.qq.com,reject
 DOMAIN,ccav.website,reject
@@ -2818,6 +2819,7 @@ DOMAIN,eva.csslcloud.net,reject
 DOMAIN,evb0gxo.icu,reject
 DOMAIN,evbb.xyz,reject
 DOMAIN,evdbcnk.cn,reject
+DOMAIN,event.dc.oppomobile.com,reject
 DOMAIN,event.toggle.qq.com,reject
 DOMAIN,event.tradplusad.com,reject
 DOMAIN,event.zhihu.com,reject
@@ -3631,6 +3633,7 @@ DOMAIN,iask.qq.com,reject
 DOMAIN,ibozys.cn,reject
 DOMAIN,ibqkjbw.com,reject
 DOMAIN,ibreeno.com,reject
+DOMAIN,ibrowser.feeds.heytapmobi.com,reject
 DOMAIN,ibwqfpo.xyz,reject
 DOMAIN,ic.adobe.io,reject
 DOMAIN,ichannel.snssdk.com,reject
@@ -5647,7 +5650,6 @@ DOMAIN,prelandappslab.com,reject
 DOMAIN,prewxacode.wxqcloud.qq.com.cn,reject
 DOMAIN,privacy.qq.com,reject
 DOMAIN,prlioxb.cn,reject
-DOMAIN,pro.m.jd.com,reject
 DOMAIN,procdn.asia,reject
 DOMAIN,prodigalpromotion.com,reject
 DOMAIN,proesh.com,reject
