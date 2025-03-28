@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-03-28 20:17:43（北京时间）
+! Version: 2025-03-28 22:09:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 8481
+! Total count: 8492
 ||*-*.ad*kwai.com^
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
@@ -80,6 +80,7 @@
 ||*.kwilmid.top^
 ||*.kxayxw.cn^
 ||*.laebu.cn^
+||*.lxclli.cn^
 ||*.lzwrhiw.xyz^
 ||*.mise*.buzz^
 ||*.njp878.com^
@@ -95,6 +96,7 @@
 ||*.ppfu3m.com^
 ||*.qc.bsccdn.net^
 ||*.qgivvd.cn^
+||*.qiuxl11.cn^
 ||*.retail.n.weimob.com^
 ||*.s8etj5.com^
 ||*.saxysec.com^
@@ -2270,6 +2272,7 @@
 ||ctobsnssdk.com^
 ||ctquh0q.xyz^
 ||ctsau.xyz^
+||ctyfmc.icu^
 ||cuioxbqi.com^
 ||cvftv2.com^
 ||cvsheil.com^
@@ -3026,6 +3029,7 @@
 ||free3dgame.xyz^
 ||freshmarketer.com^
 ||freychang.fun^
+||fri28.so03281koaq.com^
 ||friendshipmale.com^
 ||frontend-perf-service.e.kuaishou.com^
 ||frontier-toutiao.snssdk.com^
@@ -4010,6 +4014,7 @@
 ||joannarace.com^
 ||jocelynrace.com^
 ||jochenanabata.guru^
+||jock.cdn.bcebos.com^
 ||joinchitchat.com^
 ||joiwnq2.cn^
 ||jojog.com^
@@ -4087,6 +4092,7 @@
 ||junshi8181.com^
 ||just-machinery.com^
 ||jutwzssh.icu^
+||juuoe.lrmzx.com^
 ||jv0rlf.com^
 ||jvjlkih.com^
 ||jvljnb.xyz^
@@ -5293,6 +5299,8 @@
 ||ojbkmcsdx.xyz^
 ||ojen23sdg.cc^
 ||ok-11-cai.cc^
+||ok.5378397.cc^
+||ok.6078158.cc^
 ||ok.8358137.cc^
 ||ok.8358211.cc^
 ||okbd2ou.icu^
@@ -5328,6 +5336,7 @@
 ||ooqwc.xyz^
 ||ootyx24.com^
 ||op.ssp.qq.com^
+||op53t.nbganghui.com^
 ||ope.tanx.com^
 ||opehs.tanx.com^
 ||open-client.douyin.com^
@@ -7532,6 +7541,7 @@
 ||weather-analytics-events.apple.com^
 ||weather-community-drcn.weather.dbankcloud.cn^
 ||web.g6ra.live^
+||web3.0.page.live18.club^
 ||webcast*-open-lq.douyin.com^
 ||webcast-open.douyin.com^
 ||webcast.amemv.com/webcast/gamecp/*^
@@ -8012,6 +8022,7 @@
 ||xtjpdfr.cn^
 ||xtnwxhjv.xyz^
 ||xtpwfb.xyz^
+||xttiu105.pjpxke.cn^
 ||xtu224.com^
 ||xuanyaosp.com^
 ||xudgjz.xyz^

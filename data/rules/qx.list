@@ -73,6 +73,7 @@ DOMAIN,*.kweisid.top,reject
 DOMAIN,*.kwilmid.top,reject
 DOMAIN,*.kxayxw.cn,reject
 DOMAIN,*.laebu.cn,reject
+DOMAIN,*.lxclli.cn,reject
 DOMAIN,*.lzwrhiw.xyz,reject
 DOMAIN,*.mise*.buzz,reject
 DOMAIN,*.njp878.com,reject
@@ -88,6 +89,7 @@ DOMAIN,*.poeme.cn,reject
 DOMAIN,*.ppfu3m.com,reject
 DOMAIN,*.qc.bsccdn.net,reject
 DOMAIN,*.qgivvd.cn,reject
+DOMAIN,*.qiuxl11.cn,reject
 DOMAIN,*.retail.n.weimob.com,reject
 DOMAIN,*.s8etj5.com,reject
 DOMAIN,*.saxysec.com,reject
@@ -2234,6 +2236,7 @@ DOMAIN,ctienlf.top,reject
 DOMAIN,ctobsnssdk.com,reject
 DOMAIN,ctquh0q.xyz,reject
 DOMAIN,ctsau.xyz,reject
+DOMAIN,ctyfmc.icu,reject
 DOMAIN,cuioxbqi.com,reject
 DOMAIN,cvftv2.com,reject
 DOMAIN,cvsheil.com,reject
@@ -2984,6 +2987,7 @@ DOMAIN,frcykpk.cn,reject
 DOMAIN,free3dgame.xyz,reject
 DOMAIN,freshmarketer.com,reject
 DOMAIN,freychang.fun,reject
+DOMAIN,fri28.so03281koaq.com,reject
 DOMAIN,friendshipmale.com,reject
 DOMAIN,frontend-perf-service.e.kuaishou.com,reject
 DOMAIN,frontier-toutiao.snssdk.com,reject
@@ -3957,6 +3961,7 @@ DOMAIN,jnyayk.xyz,reject
 DOMAIN,joannarace.com,reject
 DOMAIN,jocelynrace.com,reject
 DOMAIN,jochenanabata.guru,reject
+DOMAIN,jock.cdn.bcebos.com,reject
 DOMAIN,joinchitchat.com,reject
 DOMAIN,joiwnq2.cn,reject
 DOMAIN,jojog.com,reject
@@ -4034,6 +4039,7 @@ DOMAIN,jujcjz.xyz,reject
 DOMAIN,junshi8181.com,reject
 DOMAIN,just-machinery.com,reject
 DOMAIN,jutwzssh.icu,reject
+DOMAIN,juuoe.lrmzx.com,reject
 DOMAIN,jv0rlf.com,reject
 DOMAIN,jvjlkih.com,reject
 DOMAIN,jvljnb.xyz,reject
@@ -5224,6 +5230,8 @@ DOMAIN,oj5296.xxin97.com,reject
 DOMAIN,ojbkmcsdx.xyz,reject
 DOMAIN,ojen23sdg.cc,reject
 DOMAIN,ok-11-cai.cc,reject
+DOMAIN,ok.5378397.cc,reject
+DOMAIN,ok.6078158.cc,reject
 DOMAIN,ok.8358137.cc,reject
 DOMAIN,ok.8358211.cc,reject
 DOMAIN,okbd2ou.icu,reject
@@ -5259,6 +5267,7 @@ DOMAIN,oopej.xyz,reject
 DOMAIN,ooqwc.xyz,reject
 DOMAIN,ootyx24.com,reject
 DOMAIN,op.ssp.qq.com,reject
+DOMAIN,op53t.nbganghui.com,reject
 DOMAIN,ope.tanx.com,reject
 DOMAIN,opehs.tanx.com,reject
 DOMAIN,open-client.douyin.com,reject
@@ -7433,6 +7442,7 @@ DOMAIN,wdzwd.xyz,reject
 DOMAIN,weather-analytics-events.apple.com,reject
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn,reject
 DOMAIN,web.g6ra.live,reject
+DOMAIN,web3.0.page.live18.club,reject
 DOMAIN,webcast*-open-lq.douyin.com,reject
 DOMAIN,webcast-open.douyin.com,reject
 DOMAIN,webcast.amemv.com,reject
@@ -7909,6 +7919,7 @@ DOMAIN,xtd36.top,reject
 DOMAIN,xtjpdfr.cn,reject
 DOMAIN,xtnwxhjv.xyz,reject
 DOMAIN,xtpwfb.xyz,reject
+DOMAIN,xttiu105.pjpxke.cn,reject
 DOMAIN,xtu224.com,reject
 DOMAIN,xuanyaosp.com,reject
 DOMAIN,xudgjz.xyz,reject
