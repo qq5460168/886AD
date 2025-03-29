@@ -2320,6 +2320,7 @@ DOMAIN,data-dre.push.dbankcloud.com,reject
 DOMAIN,data-drru.push.dbankcloud.com,reject
 DOMAIN,data-sdk-uuid-log.d.meituan.net,reject
 DOMAIN,data-sdk-uuid-report.dreport.meituan.net,reject
+DOMAIN,data-track.yingxiong.com,reject
 DOMAIN,data-video.71edge.com,reject
 DOMAIN,data.ab.qq.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
