@@ -16,6 +16,8 @@ DOMAIN,*.233leyuan.cn,reject
 DOMAIN,*.233leyuan.com,reject
 DOMAIN,*.233lyly.cn,reject
 DOMAIN,*.233lyly.com,reject
+DOMAIN,*.2b4dlx.com,reject
+DOMAIN,*.2wa9vg.com,reject
 DOMAIN,*.365dmp.com,reject
 DOMAIN,*.3adtjg.com,reject
 DOMAIN,*.3dqvcli.xyz,reject
@@ -39,6 +41,7 @@ DOMAIN,*.anhuyj.cn,reject
 DOMAIN,*.applovin.com,reject
 DOMAIN,*.awkwla.cn,reject
 DOMAIN,*.beizi.biz,reject
+DOMAIN,*.bg3partner.fun,reject
 DOMAIN,*.bgbjjtd.com,reject
 DOMAIN,*.bidjora.com,reject
 DOMAIN,*.bjmantis.net,reject
@@ -77,8 +80,11 @@ DOMAIN,*.laebu.cn,reject
 DOMAIN,*.lxclli.cn,reject
 DOMAIN,*.lzwrhiw.xyz,reject
 DOMAIN,*.mise*.buzz,reject
+DOMAIN,*.n8pnux.com,reject
 DOMAIN,*.njp878.com,reject
 DOMAIN,*.nrb.footprintdns.com,reject
+DOMAIN,*.nxue75.com,reject
+DOMAIN,*.o96jic.com,reject
 DOMAIN,*.obj23q.com,reject
 DOMAIN,*.ombuw.xyz,reject
 DOMAIN,*.oneliner.cn,reject
@@ -97,8 +103,11 @@ DOMAIN,*.saxysec.com,reject
 DOMAIN,*.sigmob.cn,reject
 DOMAIN,*.siigck.xyz,reject
 DOMAIN,*.sjpxfz.xyz,reject
+DOMAIN,*.so04011koaq.com,reject
+DOMAIN,*.tap0102mzq.top,reject
 DOMAIN,*.tbyfz.xyz,reject
 DOMAIN,*.tkmihh.xyz,reject
+DOMAIN,*.ud9ipy.com,reject
 DOMAIN,*.ul2tos.cn,reject
 DOMAIN,*.uweisit.top,reject
 DOMAIN,*.v4v6v4.com,reject
@@ -371,6 +380,7 @@ DOMAIN,44r9fl.xyz,reject
 DOMAIN,495qp188.com,reject
 DOMAIN,49789c.com,reject
 DOMAIN,49789c.com,reject
+DOMAIN,49lq.mm51-t0403.cc,reject
 DOMAIN,49lq.mm51-tvhn1767.vip,reject
 DOMAIN,4a9.cn,reject
 DOMAIN,4asfgyx.com,reject
@@ -3114,6 +3124,7 @@ DOMAIN,gepvgv.icu,reject
 DOMAIN,getads.tianad.cn,reject
 DOMAIN,getui.cn,reject
 DOMAIN,getui.com,reject
+DOMAIN,geuvus.icu,reject
 DOMAIN,geziyd.com,reject
 DOMAIN,gfbdb1.com,reject
 DOMAIN,gfrzzzx.cn,reject
@@ -4598,6 +4609,7 @@ DOMAIN,ls.l.qq.com,reject
 DOMAIN,lsancil.top,reject
 DOMAIN,lshuaibin.cn,reject
 DOMAIN,lsj2.5aer.com,reject
+DOMAIN,lsjarh.top,reject
 DOMAIN,lskmipb.icu,reject
 DOMAIN,lslbahl.top,reject
 DOMAIN,lt.shuinn7.top,reject
@@ -7003,6 +7015,7 @@ DOMAIN,uhyhdrh.cn,reject
 DOMAIN,uibjhqwkl.com,reject
 DOMAIN,uifyeldt.top,reject
 DOMAIN,uioozpxq.com,reject
+DOMAIN,uiruyhgdlq9.com,reject
 DOMAIN,uiteligularly.fun,reject
 DOMAIN,ujgf120.com,reject
 DOMAIN,ujnkn.com,reject
@@ -7549,6 +7562,7 @@ DOMAIN,wtiaw.top,reject
 DOMAIN,wtienle.top,reject
 DOMAIN,wubizigeng.com,reject
 DOMAIN,wuji.video.qq.com,reject
+DOMAIN,wuk.91c0218.top,reject
 DOMAIN,wuliao.jingyanben.com,reject
 DOMAIN,wuplexv.cn,reject
 DOMAIN,wvyqks.xyz,reject
@@ -7888,6 +7902,7 @@ DOMAIN,xn--xhq326apqhcx0d.cn,reject
 DOMAIN,xn--xhq9mt12cf5v.ren,reject
 DOMAIN,xn--zw0autp42d.cn,reject
 DOMAIN,xne1ocient87zxz.360doc.cn,reject
+DOMAIN,xnp92aeh02.knlwy.cn,reject
 DOMAIN,xnzetb.xyz,reject
 DOMAIN,xnzxeu.com,reject
 DOMAIN,xokcaxw.cn,reject
