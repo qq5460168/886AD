@@ -209,7 +209,6 @@ DOMAIN,1.bmkjku09.cc,reject
 DOMAIN,1.feihua.com,reject
 DOMAIN,1.olybvun.cc,reject
 DOMAIN,10090dfs.com,reject
-DOMAIN,1010pic.com,reject
 DOMAIN,1017facai8.xyz,reject
 DOMAIN,101kyty.com,reject
 DOMAIN,106.11.23.107,reject
@@ -835,6 +834,8 @@ DOMAIN,addictedwonder.com,reject
 DOMAIN,aden.baidu.com,reject
 DOMAIN,adeng.hpplay.cn,reject
 DOMAIN,adeng.lebo.cn,reject
+DOMAIN,adexp.chinaliftoff.io,reject
+DOMAIN,adexp.liftoff.io,reject
 DOMAIN,adexpo.tencentmusic.com adclick.tencentmusic.com,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
@@ -1093,6 +1094,7 @@ DOMAIN,adukwai.com,reject
 DOMAIN,adv-sv-show.focus.cn,reject
 DOMAIN,adv-sv-stat.focus.cn,reject
 DOMAIN,adv.app.qq.com,reject
+DOMAIN,adv.fjtv.net,reject
 DOMAIN,adv.madserving.com,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
@@ -1988,6 +1990,7 @@ DOMAIN,cdn.7nsc.cn,reject
 DOMAIN,cdn.9823df.com,reject
 DOMAIN,cdn.aiclk.com,reject
 DOMAIN,cdn.anyshare.icu,reject
+DOMAIN,cdn.chinaliftoff-creatives.io,reject
 DOMAIN,cdn.cmgadx.com,reject
 DOMAIN,cdn.creative-bars1.com,reject
 DOMAIN,cdn.dashenya.com,reject
@@ -1997,6 +2000,7 @@ DOMAIN,cdn.hpplay.com.cn,reject
 DOMAIN,cdn.inads.cn,reject
 DOMAIN,cdn.itphanpytor.club,reject
 DOMAIN,cdn.jquery-cdn.cc,reject
+DOMAIN,cdn.liftoff-creatives.io,reject
 DOMAIN,cdn.nearbyad.com,reject
 DOMAIN,cdn.read.html5.qq.com,reject
 DOMAIN,cdn.uaa010.com,reject
@@ -2098,9 +2102,12 @@ DOMAIN,clarity.ms,reject
 DOMAIN,classic.39health.com,reject
 DOMAIN,clcmdie.com,reject
 DOMAIN,click*forhz.adsmogo.com,reject
+DOMAIN,click.chinaliftoff.io,reject
 DOMAIN,click.googleanalytics.com,reject
+DOMAIN,click.liftoff.io,reject
 DOMAIN,click.oneplus.cn,reject
 DOMAIN,click.tianyaui.com,reject
+DOMAIN,click4.chinaliftoff.io,reject
 DOMAIN,clickserver.googleads.com,reject
 DOMAIN,client.show.qq.com,reject
 DOMAIN,clientlog.music.163.com,reject
@@ -2217,7 +2224,6 @@ DOMAIN,crash.163.com,reject
 DOMAIN,crash.browser.qq.com,reject
 DOMAIN,crash2.zhihu.com,reject
 DOMAIN,crashlytics.163.com,reject
-DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,creamaroc.com,reject
 DOMAIN,createssque.club,reject
@@ -3744,6 +3750,8 @@ DOMAIN,imp.ad.xelements.cn,reject
 DOMAIN,imp.ads.rgyun.com,reject
 DOMAIN,imp.voiceads.cn,reject
 DOMAIN,imp.zol.com.cn,reject
+DOMAIN,impression-asia.chinaliftoff.io,reject
+DOMAIN,impression-asia.liftoff.io,reject
 DOMAIN,impression.biligame.com,reject
 DOMAIN,imtmp.net,reject
 DOMAIN,in-addr.arpa,reject
@@ -4385,6 +4393,7 @@ DOMAIN,lgohse.fun,reject
 DOMAIN,lgoseh.fun,reject
 DOMAIN,lguaud.icu,reject
 DOMAIN,lgygy.cn,reject
+DOMAIN,lh3.googleadsserving.cn,reject
 DOMAIN,lhdlbp.xyz,reject
 DOMAIN,lhgwcvw.cn,reject
 DOMAIN,lhiefl.com,reject
@@ -5218,6 +5227,7 @@ DOMAIN,of1j087.top,reject
 DOMAIN,offerwall.yandex.net,reject
 DOMAIN,ofooe.cn,reject
 DOMAIN,ofreadingand.biz,reject
+DOMAIN,ogads-pa.clients6.google.com,reject
 DOMAIN,oganilglk.cyou,reject
 DOMAIN,oghqvffmnt.com,reject
 DOMAIN,ognujxj.cn,reject
@@ -6820,6 +6830,7 @@ DOMAIN,tovppl.cn,reject
 DOMAIN,tower.ubixioe.com,reject
 DOMAIN,tp2p.kg.qq.com,reject
 DOMAIN,tp4sul.jwzd.com.cn,reject
+DOMAIN,tpc.googlesyndication-cn.com,reject
 DOMAIN,tpc.googlesyndication.com,reject
 DOMAIN,tpstelemetry.tencent.com,reject
 DOMAIN,tptp002.cfd,reject
