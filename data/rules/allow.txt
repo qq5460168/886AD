@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-04-18 18:10:46（北京时间）
+! Version: 2025-04-18 20:17:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3565
+! Total count: 3581
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1206,6 +1206,7 @@
 @@||api.zhuti.xiaomi.com^
 @@||api.zhuti.xiaomi.com^$important
 @@||api2-album.quark.cn^$important
+@@||api3-normal-sinfonlineb.fqnovel.com^
 @@||apis.google.com
 @@||apischedule.ksyungslb.com^$important
 @@||apissl.ksapisrv.com^$important
@@ -1607,6 +1608,7 @@
 @@||dl.hdslb.com^
 @@||dl.reg.163.com^
 @@||dl.reg.163.com^$important
+@@||dldir1.qq.com^
 @@||dldir1.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||dm.toutiao.com^
@@ -1636,6 +1638,7 @@
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
 @@||download.alicdn.com^$important
+@@||download.bitcomet.com^
 @@||download.jetbrains.com^
 @@||download.pinduoduo.com^
 @@||download.uc.cn^
@@ -1644,6 +1647,7 @@
 @@||downloads.marketplace.jetbrains.com^
 @@||downpack.baidu.com^$important
 @@||downum.game.uc.cn^$important
+@@||downv6.qq.com^
 @@||downv6.qq.com^$important
 @@||dp.push.dc.360.cn^
 @@||dpmtpush.dianping.com^$important
@@ -1977,6 +1981,7 @@
 @@||i.ytimg.com
 @@||i0.hdslb.com^
 @@||i1.hdslb.com^
+@@||i2.chuimg.com^
 @@||i2.hdslb.com^
 @@||i2.y.qq.com^
 @@||i72.lanzoug.com^
@@ -2296,6 +2301,7 @@
 @@||m.video.xiaomi.com^
 @@||m.video.xiaomi.com^$important
 @@||m.vmall.com^
+@@||m.xiachufang.com^
 @@||m.yjwujian.cn^
 @@||m.ykimg.com^
 @@||m.ykimg.com^$important
@@ -2327,6 +2333,8 @@
 @@||mangacopy.com^
 @@||manhuapica.com^
 @@||manifest.googlevideo.com
+@@||manus.im^
+@@||manus.monica.cn^
 @@||manwa.fun^
 @@||manwa.me^
 @@||manwac.xyz^
@@ -2369,8 +2377,10 @@
 @@||member.aligames.com^$important
 @@||member.bilibili.com^
 @@||member.jiaoyimao.com^
+@@||members.bitcomet.com^
 @@||message.bilibili.com^
 @@||metok.sys.miui.com^$important
+@@||mgbsdk.matrix.netease.com^
 @@||mi-img.com^$important
 @@||mi.com^$important
 @@||miaozhen.com^$domain=miaozhen.com
@@ -2384,6 +2394,7 @@
 @@||miniapp.gtimg.cn^
 @@||minigame.zijieapi.com^$important
 @@||minorshort.weixin.qq.com^
+@@||mip.xiachufang.com^
 @@||mipcache.bdstatic.com^
 @@||mipstatic.sm-tc.cn^$important
 @@||mirrors.163.com^
@@ -2884,6 +2895,7 @@
 @@||sdk.mihoyo.com^
 @@||sdk.open.talk.gepush.com^
 @@||sdk.ptqy.gitv.tv^
+@@||sdk.xyapi.game.qq.com^
 @@||sdkapi.sms.mob.com^
 @@||se*.360simg.com^
 @@||se.360.cn^
@@ -3376,6 +3388,7 @@
 @@||www.bilibili.com^
 @@||www.bilibili.com^$important
 @@||www.biligame.com^
+@@||www.bitcomet.com^
 @@||www.blogger.com^$important
 @@||www.bmcx.com^
 @@||www.bmw.com.cn^
@@ -3474,6 +3487,7 @@
 @@||www.wandoujia.com^$important
 @@||www.wnacg.com^
 @@||www.xanimeporn.com^
+@@||www.xiachufang.com^
 @@||www.xiaohongshu.com^
 @@||www.ximalaya.com^
 @@||www.xnxx.com^
@@ -3513,7 +3527,9 @@
 @@||xj-n-tax.gov.cn^
 @@||xlivesex.com^
 @@||xmpush.xiaomi.com^
+@@||xn--cp3a08l.com^
 @@||xn--l6qx3l9s1a.com^
+@@||xn--mes358aby2apfg.com^
 @@||xn--ngstr-lra8j.com^$important
 @@||xqn.163.com^
 @@||xvideos.com^$important
