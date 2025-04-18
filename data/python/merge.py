@@ -1,85 +1,72 @@
 import os
-import subprocess
 import glob
 import re
 from pathlib import Path
 
+# 切换到临时目录
 os.chdir('tmp')
 
-print("合并上游拦截规则")
-file_list = glob.glob('adblock*.txt')
-with open('combined_adblock.txt', 'w') as outfile:
-    for file in file_list:
-        with open(file, 'r') as infile:
-            outfile.write(infile.read())
-            outfile.write('\n')
+# 函数：合并文件
+def merge_files(pattern, output_file):
+    print(f"合并符合模式 {pattern} 的文件到 {output_file}")
+    file_list = glob.glob(pattern)
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        for file in file_list:
+            with open(file, 'r', encoding='utf-8') as infile:
+                outfile.write(infile.read())
+                outfile.write('\n')
 
-with open('combined_adblock.txt', 'r') as f:
-    content = f.read()
-content = re.sub(r'^[!].*$\n', '', content, flags=re.MULTILINE)
-content = re.sub(r'^#(?!\s*#).*\n?', '', content, flags=re.MULTILINE)
+# 函数：清理规则文件
+def clean_rules(input_file, output_file):
+    print(f"清理规则文件 {input_file}")
+    with open(input_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+    # 移除注释和无效的行
+    content = re.sub(r'^[!].*$', '', content, flags=re.MULTILINE)  # 以 ! 开头的行
+    content = re.sub(r'^#(?!\s*#).*$', '', content, flags=re.MULTILINE)  # 单井号注释行
+    content = re.sub(r'^\s*$', '', content, flags=re.MULTILINE)  # 空行
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(content)
 
-with open('cleaned_adblock.txt', 'w') as f:
-    f.write(content)
-print("拦截规则合并完成")
+# 合并并清理拦截规则
+merge_files('adblock*.txt', 'combined_adblock.txt')
+clean_rules('combined_adblock.txt', 'cleaned_adblock.txt')
+print("拦截规则合并和清理完成")
 
-print("合并上游白名单规则")
-allow_file_list = glob.glob('allow*.txt')
-with open('combined_allow.txt', 'w') as outfile:
-    for file in allow_file_list:
-        with open(file, 'r') as infile:
-            outfile.write(infile.read())
-            outfile.write('\n')
+# 合并并清理白名单规则
+merge_files('allow*.txt', 'combined_allow.txt')
+clean_rules('combined_allow.txt', 'cleaned_allow.txt')
+print("白名单规则合并和清理完成")
 
-with open('combined_allow.txt', 'r') as f:
-    content = f.read()
-content = re.sub(r'^[!].*$\n', '', content, flags=re.MULTILINE)
-content = re.sub(r'^#(?!\s*#).*\n?', '', content, flags=re.MULTILINE)
+# 提取白名单规则到 allow.txt
+print("提取白名单规则到 allow.txt")
+with open('cleaned_allow.txt', 'r', encoding='utf-8') as f:
+    allow_lines = [line for line in f if re.match(r'^@@\|\|.*\^\s*$', line)]
 
-with open('cleaned_allow.txt', 'w') as f:
-    f.write(content)
-print("白名单规则合并完成")
+with open('allow.txt', 'w', encoding='utf-8') as f:
+    f.writelines(allow_lines)
 
-print("过滤白名单规则")
-with open('cleaned_allow.txt', 'r') as f:
-    allow_lines = f.readlines()
-
-with open('combined_adblock.txt', 'a') as outfile:
+# 将白名单规则追加到拦截规则中
+print("将白名单规则追加到拦截规则中")
+with open('cleaned_adblock.txt', 'a', encoding='utf-8') as outfile:
     outfile.writelines(allow_lines)
 
-with open('combined_adblock.txt', 'r') as f:
-    lines = f.readlines()
-with open('allow.txt', 'w') as f:
-    for line in lines:
-        if line.startswith('@'):
-            f.write(line)
-
+# 移动文件到目标目录
+print("移动规则文件到目标目录")
 current_dir = os.getcwd()
-adblock_file = os.path.join(current_dir, 'cleaned_adblock.txt')
-allow_file = os.path.join(current_dir, 'allow.txt')
-target_dir = os.path.join(current_dir, '.././data/rules/')
+target_dir = os.path.join(current_dir, '../data/rules/')
 Path(target_dir).mkdir(parents=True, exist_ok=True)
-adblock_file_new = os.path.join(target_dir, 'adblock.txt')
-allow_file_new = os.path.join(target_dir, 'allow.txt')
-os.rename(adblock_file, adblock_file_new) 
-os.rename(allow_file, allow_file_new) 
 
+os.rename('cleaned_adblock.txt', os.path.join(target_dir, 'adblock.txt'))
+os.rename('allow.txt', os.path.join(target_dir, 'allow.txt'))
+
+# 去重规则文件
 print("规则去重中")
-os.chdir(".././data/rules/")  # 更改当前目录
-files = os.listdir()  # 得到文件夹下的所有文件名称
-result = []
-for file in files:  # 遍历文件夹
-    if not os.path.isdir(file):  # 判断是否是文件夹，不是文件夹才打开
-        if os.path.splitext(file)[1] == '.txt':
-            # print('开始去重'+(file))
-            f = open(file, encoding="utf8")  # 打开文件
-            result = list(set(f.readlines()))
-            result.sort()
-            fo = open('test' + (file), "w", encoding="utf8")
-            fo.writelines(result)
-            f.close()
-            fo.close()
-            os.remove(file)
-            os.rename('test' + (file), (file))
-            # print((file) + '去重完成')
+os.chdir(target_dir)
+for file in os.listdir(target_dir):
+    if file.endswith('.txt'):
+        with open(file, 'r', encoding='utf-8') as f:
+            unique_lines = sorted(set(f.readlines()))
+        with open(file, 'w', encoding='utf-8') as f:
+            f.writelines(unique_lines)
 print("规则去重完成")
