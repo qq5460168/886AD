@@ -1505,6 +1505,7 @@ DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.ucdns.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
 DOMAIN,appmetrica.yandex.ru,reject
+DOMAIN,appmobile.cn,reject
 DOMAIN,apppush.xiaohongshu.com,reject
 DOMAIN,apps.bytesfield-b.com,reject
 DOMAIN,apps.bytesfield.com,reject
