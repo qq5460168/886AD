@@ -41,7 +41,8 @@ print("白名单规则合并和清理完成")
 # 提取白名单规则到 allow.txt
 print("提取白名单规则到 allow.txt")
 with open('cleaned_allow.txt', 'r', encoding='utf-8') as f:
-    allow_lines = [line for line in f if re.match(r'^@@\|\|.*\^\s*$', line)]
+    # 匹配白名单规则，规则以 "@@||" 开头，且以 "^" 或 "^$important" 结尾
+    allow_lines = [line for line in f if re.match(r'^@@\|\|.*\^(?:$|\$important)$', line)]
 
 with open('allow.txt', 'w', encoding='utf-8') as f:
     f.writelines(allow_lines)
