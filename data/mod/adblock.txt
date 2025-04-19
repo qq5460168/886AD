@@ -1,5 +1,9 @@
+||push-ads-cn.heytapmobi.com^
+haokan.baidu.com##.tieba-pause-ad-container
 !屏蔽B站直播P2P上传
-*.chat.bilibili.com
+‖*.chat.bilibili.com
+#罗盘软件
+||bid-adx.vlion.cn^
 !Amazon ADS
 ||analyticsengine.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
@@ -68,6 +72,8 @@ smartapps.cn##swan-template[data-origin-name*="adRecommendation"]
 ||api.chcatv.hismarttv.com^
 ||api.eu.hismarttv.com^
 ||api.sa.hismarttv.com^
+||api-dynhost.hismarttv.com^
+||api-cloudfalcon.hismarttv.com^
 !京东
 m.jd.com###appdlCon > div.modal
 ||ads-union.jd.com^
@@ -717,14 +723,6 @@ dmzj.com##div[class*="float_code"]
 !腾讯视频
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 !虎牙直播
-||business.msstatic.com^
-||sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com^
-||xy-cdnfile1pcdn.msstatic.com^
-||xy-livewebbs2pcdn.msstatic.com^
-||livewebbs2pcdn.msstatic.com^
-||qn-livewebbs2pcdn.msstatic.com^
-||business-qnpcdn.msstatic.com^
-||extsdk-msstatic.cdn.huya.com^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 huya.com###J_liveListHeader > div.liveList-BusinessGame:last-child
@@ -736,7 +734,6 @@ huya.com##.main-ab-close-mode
 huya.com###public-screen-ab
 huya.com##.end-ab-banner
 huya.com##.Ad--1M4tksnOmUetminmFTLCfE
-huya.com##.new-reward-ab-wrap
 !聚超值
 best.pconline.com.cn###JnoLoginFixedBottom
 !我的钢铁网
@@ -837,6 +834,15 @@ hanyu.baidu.com###J_CishuBtn > img
 hanyu.baidu.com###main > div.app-qrcode:first-child
 edu.iask.sina.com.cn##.ad-screen
 www.9game.cn##.entry.qak_popup
+||business.msstatic.com^
+||sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com^
+||xy-cdnfile1pcdn.msstatic.com^
+||xy-livewebbs2pcdn.msstatic.com^
+||livewebbs2pcdn.msstatic.com^
+||qn-livewebbs2pcdn.msstatic.com^
+||business-qnpcdn.msstatic.com^
+||extsdk-msstatic.cdn.huya.com^
+huya.com##.new-reward-ab-wrap
 wkings.blog##.di7ubns5b2nz
 tuniu.com##.web_envelope_mod, .tuniu-assist-hide, .show
 vacations.ctrip.com##.side_function
