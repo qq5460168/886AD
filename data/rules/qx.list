@@ -723,6 +723,7 @@ DOMAIN,ad-survey.com,reject
 DOMAIN,ad-test6.sm.cn,reject
 DOMAIN,ad-trace.lenovomm.com,reject
 DOMAIN,ad-union-e.ssread.cn,reject
+DOMAIN,ad.10010.com,reject
 DOMAIN,ad.12306.cn,reject
 DOMAIN,ad.163.com,reject
 DOMAIN,ad.51wnl.com,reject
@@ -852,6 +853,7 @@ DOMAIN,adim.pinduoduo.com,reject
 DOMAIN,adimg.163.com,reject
 DOMAIN,adimg.liba.com,reject
 DOMAIN,adimg.uve.weibo.com,reject
+DOMAIN,adintl.cn,reject
 DOMAIN,adisaid.cn,reject
 DOMAIN,aditibelen.com,reject
 DOMAIN,adiu.amap.com,reject
@@ -1283,7 +1285,6 @@ DOMAIN,analytics-sg.tiktok.com,reject
 DOMAIN,analytics.126.com,reject
 DOMAIN,analytics.163.com,reject
 DOMAIN,analytics.95516.com,reject
-DOMAIN,analytics.ad.daum.net,reject
 DOMAIN,analytics.google.com,reject
 DOMAIN,analytics.libertymutual.com.edgekey.net,reject
 DOMAIN,analytics.map.qq.com,reject
@@ -2497,7 +2498,6 @@ DOMAIN,dismantlepenantiterrorist.com,reject
 DOMAIN,disp.titan.mgtv.com,reject
 DOMAIN,display-apps-ui-soak.iad.apple.com,reject
 DOMAIN,display-apps-ui.iad.apple.com,reject
-DOMAIN,display.ad.daum.net,reject
 DOMAIN,displaycatalog.mp.microsoft.com,reject
 DOMAIN,ditorialproce.biz,reject
 DOMAIN,dj09j5u.cn,reject
@@ -4288,7 +4288,6 @@ DOMAIN,kydb.xyz,reject
 DOMAIN,kyplpw.com,reject
 DOMAIN,kyq3hky.icu,reject
 DOMAIN,kyq3xch.icu,reject
-DOMAIN,kyson.ad.daum.net,reject
 DOMAIN,kytesconge.com,reject
 DOMAIN,kyxw9itc.xyz,reject
 DOMAIN,kyxw9itv.club,reject

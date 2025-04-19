@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-04-19 18:09:25（北京时间）
+! Version: 2025-04-19 20:15:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 8551
+! Total count: 8550
 ||*-*.ad*kwai.com^
 ||*-*.ap-east-1.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
@@ -749,6 +749,7 @@
 ||ad-test6.sm.cn^
 ||ad-trace.lenovomm.com^
 ||ad-union-e.ssread.cn^
+||ad.10010.com^
 ||ad.12306.cn^
 ||ad.163.com^
 ||ad.51wnl.com^
@@ -881,6 +882,7 @@
 ||adimg.163.com^
 ||adimg.liba.com^
 ||adimg.uve.weibo.com^
+||adintl.cn^
 ||adisaid.cn^
 ||aditibelen.com^
 ||adiu.amap.com^
@@ -1312,7 +1314,6 @@
 ||analytics.126.com^
 ||analytics.163.com^
 ||analytics.95516.com^
-||analytics.ad.daum.net^
 ||analytics.google.com^
 ||analytics.libertymutual.com.edgekey.net^
 ||analytics.map.qq.com^
@@ -2536,7 +2537,6 @@
 ||disp.titan.mgtv.com^
 ||display-apps-ui-soak.iad.apple.com^
 ||display-apps-ui.iad.apple.com^
-||display.ad.daum.net^
 ||displaycatalog.mp.microsoft.com^
 ||ditorialproce.biz^
 ||dj09j5u.cn^
@@ -4341,7 +4341,6 @@
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
-||kyson.ad.daum.net^
 ||kytesconge.com^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^

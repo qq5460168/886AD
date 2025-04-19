@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-04-19 18:09:25（北京时间）
+! Version: 2025-04-19 20:15:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2547
+! Total count: 2569
 @@||*-cf.xvideos-cdn.com^
 @@||*-open-sign.byteimg.com^
 @@||*-open.byteimg.com^
@@ -106,6 +106,7 @@
 @@||activity.tuiapple.com^$important
 @@||activity.youku.com^$important
 @@||acts.qidian.com^
+@@||ad-experience.bytedance.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.doubleclick.net^
 @@||ad.mcloud.139.com^$important
@@ -236,6 +237,7 @@
 @@||api.zhuti.xiaomi.com^$important
 @@||api2-album.quark.cn^$important
 @@||api3-normal-sinfonlineb.fqnovel.com^
+@@||api5-normal-sinfonlineb.fqnovel.com^
 @@||apischedule.ksyungslb.com^$important
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
@@ -303,6 +305,7 @@
 @@||b.163.com^
 @@||b.bdstatic.com^
 @@||backupapi.lkong.com^$important
+@@||bad.news^
 @@||baijiahao.baidu.com^
 @@||baijiahao.baidu.com^$important
 @@||baike.so.com^$important
@@ -712,6 +715,7 @@
 @@||edge.activity.windows.com^$important
 @@||edge.microsoft.com^
 @@||edu-image.nosdn.127.net^
+@@||efe.snssdk.com^
 @@||effect.snssdk.com^
 @@||ehgt.org^
 @@||ehtracker.org^
@@ -825,6 +829,7 @@
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||funimg.pddpic.com^
 @@||fuxi.163.com^
+@@||g-acs.m.goofish.com^
 @@||g.alicdn.com^$important
 @@||g.csdnimg.cn^
 @@||g.live.com^
@@ -868,6 +873,7 @@
 @@||github.store^
 @@||gitlab.com^
 @@||gitv.tv^$important
+@@||gjusp.alicdn.com^
 @@||gk.sina.cn^
 @@||gl.zle.com^$important
 @@||global-search.browser.miui.com^$important
@@ -901,6 +907,7 @@
 @@||h5.cc.163.com^
 @@||h5.dianping.com^
 @@||h5.hpplay.com.cn^
+@@||h5.m.goofish.com^
 @@||h5.m.taobao.com^
 @@||h5.m.taobao.com^$important
 @@||h5.mse.360.cn^
@@ -1181,15 +1188,21 @@
 @@||lf*-webcast-cdn-tos.bytegecko.com^
 @@||lf*-webcastcdn-tos.douyinstatic.com^
 @@||lf*material.searchpstatp.com^
+@@||lf-ad-convert-feedback.oceanengine.com^
 @@||lf-c-flwb.bytetos.com^
 @@||lf-cdn-tos.bytescm.com^
 @@||lf-cdn-tos.bytescm.com^$important
+@@||lf-douyin-pc-search.douyinstatic.com^
+@@||lf-douyin-pc-web.douyinstatic.com^
+@@||lf-douyin-search-fe.bytetos.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^$important
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
+@@||lf-webcast-platform.bytetos.com^
 @@||lf-webcast-sourcecdn-tos.bytegecko.com^
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
 @@||lf1-ttcdn-tos.pstatp.com^$important
+@@||lf3-card-system.searchpstatp.com^
 @@||lf3-cdn-tos.bytecdntp.com^
 @@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytegoofy.com^$important
@@ -1223,6 +1236,7 @@
 @@||link.zhihu.com^
 @@||live*.static.yximgs.com^
 @@||live-trace.bilibili.com^
+@@||live.douyin.com^
 @@||live.simcitybuildit.com^
 @@||livere.com^
 @@||livew.l.qq.com^
@@ -1556,6 +1570,8 @@
 @@||p1.meituan.net^
 @@||p11-sign.douyinpic.com^
 @@||p11-sign.douyinpic.com^$important
+@@||p11-webcast-sign.douyinpic.com^
+@@||p11-webcast.douyinpic.com^
 @@||p11.douyinpic.com^
 @@||p16-tiktokcdn-com.akamaized.net^$important
 @@||p26-sign.bdxiguaimg.com^
@@ -1590,6 +1606,7 @@
 @@||p3-sign.toutiaoimg.com^$important
 @@||p3-tt.byteimg.com^
 @@||p3-webcast-sign.douyinpic.com^
+@@||p3-webcast.douyinpic.com^
 @@||p3.dcarimg.com^
 @@||p3.dcarimg.com^$important
 @@||p3.douyinpic.com^
@@ -1797,6 +1814,7 @@
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||rdelivery.qq.com^
 @@||reader.browser.miui.com^
+@@||reading.snssdk.com^
 @@||readstatic.zhulang.com^$important
 @@||recmd.html5.qq.com^$important
 @@||redirector.gvt1.com^
@@ -1931,6 +1949,7 @@
 @@||sns.m.taobao.com^
 @@||snssdk.com^$important
 @@||snzypic.com^
+@@||so.douyin.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
 @@||sofire.bdstatic.com^
@@ -1968,6 +1987,7 @@
 @@||ssl.gstatic.com^$important
 @@||ssl.msdk.qq.com^
 @@||ssl.p.jwpcdn.com^
+@@||ssr.m.goofish.com^
 @@||st.jingxi.com^
 @@||st.todesk.com^$important
 @@||staging.flash.sec.miui.com^
@@ -2252,6 +2272,7 @@
 @@||verify.zijieapi.com^
 @@||vfiles.gtimg.cn^
 @@||via.placeholder.com^
+@@||video.goofish.com^
 @@||video.kts.g.mi.com^
 @@||video.twimg.com^
 @@||video.zhihu.com^
@@ -2380,6 +2401,7 @@
 @@||www.dell.com^
 @@||www.dianping.com^
 @@||www.docker.com^
+@@||www.douyin.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^$important
 @@||www.e0734.com^

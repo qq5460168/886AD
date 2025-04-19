@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-04-19 18:09:25（北京时间）
+! Version: 2025-04-19 20:15:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 18944
+! Total count: 18965
 
 ## 163登陆
 ## 信息流及评论区广告
@@ -6455,20 +6455,19 @@
 127.0.0.1 zz.bdstatic.com
 13.107.246.73                 vscode.dev  # Timeout
 13.107.42.16                  pipelines.actions.githubusercontent.com
-140.82.112.26                 live.github.com
-140.82.113.18                 github.community
-140.82.113.22                 api.individual.githubcopilot.com
-140.82.113.22                 central.github.com
-140.82.113.22                 collector.github.com
-140.82.113.22                 education.github.com
-140.82.114.25                 alive.github.com
+140.82.112.21                 api.individual.githubcopilot.com
+140.82.114.17                 github.community
+140.82.114.22                 central.github.com
+140.82.114.22                 collector.github.com
+140.82.114.22                 education.github.com
+140.82.114.26                 alive.github.com
+140.82.114.26                 live.github.com
 142.250.115.188     alt6-mtalk.google.com
 142.250.141.188     alt2-mtalk.google.com
 142.250.152.188     alt8-mtalk.google.com
 142.250.157.188     mtalk.google.com
 151.101.193.194               github.global.ssl.fastly.net
-16.15.176.200                 github-production-user-asset-6210df.s3.amazonaws.com
-16.182.108.137                github-cloud.s3.amazonaws.com
+16.182.108.209                github-com.s3.amazonaws.com
 163.com##.freeVip
 163.com##.js-open-app
 173.194.202.188     alt4-mtalk.google.com
@@ -6523,7 +6522,9 @@
 23.53.35.199 cdn.akamai.steamstatic.com
 23.53.35.202 community.akamai.steamstatic.com
 23.53.35.204 store.akamai.steamstatic.com
-3.5.17.203                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.16.211                    github-production-user-asset-6210df.s3.amazonaws.com
+3.5.20.23                     github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.30.132                    github-cloud.s3.amazonaws.com
 31.216.145.5 mega.nz
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -6538,8 +6539,7 @@
 47.102.115.14 translate.googleapis.com
 47.246.37.220 bigota.d.miui.com
 47.246.37.220 hugeota.d.miui.com
-52.217.165.97                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.229.201                github-com.s3.amazonaws.com
+52.216.35.161                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 5dm.app##[src*="sinaimg.cn"]
 64.233.171.188      alt3-mtalk.google.com
@@ -6706,6 +6706,7 @@
 @@||activity.tuiapple.com^$important
 @@||activity.youku.com^$important
 @@||acts.qidian.com^
+@@||ad-experience.bytedance.com^
 @@||ad-log-upload.mihoyo.com^
 @@||ad.doubleclick.net^
 @@||ad.mcloud.139.com^$important
@@ -6840,6 +6841,7 @@
 @@||api.zhuti.xiaomi.com^$important
 @@||api2-album.quark.cn^$important
 @@||api3-normal-sinfonlineb.fqnovel.com^
+@@||api5-normal-sinfonlineb.fqnovel.com^
 @@||apis.google.com
 @@||apischedule.ksyungslb.com^$important
 @@||apissl.ksapisrv.com^$important
@@ -6908,6 +6910,7 @@
 @@||b.163.com^
 @@||b.bdstatic.com^
 @@||backupapi.lkong.com^$important
+@@||bad.news^
 @@||baijiahao.baidu.com^
 @@||baijiahao.baidu.com^$important
 @@||baike.so.com^$important
@@ -7333,6 +7336,7 @@
 @@||edge.activity.windows.com^$important
 @@||edge.microsoft.com^
 @@||edu-image.nosdn.127.net^
+@@||efe.snssdk.com^
 @@||effect.snssdk.com^
 @@||ehgt.org^
 @@||ehtracker.org^
@@ -7448,6 +7452,7 @@
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||funimg.pddpic.com^
 @@||fuxi.163.com^
+@@||g-acs.m.goofish.com^
 @@||g.alicdn.com^$important
 @@||g.csdnimg.cn^
 @@||g.live.com^
@@ -7492,6 +7497,7 @@
 @@||github.store^
 @@||gitlab.com^
 @@||gitv.tv^$important
+@@||gjusp.alicdn.com^
 @@||gk.sina.cn^
 @@||gl.zle.com^$important
 @@||global-search.browser.miui.com^$important
@@ -7528,6 +7534,7 @@
 @@||h5.cc.163.com^
 @@||h5.dianping.com^
 @@||h5.hpplay.com.cn^
+@@||h5.m.goofish.com^
 @@||h5.m.taobao.com^
 @@||h5.m.taobao.com^$important
 @@||h5.mse.360.cn^
@@ -7815,15 +7822,21 @@
 @@||lf*-webcast-cdn-tos.bytegecko.com^
 @@||lf*-webcastcdn-tos.douyinstatic.com^
 @@||lf*material.searchpstatp.com^
+@@||lf-ad-convert-feedback.oceanengine.com^
 @@||lf-c-flwb.bytetos.com^
 @@||lf-cdn-tos.bytescm.com^
 @@||lf-cdn-tos.bytescm.com^$important
+@@||lf-douyin-pc-search.douyinstatic.com^
+@@||lf-douyin-pc-web.douyinstatic.com^
+@@||lf-douyin-search-fe.bytetos.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^$important
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
+@@||lf-webcast-platform.bytetos.com^
 @@||lf-webcast-sourcecdn-tos.bytegecko.com^
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
 @@||lf1-ttcdn-tos.pstatp.com^$important
+@@||lf3-card-system.searchpstatp.com^
 @@||lf3-cdn-tos.bytecdntp.com^
 @@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytegoofy.com^$important
@@ -7857,6 +7870,7 @@
 @@||link.zhihu.com^
 @@||live*.static.yximgs.com^
 @@||live-trace.bilibili.com^
+@@||live.douyin.com^
 @@||live.simcitybuildit.com^
 @@||livere.com^
 @@||livew.l.qq.com^
@@ -8198,6 +8212,8 @@
 @@||p1.meituan.net^
 @@||p11-sign.douyinpic.com^
 @@||p11-sign.douyinpic.com^$important
+@@||p11-webcast-sign.douyinpic.com^
+@@||p11-webcast.douyinpic.com^
 @@||p11.douyinpic.com^
 @@||p16-tiktokcdn-com.akamaized.net^$important
 @@||p26-sign.bdxiguaimg.com^
@@ -8232,6 +8248,7 @@
 @@||p3-sign.toutiaoimg.com^$important
 @@||p3-tt.byteimg.com^
 @@||p3-webcast-sign.douyinpic.com^
+@@||p3-webcast.douyinpic.com^
 @@||p3.dcarimg.com^
 @@||p3.dcarimg.com^$important
 @@||p3.douyinpic.com^
@@ -8444,6 +8461,7 @@
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||rdelivery.qq.com^
 @@||reader.browser.miui.com^
+@@||reading.snssdk.com^
 @@||readstatic.zhulang.com^$important
 @@||recmd.html5.qq.com^$important
 @@||redirector.gvt1.com^
@@ -8580,6 +8598,7 @@
 @@||sns.m.taobao.com^
 @@||snssdk.com^$important
 @@||snzypic.com^
+@@||so.douyin.com^
 @@||sobot.com^
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
@@ -8618,6 +8637,7 @@
 @@||ssl.gstatic.com^$important
 @@||ssl.msdk.qq.com^
 @@||ssl.p.jwpcdn.com^
+@@||ssr.m.goofish.com^
 @@||st.jingxi.com^
 @@||st.todesk.com^$important
 @@||staging.flash.sec.miui.com^
@@ -8905,6 +8925,7 @@
 @@||verify.zijieapi.com^
 @@||vfiles.gtimg.cn^
 @@||via.placeholder.com^
+@@||video.goofish.com^
 @@||video.kts.g.mi.com^
 @@||video.twimg.com^
 @@||video.zhihu.com^
@@ -9036,6 +9057,7 @@
 @@||www.dell.com^
 @@||www.dianping.com^
 @@||www.docker.com^
+@@||www.douyin.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^$important
 @@||www.e0734.com^
@@ -10442,6 +10464,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-test6.sm.cn^
 ||ad-trace.lenovomm.com^
 ||ad-union-e.ssread.cn^
+||ad.10010.com^
 ||ad.12306.cn^
 ||ad.163.com^
 ||ad.51wnl.com^
@@ -10576,6 +10599,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adimg.163.com^
 ||adimg.liba.com^
 ||adimg.uve.weibo.com^
+||adintl.cn^
 ||adisaid.cn^
 ||aditibelen.com^
 ||adiu.amap.com^
@@ -11025,7 +11049,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.126.com^
 ||analytics.163.com^
 ||analytics.95516.com^
-||analytics.ad.daum.net^
 ||analytics.google.com^
 ||analytics.libertymutual.com.edgekey.net^
 ||analytics.map.qq.com^
@@ -12376,7 +12399,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||disp.titan.mgtv.com^
 ||display-apps-ui-soak.iad.apple.com^
 ||display-apps-ui.iad.apple.com^
-||display.ad.daum.net^
 ||displaycatalog.mp.microsoft.com^
 ||ditorialproce.biz^
 ||diyibanzhu
@@ -14320,7 +14342,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
-||kyson.ad.daum.net^
 ||kytesconge.com^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
