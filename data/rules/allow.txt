@@ -2,9 +2,9 @@
 ! Title:去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/886AD
 ! Expires: 2 Hours
-! Version: 2025-04-19 22:08:33（北京时间）
+! Version: 2025-04-20 00:10:37（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2570
+! Total count: 2530
 @@||*-cf.xvideos-cdn.com^
 @@||*-open-sign.byteimg.com^
 @@||*-open.byteimg.com^
@@ -43,7 +43,6 @@
 @@||177f.wodenongtian.com^$important
 @@||177h.wodeshougong.com^$important
 @@||177j.wodenongtiacom^$important
-@@||17u.cn^
 @@||17u.cn^$important
 @@||18comic.org^
 @@||18comic.vip^
@@ -60,7 +59,6 @@
 @@||3g.ali213.net^
 @@||3gimg.qq.com^
 @@||3gimg.qq.com^$important
-@@||40017.cn^
 @@||40017.cn^$important
 @@||48609.activity-42.m.duiba.com.cn^
 @@||7x24s.com^
@@ -200,7 +198,6 @@
 @@||api.jdl.cn^$important
 @@||api.jdl.com^$important
 @@||api.jr.mi.com^$important
-@@||api.ke.com^
 @@||api.kingdata.ksyun.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
@@ -241,6 +238,7 @@
 @@||apischedule.ksyungslb.com^$important
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
+@@||apm.zhihu.com^
 @@||apmfront.17u.cn^$important
 @@||app-api.pixiv.net^$important
 @@||app-api.smzdm.com^$important
@@ -289,7 +287,6 @@
 @@||assets.oneweb.mercedes-benz.com^
 @@||assets.sb-cd.com^
 @@||assets.youlai.cn^
-@@||assistant.miui.com^
 @@||at.umeng.com^$important
 @@||audid-api-sg.taobao.com^
 @@||audid-api.taobao.com^$important
@@ -356,8 +353,6 @@
 @@||bs-origin.pull.yximgs.com^
 @@||btrace.qq.com^$important
 @@||bucket-ynote-online-cdn.note.youdao.com^$important
-@@||bytedanceapi.com^
-@@||byteimg.com.queniusy.com^
 @@||c.58cdn.com.cn^
 @@||c.cnzz.com^$important
 @@||c.duomai.com^$important
@@ -596,7 +591,6 @@
 @@||dcms.1688.com^
 @@||dd.myapp.com^
 @@||dd.myapp.com^$important
-@@||ddys.pro^
 @@||ddys.pro^$important
 @@||ddyunbo.com^
 @@||debugtbs.qq.com^$important
@@ -638,9 +632,7 @@
 @@||dns-family.adguard.com^$important
 @@||dns.adguard.com^$important
 @@||dns.icoa.cn^$important
-@@||dns.iqiyi.com^
 @@||dns.weixin.qq.com^$important
-@@||dnscheck.tools^
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docs.idqqimg.com^
 @@||docs.idqqimg.com^$important
@@ -648,7 +640,6 @@
 @@||doris.yidianzixun.com^
 @@||dot.360.cn^$important
 @@||douyincdn.com^$important
-@@||douyinstatic.com^
 @@||down.360safe.com^
 @@||down.360safe.com^$important
 @@||down.anticheatexpert.com^$important
@@ -712,7 +703,6 @@
 @@||eco.taobao.com^$important
 @@||ecombdapi.com^$important
 @@||ecombdimg.com^
-@@||ecosia.org^
 @@||edge.activity.windows.com^$important
 @@||edge.microsoft.com^
 @@||edu-image.nosdn.127.net^
@@ -735,7 +725,6 @@
 @@||encrypted-tbn2.gstatic.com^
 @@||encrypted-tbn3.gstatic.com^
 @@||enrichgw.10010.com^$important
-@@||epochtimes.com^
 @@||ereg.adobe.com^
 @@||ereg.wip3.adobe.com^
 @@||erp.jd.com^$important
@@ -838,7 +827,6 @@
 @@||g.shumafen.cn^$important
 @@||g58.update.netease.com^
 @@||g79.update.netease.com^
-@@||galaxyappstore.com^
 @@||galleryapi.micloud.xiaomi.net^
 @@||game.163.com^
 @@||game.bilibili.com^
@@ -868,7 +856,6 @@
 @@||git-scm.com^
 @@||gitcode.com^
 @@||gitee.com^
-@@||gitee.io^
 @@||github.com^
 @@||github.site^
 @@||github.store^
@@ -1161,7 +1148,6 @@
 @@||kjimg10.360buyimg.com^
 @@||klclick*.com^
 @@||knet.cn^
-@@||knowsex.net^
 @@||konachan.com^
 @@||kubernetes.io^
 @@||kwimgs.com^$important
@@ -1226,7 +1212,6 @@
 @@||liangcang-material.alicdn.com^
 @@||liangcang-material.alicdn.com^$important
 @@||lightnovel.us^
-@@||limbopro.com^
 @@||limbopro.com^$important
 @@||limestart.cn^
 @@||line1-h5-mobile-api.biligame.com^
@@ -1263,7 +1248,6 @@
 @@||lp.pinduoduo.com^
 @@||lpcdn.pinduoduo.com^
 @@||lpl.qq.com^$important
-@@||lsposed.org^
 @@||luna-dict-community.nosdn.127.net^
 @@||lx.meituan.net^
 @@||m..bilibili.com^$important
@@ -1337,8 +1321,6 @@
 @@||mall.360.cn^
 @@||mall.bilibili.com^
 @@||mam.netease.com^$important
-@@||mangabz.com^
-@@||mangacopy.com^
 @@||manhuapica.com^
 @@||manus.im^
 @@||manus.monica.cn^
@@ -1390,7 +1372,6 @@
 @@||mi-img.com^$important
 @@||mi.com^$important
 @@||mibi.api.xiaomi.com^$important
-@@||micloud.xiaomi.net^
 @@||midas.gtimg.cn^
 @@||migrate.driveapi.micloud.xiaomi.net^$important
 @@||mime.baidu.com^
@@ -1450,7 +1431,6 @@
 @@||mpay-web.g.mkey.163.com^
 @@||mpsapi.amap.com^
 @@||mpsapi.amap.com^$important
-@@||mpush-api.aliyun.com^
 @@||mpush-api.aliyun.com^$important
 @@||ms.bdimg.com^
 @@||ms.bdstatic.com^
@@ -1755,12 +1735,9 @@
 @@||puds.ucweb.com^
 @@||pull2.91cloud.net^$important
 @@||puser.funshion.com^
-@@||push.apple.com^
 @@||push.chsi.com.cn^
-@@||push.m.youku.com^
 @@||push.m.youku.com^$important
 @@||push.oray.com^$important
-@@||push.yximgs.com^
 @@||push1.91cloud.net^$important
 @@||puui.qpic.cn^
 @@||puui.qpic.cn^$important
@@ -1796,7 +1773,6 @@
 @@||quark.sm.cn^
 @@||quark.sm.cn^$important
 @@||qun.qzone.qq.com^$important
-@@||quoracdn.net^
 @@||qwhdcdn.cmcc-cs.cn^
 @@||qy.163.com^
 @@||qzone-web-v2.cdn-go.cn^$important
@@ -1857,7 +1833,6 @@
 @@||s.mvconf.f.360.cn^
 @@||s.pximg.net^
 @@||s.ssl.qhres2.com^$important
-@@||s.yimg.com^
 @@||s0.2mdn.net^
 @@||s0.meituan.net^
 @@||s01.mifile.cn^
@@ -1875,7 +1850,6 @@
 @@||s3plus-img.meituan.net^
 @@||s3plus.meituan.net^
 @@||s4.cnzz.com^$important
-@@||samsungknox.com^
 @@||saomiao.51240.com^$important
 @@||saomiao.bmcx.com^$important
 @@||saucenao.com^
@@ -1958,7 +1932,6 @@
 @@||soft.tbs.imtt.qq.com^$important
 @@||sogoucdn.com^$important
 @@||soup.v.qq.com^
-@@||sourl.cn^
 @@||sourl.cn^$important
 @@||south-plus.net^
 @@||souti-ims.sm.cn^
@@ -2018,7 +1991,6 @@
 @@||static.e.189.cn^$important
 @@||static.hdslb.com^
 @@||static.iask.cn^$important
-@@||static.inkuai.com^
 @@||static.iqiyi.com^
 @@||static.iqiyi.com^$important
 @@||static.miraheze.org^
@@ -2132,7 +2104,6 @@
 @@||tianshu.gtimg.cn^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
-@@||tinyurl.com^
 @@||tn.txxx.tube^
 @@||tnc11-bjlgy.zijieapi.com^
 @@||tnc16-platform-useast1a.tiktokv.com^$important
@@ -2140,7 +2111,6 @@
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tom.163.com^
 @@||tongji.flash.cn^$important
-@@||tool.lu^
 @@||toonily.com^
 @@||toonily.me^
 @@||top.17173.com^
@@ -2148,9 +2118,6 @@
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
 @@||toutiaocdn.com^$important
-@@||toutiaostatic.com^
-@@||tpns.sh.tencent.com^
-@@||tpns.tencent.com^
 @@||tpstelemetry.tencent.com^$important
 @@||track.sohu.com^
 @@||tracker.ai.xiaomi.com^
@@ -2164,7 +2131,6 @@
 @@||tsis.jpush.cn^$important
 @@||ttwid.bytedance.com^
 @@||tube.e.kuaishou.com^$important
-@@||tuisong.baidu.com^
 @@||tunion-api.m.taobao.com^
 @@||turing.captcha.gtimg.com^$important
 @@||tv.2345.com^
@@ -2208,7 +2174,6 @@
 @@||uop.quark.cn^
 @@||up.cm.ksmobile.com^$important
 @@||upage.imtt.qq.com^$important
-@@||updata.miui.com^
 @@||update.360safe.com^
 @@||update.miui.com^$important
 @@||updateinfo.market.xiaomi.com^
@@ -2321,7 +2286,6 @@
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important
 @@||wbapp.mobile.sina.cn^$important
-@@||we.tl^
 @@||we.tl^$important
 @@||weatherapi.market.xiaomi.com^
 @@||web.vip.miui.com^$important
@@ -2405,7 +2369,6 @@
 @@||www.douyin.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^$important
-@@||www.e0734.com^
 @@||www.easyicon.net^$important
 @@||www.ero-labs.com^
 @@||www.ferrari.com^
@@ -2511,13 +2474,11 @@
 @@||x0.ifengimg.com^
 @@||x19.update.netease.com^
 @@||x6img.com^
-@@||xhslink.com^
 @@||xhslink.com^$important
 @@||xiaoshuo.wtzw.com^$important
 @@||xifuquan.com^
 @@||xj-n-tax.gov.cn^
 @@||xlivesex.com^
-@@||xmpush.xiaomi.com^
 @@||xn--cp3a08l.com^
 @@||xn--l6qx3l9s1a.com^
 @@||xn--mes358aby2apfg.com^
@@ -2546,7 +2507,6 @@
 @@||youtu.be^$important
 @@||youtubei.googleapis.com^$important
 @@||yoyodadada.lanzouw.com^$important
-@@||yqc-premium.me^
 @@||ysf.qiyukf.net^
 @@||yule.sohu.com^
 @@||yun.duiba.com.cn^
