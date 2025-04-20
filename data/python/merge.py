@@ -21,9 +21,8 @@ def clean_rules(input_file, output_file):
     print(f"清理规则文件 {input_file}")
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
-    # 移除注释和无效的行
-    content = re.sub(r'^[!].*$', '', content, flags=re.MULTILINE)  # 以 ! 开头的行
-    content = re.sub(r'^#(?!\s*#).*$', '', content, flags=re.MULTILINE)  # 单井号注释行
+    # 移除注释和特定格式的行
+    content = re.sub(r'^\s*[!#\[].*$', '', content, flags=re.MULTILINE)  # 以 !、#、[ 开头的行
     content = re.sub(r'^\s*$', '', content, flags=re.MULTILINE)  # 空行
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(content)
