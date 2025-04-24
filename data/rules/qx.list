@@ -1308,6 +1308,7 @@ DOMAIN,analy.qq.com,reject
 DOMAIN,analy.tuniu.cn,reject
 DOMAIN,analyse.weather.com.cn,reject
 DOMAIN,analysis-acc-ssl.xunlei.com,reject
+DOMAIN,analysis.chatglm.cn,reject
 DOMAIN,analysis.yozocloud.cn,reject
 DOMAIN,analytics-api.samsunghealthcn.com,reject
 DOMAIN,analytics-sg.tiktok.com,reject
@@ -1535,6 +1536,7 @@ DOMAIN,applog.snssdk.com,reject
 DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.ucdns.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
+DOMAIN,applovin.com,reject
 DOMAIN,appmetrica.yandex.ru,reject
 DOMAIN,appmobile.cn,reject
 DOMAIN,apppush.xiaohongshu.com,reject
@@ -2018,6 +2020,7 @@ DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn-api-verify.mob.com,reject
 DOMAIN,cdn-asp.yiye.ai,reject
 DOMAIN,cdn-cbd-advert-prod.shuxinyc.com,reject
+DOMAIN,cdn-f.adsmoloco.com,reject
 DOMAIN,cdn-new-ad.wtzw.com.g4.bdydns.com,reject
 DOMAIN,cdn-new-ad.wtzw.com,reject
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
@@ -2034,6 +2037,7 @@ DOMAIN,cdn.dashenya.com,reject
 DOMAIN,cdn.hanaya-m.com,reject
 DOMAIN,cdn.holmesmind.com,reject
 DOMAIN,cdn.hpplay.com.cn,reject
+DOMAIN,cdn.iads.unitychina.cn,reject
 DOMAIN,cdn.inads.cn,reject
 DOMAIN,cdn.itphanpytor.club,reject
 DOMAIN,cdn.jquery-cdn.cc,reject
@@ -2211,6 +2215,7 @@ DOMAIN,comp.360os.com,reject
 DOMAIN,compliance.tdos.qq.com,reject
 DOMAIN,config.ads.vungle.com,reject
 DOMAIN,config.chsmarttv.com,reject
+DOMAIN,config.inmobi.com,reject
 DOMAIN,config.mobisage.cn,reject
 DOMAIN,config.unityads.unity3d.com,reject
 DOMAIN,configsvr.msf.3g.qq.com,reject
@@ -2312,6 +2317,8 @@ DOMAIN,czd367.com,reject
 DOMAIN,czghjt.com,reject
 DOMAIN,d*-m.dewu.net,reject
 DOMAIN,d-test.39.net,reject
+DOMAIN,d.applovin.com,reject
+DOMAIN,d.applvn.com,reject
 DOMAIN,d.gdt.qq.com,reject
 DOMAIN,d.kugou.com,reject
 DOMAIN,d.toutiao.com,reject
@@ -2857,6 +2864,7 @@ DOMAIN,esm.baidu.com,reject
 DOMAIN,esmapi.dangbei.net,reject
 DOMAIN,estcruden.biz,reject
 DOMAIN,esw.tymcdn.com,reject
+DOMAIN,et-eus.w.inmobi.com,reject
 DOMAIN,et.tanx.com,reject
 DOMAIN,etahub.com,reject
 DOMAIN,etest.dangcdn.com,reject
@@ -3265,6 +3273,7 @@ DOMAIN,gpanaiagcsnvtggh.cwt3.xyz,reject
 DOMAIN,gpxxbyf.cn,reject
 DOMAIN,gqdfgyz.cn,reject
 DOMAIN,grandcomms.cn,reject
+DOMAIN,graph.facebook.com,reject
 DOMAIN,grduswfx.com,reject
 DOMAIN,greatnumeric.com,reject
 DOMAIN,greenxcx.com,reject
@@ -3667,6 +3676,8 @@ DOMAIN,i-fk.cn,reject
 DOMAIN,i-game.book.qq.com,reject
 DOMAIN,i.cidianwang.com,reject
 DOMAIN,i.gdt.qq.com,reject
+DOMAIN,i.l-new.inmobicdn.net,reject
+DOMAIN,i.l.inmobicdn.net,reject
 DOMAIN,i.snssdk.com,reject
 DOMAIN,i.vip.iqiyi.com,reject
 DOMAIN,i3fei057.top,reject
@@ -3798,6 +3809,7 @@ DOMAIN,imp.voiceads.cn,reject
 DOMAIN,imp.zol.com.cn,reject
 DOMAIN,impression-asia.chinaliftoff.io,reject
 DOMAIN,impression-asia.liftoff.io,reject
+DOMAIN,impression.appsflyer.com,reject
 DOMAIN,impression.biligame.com,reject
 DOMAIN,imtmp.net,reject
 DOMAIN,in-addr.arpa,reject
@@ -5004,6 +5016,10 @@ DOMAIN,mrhboe.xyz,reject
 DOMAIN,mrqbuf.xyz,reject
 DOMAIN,mryshl.com,reject
 DOMAIN,ms-ads-monitoring-events.presage.io,reject
+DOMAIN,ms.applovin.com,reject
+DOMAIN,ms.applvn.com,reject
+DOMAIN,ms4.applovin.com,reject
+DOMAIN,ms4.applvn.com,reject
 DOMAIN,msch.f.360.cn,reject
 DOMAIN,msdk.qq.com,reject
 DOMAIN,msdk.voiceads.cn,reject
@@ -5250,6 +5266,7 @@ DOMAIN,nyvgbt.xyz,reject
 DOMAIN,nzrlx6wc.icu,reject
 DOMAIN,nzrovf.xyz,reject
 DOMAIN,nzymeedg.icu,reject
+DOMAIN,o-sdk.mediation.unity3d.com,reject
 DOMAIN,o.iads.unity3d.com,reject
 DOMAIN,o.zjjrlx4.com,reject
 DOMAIN,o1098464.ingest.sentry.io,reject
@@ -5724,6 +5741,7 @@ DOMAIN,privacy.qq.com,reject
 DOMAIN,prlioxb.cn,reject
 DOMAIN,pro.bugly.qq.com,reject
 DOMAIN,procdn.asia,reject
+DOMAIN,prod-mediate-events.applovin.com,reject
 DOMAIN,prodigalpromotion.com,reject
 DOMAIN,proesh.com,reject
 DOMAIN,proesh.com,reject
@@ -6039,6 +6057,7 @@ DOMAIN,report.tv.kohesport.qq.com,reject
 DOMAIN,report.vip.qq.com,reject
 DOMAIN,reportlog.dftoutiao.com,reject
 DOMAIN,res.kekedy.app,reject
+DOMAIN,res1.applovin.com,reject
 DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
 DOMAIN,resolver.msg.global.xiaomi.net,reject
@@ -6117,6 +6136,7 @@ DOMAIN,rssxsjh.icu,reject
 DOMAIN,rsvqlz.cn,reject
 DOMAIN,rszkhn.xyz,reject
 DOMAIN,rt.applovin.com,reject
+DOMAIN,rt.applvn.com,reject
 DOMAIN,rtb.voiceads.cn,reject
 DOMAIN,rtborp.xyz,reject
 DOMAIN,rte.fuoo1.top,reject
@@ -6264,6 +6284,7 @@ DOMAIN,sdk-infra.inmobi.cn,reject
 DOMAIN,sdk-log.partner.sm.cn,reject
 DOMAIN,sdk-open-phone.getui.com,reject
 DOMAIN,sdk.1rtb.net,reject
+DOMAIN,sdk.ad.smaato.net,reject
 DOMAIN,sdk.adtiming.com,reject
 DOMAIN,sdk.alibaba.com.ailbaba.me,reject
 DOMAIN,sdk.api.oaid.wocloud.cn,reject
@@ -6631,6 +6652,7 @@ DOMAIN,sun66387567606.online,reject
 DOMAIN,sun66387567606.site,reject
 DOMAIN,sunriseoutdoor.cn,reject
 DOMAIN,superbdolly.com,reject
+DOMAIN,supply.inmobicdn.net,reject
 DOMAIN,supportmetrics.apple.com,reject
 DOMAIN,surface361.com,reject
 DOMAIN,surperverse.com,reject
@@ -6675,6 +6697,7 @@ DOMAIN,t*-m.dewu.net,reject
 DOMAIN,t-dsp.pinduoduo.com,reject
 DOMAIN,t-qmad.qimao.com,reject
 DOMAIN,t-remad.qm989.com,reject
+DOMAIN,t.applovin.com,reject
 DOMAIN,t.atomicfile.cn,reject
 DOMAIN,t.dentsuchina.cn,reject
 DOMAIN,t.gdt.qq.com,reject
@@ -6746,6 +6769,7 @@ DOMAIN,telecome.cn,reject
 DOMAIN,telemetry-sdk-metrics.inmobi.cn,reject
 DOMAIN,telemetry.microsoft.com,reject
 DOMAIN,telemetry.remoteapp.windowsazure.com,reject
+DOMAIN,telemetry.sdk.inmobi.com,reject
 DOMAIN,telemetry.urs.microsoft.com,reject
 DOMAIN,temai.snssdk.com,reject
 DOMAIN,ten.sngapm.qq.com,reject
@@ -6918,6 +6942,7 @@ DOMAIN,tqdpqq.com,reject
 DOMAIN,tqmcj.cn,reject
 DOMAIN,tquspo.com,reject
 DOMAIN,tqytqdrq.icu,reject
+DOMAIN,tr-asia.adsmoloco.com,reject
 DOMAIN,tr.byteurl.cn,reject
 DOMAIN,tr.iadsdk.apple.com,reject
 DOMAIN,trace.qq.com,reject
@@ -7661,6 +7686,7 @@ DOMAIN,wuji.video.qq.com,reject
 DOMAIN,wuk.91c0218.top,reject
 DOMAIN,wuliao.jingyanben.com,reject
 DOMAIN,wuplexv.cn,reject
+DOMAIN,wv.inner-active.mobi,reject
 DOMAIN,wvyqks.xyz,reject
 DOMAIN,ww-7o1-0h.os.23v7m9.cc,reject
 DOMAIN,wwads.cn,reject
