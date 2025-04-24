@@ -1172,6 +1172,7 @@ DOMAIN,adx-track.domob.cn,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
 DOMAIN,adx.apiok.net,reject
+DOMAIN,adx.appsdk.com.cn,reject
 DOMAIN,adx.halomobi.com,reject
 DOMAIN,adx.maplehaze.cn,reject
 DOMAIN,adx.op.cp18.ott.cibntv.net,reject
@@ -1430,6 +1431,7 @@ DOMAIN,api.euro.hismarttv.com,reject
 DOMAIN,api.faba.pw,reject
 DOMAIN,api.fanqiesdk.com,reject
 DOMAIN,api.fqnovel.com,reject
+DOMAIN,api.fu.xcultur.com,reject
 DOMAIN,api.globalphone.hismarttv.com,reject
 DOMAIN,api.higame.hismarttv.com,reject
 DOMAIN,api.hismarttv.com,reject
@@ -1458,6 +1460,7 @@ DOMAIN,api.scwsf.com,reject
 DOMAIN,api.sec.miui.com,reject
 DOMAIN,api.share.mob.com,reject
 DOMAIN,api.sm.cn,reject
+DOMAIN,api.ssp.xcultur.com,reject
 DOMAIN,api.statsig.com,reject
 DOMAIN,api.tencentmusic.com,reject
 DOMAIN,api.th.wanzjhb.com,reject
@@ -7284,6 +7287,7 @@ DOMAIN,v*-ad.video.yximgs.com,reject
 DOMAIN,v*-be-pack.pglstatp-toutiao.com,reject
 DOMAIN,v*-novelapp.fqnovelvod.com,reject
 DOMAIN,v*.gdt.qq.com,reject
+DOMAIN,v.110route.cn,reject
 DOMAIN,v.adintl.cn,reject
 DOMAIN,v.adx.hubcloud.com.cn,reject
 DOMAIN,v.gdt.qq.com,reject
@@ -8233,6 +8237,7 @@ DOMAIN,ytelc.com,reject
 DOMAIN,ytqeavc.icu,reject
 DOMAIN,ytqlyw.xyz,reject
 DOMAIN,ytvwhbejc.com,reject
+DOMAIN,ytx-file.110route.cn,reject
 DOMAIN,yuanlin15.cn,reject
 DOMAIN,yuanmengbi.com,reject
 DOMAIN,yuanxiang19.fun,reject
