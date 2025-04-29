@@ -766,6 +766,7 @@ DOMAIN,ad.doubleclick.net,reject
 DOMAIN,ad.duapps.com,reject
 DOMAIN,ad.e.kuaishou.com,reject
 DOMAIN,ad.gamebox.360.cn,reject
+DOMAIN,ad.gameley.com,reject
 DOMAIN,ad.gtbrowser.com,reject
 DOMAIN,ad.holmesmind.com,reject
 DOMAIN,ad.hpplay.cn,reject
@@ -1177,6 +1178,7 @@ DOMAIN,adx.halomobi.com,reject
 DOMAIN,adx.maplehaze.cn,reject
 DOMAIN,adx.op.cp18.ott.cibntv.net,reject
 DOMAIN,adx.sogaha.cn,reject
+DOMAIN,adx.tuia.cn,reject
 DOMAIN,adx.xiaodutv.com,reject
 DOMAIN,adx.zuoyebang.com,reject
 DOMAIN,adxlog-adnet.vivo.com.cn,reject
