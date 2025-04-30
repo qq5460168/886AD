@@ -64,10 +64,9 @@ allow = [
 "https://raw.githubusercontent.com/user001235/112/main/white.txt",
 "https://ghp.ci/https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
 "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
-"https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt",
+"",
 "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
 "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt",
-
 "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
 ]
 
