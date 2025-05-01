@@ -768,6 +768,7 @@ DOMAIN,ad.e.kuaishou.com,reject
 DOMAIN,ad.gamebox.360.cn,reject
 DOMAIN,ad.gameley.com,reject
 DOMAIN,ad.gtbrowser.com,reject
+DOMAIN,ad.guangggao.eee114.com,reject
 DOMAIN,ad.holmesmind.com,reject
 DOMAIN,ad.hpplay.cn,reject
 DOMAIN,ad.hzyoka.com,reject
@@ -792,6 +793,7 @@ DOMAIN,ad.richmob.cn,reject
 DOMAIN,ad.seeyouyima.com,reject
 DOMAIN,ad.shunchangzhixing.com,reject
 DOMAIN,ad.sitemaji.com,reject
+DOMAIN,ad.smaato.net,reject
 DOMAIN,ad.sohu.com,reject
 DOMAIN,ad.tencentmusic.com,reject
 DOMAIN,ad.tianmu.mobi,reject
@@ -813,6 +815,7 @@ DOMAIN,ad.xmmnsd.com,reject
 DOMAIN,ad.xmmnsl.com,reject
 DOMAIN,ad.xunkids.com,reject
 DOMAIN,ad.youku.com,reject
+DOMAIN,ad.zhangyue.com,reject
 DOMAIN,ad.zhuanzhuan.com,reject
 DOMAIN,ad.zijieapi.com,reject
 DOMAIN,ad1.xiaomi.com,reject
@@ -1001,7 +1004,6 @@ DOMAIN,ads.union.jd.com,reject
 DOMAIN,ads.uutest.cn,reject
 DOMAIN,ads.v3mh.com,reject
 DOMAIN,ads.vserv.mobi,reject
-DOMAIN,ads.vungle.com,reject
 DOMAIN,ads.yahoo.com,reject
 DOMAIN,ads.yap.yahoo.com,reject
 DOMAIN,ads.yieldmo.com,reject
@@ -7944,6 +7946,7 @@ DOMAIN,xfztgxt.com,reject
 DOMAIN,xgnsvx.stwqhfi.cn,reject
 DOMAIN,xgzdys.com,reject
 DOMAIN,xh990214c.llpstudy.top,reject
+DOMAIN,xhcdn.com,reject
 DOMAIN,xheqbc.cn,reject
 DOMAIN,xhiit0n.xyz,reject
 DOMAIN,xhkvff.cn,reject
