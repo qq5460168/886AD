@@ -983,6 +983,7 @@ DOMAIN,ads.oppomobile.com,reject
 DOMAIN,ads.pinterest.com,reject
 DOMAIN,ads.privacy.qq.com,reject
 DOMAIN,ads.pubmatic.com,reject
+DOMAIN,ads.raidrive.com,reject
 DOMAIN,ads.reader.yueyouxs.com,reject
 DOMAIN,ads.servebom.com,reject
 DOMAIN,ads.service.kugou.com,reject
@@ -5511,6 +5512,7 @@ DOMAIN,partner.uc.cn,reject
 DOMAIN,partnerads-test.ysm.yahoo.net,reject
 DOMAIN,partnerads.ysm.yahoo.com,reject
 DOMAIN,passport.kuaishou.com,reject
+DOMAIN,pay.sboot.cn,reject
 DOMAIN,payoneok.com,reject
 DOMAIN,pbaiyho.cn,reject
 DOMAIN,pbtsjh.xyz,reject
