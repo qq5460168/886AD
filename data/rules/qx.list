@@ -711,7 +711,6 @@ DOMAIN,ad-display.diwodiwo.xyz,reject
 DOMAIN,ad-display.wikawika.xyz,reject
 DOMAIN,ad-download.hismarttv.com,reject
 DOMAIN,ad-drs.52qumao.com,reject
-DOMAIN,ad-experience.bytedance.com,reject
 DOMAIN,ad-ga.nocode.com,reject
 DOMAIN,ad-ggtg-api.37.com.cn,reject
 DOMAIN,ad-h5-cdn.soulapp.cn,reject
@@ -5390,7 +5389,6 @@ DOMAIN,p1-play.edge4k.com,reject
 DOMAIN,p1-play.kgslb.com,reject
 DOMAIN,p1.adkwai.com,reject
 DOMAIN,p10528-ad-server.ejoy.com,reject
-DOMAIN,p11-webcast-sign.douyinpic.com,reject
 DOMAIN,p11q.cn,reject
 DOMAIN,p13n-mr.adobe.io,reject
 DOMAIN,p13n.adobe.io,reject
@@ -6276,9 +6274,7 @@ DOMAIN,sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com,reject
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,sf3-ttcdn-tos.pstatp.com,reject
 DOMAIN,sf6-be-pack.pglstatp-toutiao.com,reject
-DOMAIN,sf6-cdn-tos.bdxiguastatic.com,reject
 DOMAIN,sf6-fe-pack.pglstatp-toutiao.com,reject
-DOMAIN,sf6-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,sf6-ttcdn-tos.pstatp.com,reject
 DOMAIN,sfbixfd.cn,reject
 DOMAIN,sfg11rr.com,reject
@@ -7282,7 +7278,6 @@ DOMAIN,vertical-play.iqiyi.com,reject
 DOMAIN,vexilorath.com,reject
 DOMAIN,vf.kkys5.com,reject
 DOMAIN,vf.kkys6.com,reject
-DOMAIN,vfiles.gtimg.cn,reject
 DOMAIN,vfjsa6do.icu,reject
 DOMAIN,vfrdewsdg.xyz,reject
 DOMAIN,vfsdgjrr.xyz,reject
