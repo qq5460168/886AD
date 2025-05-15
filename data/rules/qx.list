@@ -1,5 +1,6 @@
 DOMAIN,*-*.ad*kwai.com,reject
 DOMAIN,*-*.ap-east-1.elb.amazonaws.com,reject
+DOMAIN,*-*.ap-northeast-2.elb.amazonaws.com,reject
 DOMAIN,*-*.ap-southeast-1.elb.amazonaws.com,reject
 DOMAIN,*-ad-sign.byteimg.com,reject
 DOMAIN,*-ad.a.yximgs.com,reject
@@ -18,6 +19,7 @@ DOMAIN,*.233lyly.cn,reject
 DOMAIN,*.233lyly.com,reject
 DOMAIN,*.2b4dlx.com,reject
 DOMAIN,*.2wa9vg.com,reject
+DOMAIN,*.31xx958d.cc,reject
 DOMAIN,*.365dmp.com,reject
 DOMAIN,*.3adtjg.com,reject
 DOMAIN,*.3dqvcli.xyz,reject
@@ -46,6 +48,7 @@ DOMAIN,*.bgbjjtd.com,reject
 DOMAIN,*.bidjora.com,reject
 DOMAIN,*.bjmantis.net,reject
 DOMAIN,*.bjnxo.cn,reject
+DOMAIN,*.bllst.cn,reject
 DOMAIN,*.cmgadx.com,reject
 DOMAIN,*.cyfupnq.com,reject
 DOMAIN,*.diwodiwo.xyz,reject
@@ -64,6 +67,7 @@ DOMAIN,*.gdt.qq.com,reject
 DOMAIN,*.giqnyl.cn,reject
 DOMAIN,*.hrdhej.xyz,reject
 DOMAIN,*.hubcloud.com.cn,reject
+DOMAIN,*.hychwg.cyou,reject
 DOMAIN,*.iburtq.xyz,reject
 DOMAIN,*.ifllqc.cn,reject
 DOMAIN,*.javadvi.com,reject
@@ -78,6 +82,7 @@ DOMAIN,*.kxayxw.cn,reject
 DOMAIN,*.laebu.cn,reject
 DOMAIN,*.lxclli.cn,reject
 DOMAIN,*.lzwrhiw.xyz,reject
+DOMAIN,*.md410.cc,reject
 DOMAIN,*.mise*.buzz,reject
 DOMAIN,*.n8pnux.com,reject
 DOMAIN,*.njp878.com,reject
@@ -114,10 +119,13 @@ DOMAIN,*.va.huya.com,reject
 DOMAIN,*.vegslb.com,reject
 DOMAIN,*.vkomjd.com,reject
 DOMAIN,*.voiceads.cn,reject
+DOMAIN,*.wacaoldy1.com,reject
 DOMAIN,*.weilayun.com,reject
 DOMAIN,*.wfojsm.com,reject
+DOMAIN,*.wy2qq.top,reject
 DOMAIN,*.x586di.com,reject
 DOMAIN,*.xqojux.xyz,reject
+DOMAIN,*.y80iwf.cyou,reject
 DOMAIN,*.ydxdg.xyz,reject
 DOMAIN,*.yinghua-*.cc,reject
 DOMAIN,*.z9ehxz.com,reject
@@ -200,6 +208,7 @@ DOMAIN,08de583.p0nkhy03m.top,reject
 DOMAIN,093yuht.com,reject
 DOMAIN,096iokj.com,reject
 DOMAIN,09jsufg.com,reject
+DOMAIN,0c4d3f6.*.com,reject
 DOMAIN,0er7pc8.xyz,reject
 DOMAIN,0krdn3.com,reject
 DOMAIN,0m483y7.cn,reject
@@ -464,6 +473,7 @@ DOMAIN,670t5x.cn,reject
 DOMAIN,67it.com,reject
 DOMAIN,68710266.com,reject
 DOMAIN,688mob.com,reject
+DOMAIN,698444.lol,reject
 DOMAIN,69852b1734.com,reject
 DOMAIN,69e7.fun,reject
 DOMAIN,69mok.com,reject
@@ -536,6 +546,7 @@ DOMAIN,830sp.com,reject
 DOMAIN,831kaiyun.net,reject
 DOMAIN,84893573.com,reject
 DOMAIN,84zm8.xyz,reject
+DOMAIN,8516.fun,reject
 DOMAIN,85795.today,reject
 DOMAIN,86649334.com,reject
 DOMAIN,87012670.com,reject
@@ -3464,6 +3475,7 @@ DOMAIN,hkkeafj.cn,reject
 DOMAIN,hkrpg-log-upload-os.hoyoverse.com,reject
 DOMAIN,hkrpg-log-upload.mihoyo.com,reject
 DOMAIN,hkscldggm.xyz,reject
+DOMAIN,hkw27.icu,reject
 DOMAIN,hladalliance.com,reject
 DOMAIN,hlalliances.com,reject
 DOMAIN,hlbbn6ii.icu,reject
@@ -4173,6 +4185,7 @@ DOMAIN,kkisoo.com,reject
 DOMAIN,kkjshsj.com,reject
 DOMAIN,kklpe.xyz,reject
 DOMAIN,kklq05121p0i.com,reject
+DOMAIN,kklq05151p0i.com,reject
 DOMAIN,kkmbbvz.xyz,reject
 DOMAIN,kkpgv2.xunlei.com,reject
 DOMAIN,kksdk.tapque.com,reject
@@ -4683,6 +4696,7 @@ DOMAIN,m3.mmsp062.top,reject
 DOMAIN,m3hual.89doc.com,reject
 DOMAIN,m4pgay.com,reject
 DOMAIN,m5asa4.xianxin.cc,reject
+DOMAIN,m69e.cyou,reject
 DOMAIN,m7.bnpkxgfp.xyz,reject
 DOMAIN,m7g2v1b9.com,reject
 DOMAIN,ma-adx.ctrip.com,reject
@@ -5264,6 +5278,7 @@ DOMAIN,omgmta.play.ott.video.qq.com,reject
 DOMAIN,omgmta.qq.com,reject
 DOMAIN,omgmta1.qq.com,reject
 DOMAIN,omhoa.com,reject
+DOMAIN,ommbqw.icu,reject
 DOMAIN,omsdkapi.tapque.com,reject
 DOMAIN,oncinu.com,reject
 DOMAIN,one.fsylr.com,reject
@@ -5486,6 +5501,7 @@ DOMAIN,passport.kuaishou.com,reject
 DOMAIN,pay.sboot.cn,reject
 DOMAIN,payoneok.com,reject
 DOMAIN,pbaiyho.cn,reject
+DOMAIN,pbdhsolmxw1.com,reject
 DOMAIN,pbtsjh.xyz,reject
 DOMAIN,pcbrowser.dd.qq.com,reject
 DOMAIN,pcdn-monitor.cdn.bcebos.com,reject
@@ -6294,6 +6310,7 @@ DOMAIN,sf6-fe-pack.pglstatp-toutiao.com,reject
 DOMAIN,sf6-ttcdn-tos.pstatp.com,reject
 DOMAIN,sfbixfd.cn,reject
 DOMAIN,sfg11rr.com,reject
+DOMAIN,sfh35.icu,reject
 DOMAIN,sfl-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,sfn.opposhop.cn,reject
 DOMAIN,sfp.safe.baidu.com,reject
@@ -6726,6 +6743,7 @@ DOMAIN,thezbpe5*.xyz,reject
 DOMAIN,thind.unityads.unity3d.com,reject
 DOMAIN,thinkmd.cn,reject
 DOMAIN,thoohizoogli.xyz,reject
+DOMAIN,thu15.*.com,reject
 DOMAIN,thvx9i.icu,reject
 DOMAIN,tiandesign.top,reject
 DOMAIN,tiandiren0031.xyz,reject
@@ -7585,6 +7603,7 @@ DOMAIN,wuplexv.cn,reject
 DOMAIN,wv.inner-active.mobi,reject
 DOMAIN,wvyqks.xyz,reject
 DOMAIN,ww-7o1-0h.os.23v7m9.cc,reject
+DOMAIN,ww.wcav495.vip,reject
 DOMAIN,wwads.cn,reject
 DOMAIN,wwggnaw.xyz,reject
 DOMAIN,wwgqqq.com,reject
@@ -7670,7 +7689,9 @@ DOMAIN,www.jipinyouwu.com,reject
 DOMAIN,www.jmine.cn,reject
 DOMAIN,www.jtlopk.xyz,reject
 DOMAIN,www.kanglingjiu.com,reject
+DOMAIN,www.kca8531.cc,reject
 DOMAIN,www.kcc4445.top,reject
+DOMAIN,www.kdu4127.cc,reject
 DOMAIN,www.kowqd3.top,reject
 DOMAIN,www.kowqd9.top,reject
 DOMAIN,www.kp12a.top,reject
